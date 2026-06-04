@@ -1,0 +1,13 @@
+name: Tín hiệu kích hoạt từ xem_football
+
+on:
+  push:
+    paths:
+      - 'All_CHANNEL.m3u' # Kích hoạt ngay khi PC push file này lên
+
+jobs:
+  ping-xembongda:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gửi tín hiệu thông báo
+        run: echo "Đã ghi nhận All_CHANNEL.m3u mới. Đang chuyển tiếp luồng cho xembongda..."
