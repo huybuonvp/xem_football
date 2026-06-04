@@ -2793,7 +2793,7 @@
                           "name": "Link Phát",
                           "type": "flv",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780554199-0-0-0ed492487bf82caeb808360306c8c7c5",
+                          "url": "https://pull06.scstream.net/live/stream-175784_lsd.flv?auth_key=1780555279-0-0-9fb4923933c6f244bd020a92b3e8802c",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -2846,7 +2846,7 @@
                           "name": "Link Phát",
                           "type": "flv",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780554199-0-0-f21633835501ae46fb1d6e1df72bdd1d",
+                          "url": "https://pull06.scstream.net/live/stream-175784_lhd.flv?auth_key=1780555279-0-0-e5a7f184317cf6934fd79ec0d8ddefa5",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -2861,7 +2861,7 @@
         },
         {
           "id": "channel-53",
-          "name": "BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) hdM3u8",
+          "name": "BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2888,7 +2888,7 @@
               "contents": [
                 {
                   "id": "content-53",
-                  "name": "BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) hdM3u8",
+                  "name": "BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) m3u8",
                   "streams": [
                     {
                       "id": "stream-53",
@@ -2899,7 +2899,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780554199-0-0-ee578786e9443039ae78ff60ba3b08f0",
+                          "url": "https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1780555279-0-0-e26f886436a6c0532e4795d2a79c64e9",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -2914,7 +2914,7 @@
         },
         {
           "id": "channel-54",
-          "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) flv",
+          "name": "BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2941,7 +2941,7 @@
               "contents": [
                 {
                   "id": "content-54",
-                  "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) flv",
+                  "name": "BIT.LY/SOCOLIVE | BLV SOCOLIVE (Socolive) hdM3u8",
                   "streams": [
                     {
                       "id": "stream-54",
@@ -2950,9 +2950,9 @@
                         {
                           "id": "lnk-54",
                           "name": "Link Phát",
-                          "type": "flv",
+                          "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780554199-0-0-f05d8a0bff4881eda1eeb8ade34deae5",
+                          "url": "https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1780555279-0-0-fb58252a0bf3b44290a7ae2df3b597ff",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -2967,7 +2967,7 @@
         },
         {
           "id": "channel-55",
-          "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) hdFlv",
+          "name": "Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) flv",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2994,7 +2994,7 @@
               "contents": [
                 {
                   "id": "content-55",
-                  "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) hdFlv",
+                  "name": "Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) flv",
                   "streams": [
                     {
                       "id": "stream-55",
@@ -3005,7 +3005,7 @@
                           "name": "Link Phát",
                           "type": "flv",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1780554199-0-0-9ec405e76e5f7da5aead835daa28cf5e",
+                          "url": "https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1780555279-0-0-5caf74bb58e2a0366ce4817b1e274618",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3020,7 +3020,7 @@
         },
         {
           "id": "channel-56",
-          "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) m3u8",
+          "name": "Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) hdFlv",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3047,7 +3047,7 @@
               "contents": [
                 {
                   "id": "content-56",
-                  "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) m3u8",
+                  "name": "Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) hdFlv",
                   "streams": [
                     {
                       "id": "stream-56",
@@ -3056,9 +3056,9 @@
                         {
                           "id": "lnk-56",
                           "name": "Link Phát",
-                          "type": "hls",
+                          "type": "flv",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780554199-0-0-a77db4fb4cd54c4d8875597be1bc6c0d",
+                          "url": "https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1780555279-0-0-6a615e258ac2440f72a09feb6adc47b3",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3073,7 +3073,7 @@
         },
         {
           "id": "channel-57",
-          "name": "Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) flv",
+          "name": "Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3100,7 +3100,7 @@
               "contents": [
                 {
                   "id": "content-57",
-                  "name": "Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) flv",
+                  "name": "Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) m3u8",
                   "streams": [
                     {
                       "id": "stream-57",
@@ -3109,9 +3109,9 @@
                         {
                           "id": "lnk-57",
                           "name": "Link Phát",
-                          "type": "flv",
+                          "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-133277_lsd.flv?auth_key=1780554199-0-0-7f14a0bdea73cbf44b99799746011973",
+                          "url": "https://pull.niues.live/live/stream-133277_lsd.m3u8?auth_key=1780555279-0-0-255b072d95e21ad1c4a253b19e3c2172",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3126,7 +3126,7 @@
         },
         {
           "id": "channel-58",
-          "name": "Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) hdFlv",
+          "name": "Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3153,7 +3153,7 @@
               "contents": [
                 {
                   "id": "content-58",
-                  "name": "Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) hdFlv",
+                  "name": "Tường thuật: INTERF - Denmark vs Democratic Republic of the Congo | BLV Sóc Nhó Nhịu Nhô Nhùng (Socolive) hdM3u8",
                   "streams": [
                     {
                       "id": "stream-58",
@@ -3162,9 +3162,9 @@
                         {
                           "id": "lnk-58",
                           "name": "Link Phát",
-                          "type": "flv",
+                          "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-133277_lhd.flv?auth_key=1780554199-0-0-6770396335952137c64d9de028dd47ea",
+                          "url": "https://pull.niues.live/live/stream-133277_lhd.m3u8?auth_key=1780555279-0-0-a3ee224757fe364a31d30ac91a369af7",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3179,7 +3179,7 @@
         },
         {
           "id": "channel-59",
-          "name": "Tường thuật: INTERF - Philippines vs Guam Island | BLV Sóc nhàm nhang nhồ (Socolive) flv",
+          "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) flv",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3206,7 +3206,7 @@
               "contents": [
                 {
                   "id": "content-59",
-                  "name": "Tường thuật: INTERF - Philippines vs Guam Island | BLV Sóc nhàm nhang nhồ (Socolive) flv",
+                  "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) flv",
                   "streams": [
                     {
                       "id": "stream-59",
@@ -3217,7 +3217,7 @@
                           "name": "Link Phát",
                           "type": "flv",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1780554199-0-0-3a1c699332dddeaf95912736a6f81852",
+                          "url": "https://pull06.scstream.net/live/stream-9912079_lsd.flv?auth_key=1780555279-0-0-3b627e09330b245d77eee320ad9d5b63",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3232,7 +3232,7 @@
         },
         {
           "id": "channel-60",
-          "name": "Tường thuật: INTERF - Philippines vs Guam Island | BLV Sóc nhàm nhang nhồ (Socolive) hdFlv",
+          "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) hdFlv",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3259,7 +3259,7 @@
               "contents": [
                 {
                   "id": "content-60",
-                  "name": "Tường thuật: INTERF - Philippines vs Guam Island | BLV Sóc nhàm nhang nhồ (Socolive) hdFlv",
+                  "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) hdFlv",
                   "streams": [
                     {
                       "id": "stream-60",
@@ -3270,7 +3270,7 @@
                           "name": "Link Phát",
                           "type": "flv",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780554199-0-0-fda13de8320d776a80ecdebb33bd0a2d",
+                          "url": "https://pull06.scstream.net/live/stream-9912079_lhd.flv?auth_key=1780555279-0-0-72bf50f4c991ac02c9693391cd0d32e0",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3285,7 +3285,7 @@
         },
         {
           "id": "channel-61",
-          "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) flv",
+          "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3312,7 +3312,7 @@
               "contents": [
                 {
                   "id": "content-61",
-                  "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) flv",
+                  "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) m3u8",
                   "streams": [
                     {
                       "id": "stream-61",
@@ -3321,9 +3321,9 @@
                         {
                           "id": "lnk-61",
                           "name": "Link Phát",
-                          "type": "flv",
+                          "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780554199-0-0-b780dc7ab05cf7fe9c3d014cd3ef4b60",
+                          "url": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1780555279-0-0-8ccf71b176df8ea78a9020aabfee8697",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3338,7 +3338,7 @@
         },
         {
           "id": "channel-62",
-          "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) hdFlv",
+          "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) hdM3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3365,7 +3365,7 @@
               "contents": [
                 {
                   "id": "content-62",
-                  "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) hdFlv",
+                  "name": "Tường thuật: TOUT - Cote d'Ivoire U23 vs Venezuela U20 | BLV Sóc trong rừng xà nu (Socolive) hdM3u8",
                   "streams": [
                     {
                       "id": "stream-62",
@@ -3374,9 +3374,9 @@
                         {
                           "id": "lnk-62",
                           "name": "Link Phát",
-                          "type": "flv",
+                          "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780554199-0-0-53a68f03f6538b1088f3cdfcf4685db0",
+                          "url": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1780555279-0-0-c87d06baba8e179197203b91bf809415",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3391,7 +3391,7 @@
         },
         {
           "id": "channel-63",
-          "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) hdM3u8",
+          "name": "Tường thuật: INTERF - Netherlands vs Algeria | BLV Sóc mèo méo meo (Socolive) flv",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3418,7 +3418,7 @@
               "contents": [
                 {
                   "id": "content-63",
-                  "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) hdM3u8",
+                  "name": "Tường thuật: INTERF - Netherlands vs Algeria | BLV Sóc mèo méo meo (Socolive) flv",
                   "streams": [
                     {
                       "id": "stream-63",
@@ -3427,9 +3427,9 @@
                         {
                           "id": "lnk-63",
                           "name": "Link Phát",
-                          "type": "hls",
+                          "type": "flv",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780554199-0-0-7978e65028b722d73a624db106fd03eb",
+                          "url": "https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1780555279-0-0-79de6add8bbbe3996fe30433459d5188",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3444,7 +3444,7 @@
         },
         {
           "id": "channel-64",
-          "name": "Tường thuật: INTERF - Netherlands vs Algeria | BLV Sóc mèo méo meo (Socolive) flv",
+          "name": "Tường thuật: INTERF - Netherlands vs Algeria | BLV Sóc mèo méo meo (Socolive) hdFlv",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3471,7 +3471,7 @@
               "contents": [
                 {
                   "id": "content-64",
-                  "name": "Tường thuật: INTERF - Netherlands vs Algeria | BLV Sóc mèo méo meo (Socolive) flv",
+                  "name": "Tường thuật: INTERF - Netherlands vs Algeria | BLV Sóc mèo méo meo (Socolive) hdFlv",
                   "streams": [
                     {
                       "id": "stream-64",
@@ -3482,7 +3482,7 @@
                           "name": "Link Phát",
                           "type": "flv",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-343500_lsd.flv?auth_key=1780554199-0-0-2419b9f06f4ec907e76e21863f4a81bc",
+                          "url": "https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1780555279-0-0-50d4b5e54324c975761bfbdf3d3ab510",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3497,7 +3497,7 @@
         },
         {
           "id": "channel-65",
-          "name": "Tường thuật: INTERF - Netherlands vs Algeria | BLV Sóc mèo méo meo (Socolive) hdFlv",
+          "name": "Tường thuật: INTERF - Netherlands vs Algeria | BLV Sóc mèo méo meo (Socolive) m3u8",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3524,7 +3524,7 @@
               "contents": [
                 {
                   "id": "content-65",
-                  "name": "Tường thuật: INTERF - Netherlands vs Algeria | BLV Sóc mèo méo meo (Socolive) hdFlv",
+                  "name": "Tường thuật: INTERF - Netherlands vs Algeria | BLV Sóc mèo méo meo (Socolive) m3u8",
                   "streams": [
                     {
                       "id": "stream-65",
@@ -3533,9 +3533,9 @@
                         {
                           "id": "lnk-65",
                           "name": "Link Phát",
-                          "type": "flv",
+                          "type": "hls",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-343500_lhd.flv?auth_key=1780554199-0-0-f1bfb9b55abac4505cdb1aa5aa6c0771",
+                          "url": "https://pull.niues.live/live/stream-343500_lsd.m3u8?auth_key=1780555279-0-0-5dd67dcaee2e89ca952bae0bd70d1c8d",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3588,7 +3588,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780554199-0-0-563b2a666e44d657d7e5461678871385",
+                          "url": "https://pull.niues.live/live/stream-343500_lhd.m3u8?auth_key=1780555279-0-0-e5c2964fc997648b06a1184feec1af9c",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3603,7 +3603,7 @@
         },
         {
           "id": "channel-67",
-          "name": "Tường thuật: INTERF - Panama vs Dominican Republic | BLV Sóc đau cổ vai gáy (Socolive) flv",
+          "name": "Tường thuật: INTERF - Philippines vs Guam Island | BLV Sóc nhàm nhang nhồ (Socolive) flv",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3630,7 +3630,7 @@
               "contents": [
                 {
                   "id": "content-67",
-                  "name": "Tường thuật: INTERF - Panama vs Dominican Republic | BLV Sóc đau cổ vai gáy (Socolive) flv",
+                  "name": "Tường thuật: INTERF - Philippines vs Guam Island | BLV Sóc nhàm nhang nhồ (Socolive) flv",
                   "streams": [
                     {
                       "id": "stream-67",
@@ -3641,7 +3641,7 @@
                           "name": "Link Phát",
                           "type": "flv",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1780554199-0-0-e70802ba12f071ebe03872d8c435dcfd",
+                          "url": "https://pull06.scstream.net/live/stream-152898_lsd.flv?auth_key=1780555279-0-0-d3ddc6baef423cd347071642e66b582f",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3656,7 +3656,7 @@
         },
         {
           "id": "channel-68",
-          "name": "Tường thuật: INTERF - Panama vs Dominican Republic | BLV Sóc đau cổ vai gáy (Socolive) hdFlv",
+          "name": "Tường thuật: INTERF - Philippines vs Guam Island | BLV Sóc nhàm nhang nhồ (Socolive) hdFlv",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3683,7 +3683,7 @@
               "contents": [
                 {
                   "id": "content-68",
-                  "name": "Tường thuật: INTERF - Panama vs Dominican Republic | BLV Sóc đau cổ vai gáy (Socolive) hdFlv",
+                  "name": "Tường thuật: INTERF - Philippines vs Guam Island | BLV Sóc nhàm nhang nhồ (Socolive) hdFlv",
                   "streams": [
                     {
                       "id": "stream-68",
@@ -3694,7 +3694,7 @@
                           "name": "Link Phát",
                           "type": "flv",
                           "default": true,
-                          "url": "https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1780554199-0-0-4d8c21087a0c9f274a50cb7c3505cd6f",
+                          "url": "https://pull06.scstream.net/live/stream-152898_lhd.flv?auth_key=1780555279-0-0-99b0a4a33e558b38b92c3a7b2ed05c4d",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -3709,6 +3709,536 @@
         },
         {
           "id": "channel-69",
+          "name": "Tường thuật: INTERF - Philippines vs Guam Island | BLV Sóc nhàm nhang nhồ (Socolive) m3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260601/ccf5c60e0f363269da4ff37df4d4143d.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-69",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-69",
+                  "name": "Tường thuật: INTERF - Philippines vs Guam Island | BLV Sóc nhàm nhang nhồ (Socolive) m3u8",
+                  "streams": [
+                    {
+                      "id": "stream-69",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-69",
+                          "name": "Link Phát",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-152898_lsd.m3u8?auth_key=1780555279-0-0-2faf9c54eba0e5d9d61fd11262b851e0",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-70",
+          "name": "Tường thuật: INTERF - Philippines vs Guam Island | BLV Sóc nhàm nhang nhồ (Socolive) hdM3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260601/ccf5c60e0f363269da4ff37df4d4143d.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-70",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-70",
+                  "name": "Tường thuật: INTERF - Philippines vs Guam Island | BLV Sóc nhàm nhang nhồ (Socolive) hdM3u8",
+                  "streams": [
+                    {
+                      "id": "stream-70",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-70",
+                          "name": "Link Phát",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-152898_lhd.m3u8?auth_key=1780555279-0-0-be00f874ce28b919b6e231a97fbff26b",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-71",
+          "name": "Tường thuật: INTERF - Panama vs Dominican Republic | BLV Sóc đau cổ vai gáy (Socolive) flv",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260601/ccf5c60e0f363269da4ff37df4d4143d.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-71",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-71",
+                  "name": "Tường thuật: INTERF - Panama vs Dominican Republic | BLV Sóc đau cổ vai gáy (Socolive) flv",
+                  "streams": [
+                    {
+                      "id": "stream-71",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-71",
+                          "name": "Link Phát",
+                          "type": "flv",
+                          "default": true,
+                          "url": "https://pull06.scstream.net/live/stream-179093_lsd.flv?auth_key=1780555279-0-0-3fa637712cb043cb52276a6013663b2b",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-72",
+          "name": "Tường thuật: INTERF - Panama vs Dominican Republic | BLV Sóc đau cổ vai gáy (Socolive) hdFlv",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260601/ccf5c60e0f363269da4ff37df4d4143d.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-72",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-72",
+                  "name": "Tường thuật: INTERF - Panama vs Dominican Republic | BLV Sóc đau cổ vai gáy (Socolive) hdFlv",
+                  "streams": [
+                    {
+                      "id": "stream-72",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-72",
+                          "name": "Link Phát",
+                          "type": "flv",
+                          "default": true,
+                          "url": "https://pull06.scstream.net/live/stream-179093_lhd.flv?auth_key=1780555279-0-0-ae36bf1bed8bc5a8fc1d55a2674ccbd9",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-73",
+          "name": "Tường thuật: INTERF - Panama vs Dominican Republic | BLV Sóc đau cổ vai gáy (Socolive) m3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260601/ccf5c60e0f363269da4ff37df4d4143d.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-73",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-73",
+                  "name": "Tường thuật: INTERF - Panama vs Dominican Republic | BLV Sóc đau cổ vai gáy (Socolive) m3u8",
+                  "streams": [
+                    {
+                      "id": "stream-73",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-73",
+                          "name": "Link Phát",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-179093_lsd.m3u8?auth_key=1780555279-0-0-e73b26c0ae032e7614607d5d8074b751",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-74",
+          "name": "Tường thuật: INTERF - Panama vs Dominican Republic | BLV Sóc đau cổ vai gáy (Socolive) hdM3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260601/ccf5c60e0f363269da4ff37df4d4143d.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-74",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-74",
+                  "name": "Tường thuật: INTERF - Panama vs Dominican Republic | BLV Sóc đau cổ vai gáy (Socolive) hdM3u8",
+                  "streams": [
+                    {
+                      "id": "stream-74",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-74",
+                          "name": "Link Phát",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-179093_lhd.m3u8?auth_key=1780555279-0-0-5cb76630479aab1f07d14bf90e52ada1",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-75",
+          "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) flv",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260601/ccf5c60e0f363269da4ff37df4d4143d.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-75",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-75",
+                  "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) flv",
+                  "streams": [
+                    {
+                      "id": "stream-75",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-75",
+                          "name": "Link Phát",
+                          "type": "flv",
+                          "default": true,
+                          "url": "https://pull06.scstream.net/live/stream-133824_lsd.flv?auth_key=1780555279-0-0-aafe17d0cf8fb4f7837d970646802c5d",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-76",
+          "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) hdFlv",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260601/ccf5c60e0f363269da4ff37df4d4143d.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-76",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-76",
+                  "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) hdFlv",
+                  "streams": [
+                    {
+                      "id": "stream-76",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-76",
+                          "name": "Link Phát",
+                          "type": "flv",
+                          "default": true,
+                          "url": "https://pull06.scstream.net/live/stream-133824_lhd.flv?auth_key=1780555279-0-0-3c13c94a184e253026184a18ac0e3dec",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-77",
+          "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) m3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260601/ccf5c60e0f363269da4ff37df4d4143d.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-77",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-77",
+                  "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) m3u8",
+                  "streams": [
+                    {
+                      "id": "stream-77",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77",
+                          "name": "Link Phát",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-133824_lsd.m3u8?auth_key=1780555279-0-0-ee71ab28a6dd39fd7951d65c4c59ce25",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-78",
+          "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) hdM3u8",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260601/ccf5c60e0f363269da4ff37df4d4143d.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-78",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-78",
+                  "name": "Tường thuật: INTERF - Luxembourg vs Italy | BLV Sóc trèo cây ngô đồng (Socolive) hdM3u8",
+                  "streams": [
+                    {
+                      "id": "stream-78",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-78",
+                          "name": "Link Phát",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-133824_lhd.m3u8?auth_key=1780555279-0-0-b83b9a61dbf32a9363979ad69af8029c",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-79",
           "name": "09h00 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD",
           "type": "single",
           "display": "thumbnail-only",
@@ -3731,19 +4261,19 @@
           ],
           "sources": [
             {
-              "id": "src-69",
+              "id": "src-79",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-69",
+                  "id": "content-79",
                   "name": "09h00 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD",
                   "streams": [
                     {
-                      "id": "stream-69",
+                      "id": "stream-79",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-69",
+                          "id": "lnk-79",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
@@ -3761,7 +4291,7 @@
           ]
         },
         {
-          "id": "channel-70",
+          "id": "channel-80",
           "name": "09h00 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) HD",
           "type": "single",
           "display": "thumbnail-only",
@@ -3784,19 +4314,19 @@
           ],
           "sources": [
             {
-              "id": "src-70",
+              "id": "src-80",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-70",
+                  "id": "content-80",
                   "name": "09h00 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) HD",
                   "streams": [
                     {
-                      "id": "stream-70",
+                      "id": "stream-80",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-70",
+                          "id": "lnk-80",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
@@ -3814,7 +4344,7 @@
           ]
         },
         {
-          "id": "channel-71",
+          "id": "channel-81",
           "name": "09h00 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD",
           "type": "single",
           "display": "thumbnail-only",
@@ -3837,19 +4367,19 @@
           ],
           "sources": [
             {
-              "id": "src-71",
+              "id": "src-81",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-71",
+                  "id": "content-81",
                   "name": "09h00 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD",
                   "streams": [
                     {
-                      "id": "stream-71",
+                      "id": "stream-81",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-71",
+                          "id": "lnk-81",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
@@ -3867,7 +4397,7 @@
           ]
         },
         {
-          "id": "channel-72",
+          "id": "channel-82",
           "name": "11h30 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD",
           "type": "single",
           "display": "thumbnail-only",
@@ -3890,19 +4420,19 @@
           ],
           "sources": [
             {
-              "id": "src-72",
+              "id": "src-82",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-72",
+                  "id": "content-82",
                   "name": "11h30 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) FHD",
                   "streams": [
                     {
-                      "id": "stream-72",
+                      "id": "stream-82",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-72",
+                          "id": "lnk-82",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
@@ -3920,7 +4450,7 @@
           ]
         },
         {
-          "id": "channel-73",
+          "id": "channel-83",
           "name": "11h30 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) HD",
           "type": "single",
           "display": "thumbnail-only",
@@ -3943,19 +4473,19 @@
           ],
           "sources": [
             {
-              "id": "src-73",
+              "id": "src-83",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-73",
+                  "id": "content-83",
                   "name": "11h30 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) HD",
                   "streams": [
                     {
-                      "id": "stream-73",
+                      "id": "stream-83",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-73",
+                          "id": "lnk-83",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
@@ -3973,7 +4503,7 @@
           ]
         },
         {
-          "id": "channel-74",
+          "id": "channel-84",
           "name": "11h30 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD",
           "type": "single",
           "display": "thumbnail-only",
@@ -3996,19 +4526,19 @@
           ],
           "sources": [
             {
-              "id": "src-74",
+              "id": "src-84",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-74",
+                  "id": "content-84",
                   "name": "11h30 04/06 POLYTRON Indonesia Open 2026 (Hội Quán) SD",
                   "streams": [
                     {
-                      "id": "stream-74",
+                      "id": "stream-84",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-74",
+                          "id": "lnk-84",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
@@ -4035,7 +4565,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "channel-75",
+          "id": "channel-85",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 11:30 | BLV Hội Quán",
           "type": "single",
           "display": "thumbnail-only",
@@ -4058,19 +4588,19 @@
           ],
           "sources": [
             {
-              "id": "src-75",
+              "id": "src-85",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-75",
+                  "id": "content-85",
                   "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 11:30 | BLV Hội Quán",
                   "streams": [
                     {
-                      "id": "stream-75",
+                      "id": "stream-85",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-75",
+                          "id": "lnk-85",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
@@ -4088,7 +4618,7 @@
           ]
         },
         {
-          "id": "channel-76",
+          "id": "channel-86",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 11:30 | BLV Hội Quán",
           "type": "single",
           "display": "thumbnail-only",
@@ -4111,19 +4641,19 @@
           ],
           "sources": [
             {
-              "id": "src-76",
+              "id": "src-86",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-76",
+                  "id": "content-86",
                   "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 11:30 | BLV Hội Quán",
                   "streams": [
                     {
-                      "id": "stream-76",
+                      "id": "stream-86",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-76",
+                          "id": "lnk-86",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
@@ -4150,7 +4680,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "channel-77",
+          "id": "channel-87",
           "name": "⚽ Sichuan 318 vs Guangzhou Rock Goal | 12:00 | BLV MÃ SIÊU",
           "type": "single",
           "display": "thumbnail-only",
@@ -4173,19 +4703,19 @@
           ],
           "sources": [
             {
-              "id": "src-77",
+              "id": "src-87",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-77",
+                  "id": "content-87",
                   "name": "⚽ Sichuan 318 vs Guangzhou Rock Goal | 12:00 | BLV MÃ SIÊU",
                   "streams": [
                     {
-                      "id": "stream-77",
+                      "id": "stream-87",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-77",
+                          "id": "lnk-87",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
@@ -4203,7 +4733,7 @@
           ]
         },
         {
-          "id": "channel-78",
+          "id": "channel-88",
           "name": "⚽ Sichuan 318 vs Guangzhou Rock Goal | 12:00 | BLV MÃ SIÊU",
           "type": "single",
           "display": "thumbnail-only",
@@ -4226,19 +4756,19 @@
           ],
           "sources": [
             {
-              "id": "src-78",
+              "id": "src-88",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-78",
+                  "id": "content-88",
                   "name": "⚽ Sichuan 318 vs Guangzhou Rock Goal | 12:00 | BLV MÃ SIÊU",
                   "streams": [
                     {
-                      "id": "stream-78",
+                      "id": "stream-88",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-78",
+                          "id": "lnk-88",
                           "name": "Link Phát",
                           "type": "flv",
                           "default": true,
