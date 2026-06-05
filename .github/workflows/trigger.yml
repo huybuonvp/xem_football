@@ -3,7 +3,7 @@ name: Tín hiệu kích hoạt từ xem_football
 on:
   push:
     paths:
-      - 'All_CHANNEL.m3u' # Chỉ kích hoạt đúng khi file này có thay đổi thực sự
+      - 'All_CHANNEL.m3u' # Chỉ kích hoạt khi file này có thay đổi thực sự
 
 jobs:
   ping-xembongda:
@@ -11,28 +11,7 @@ jobs:
     steps:
       - name: Bắn lệnh kích hoạt trực tiếp sang xembongda
         run: |
-          # Dùng lệnh curl bắn thẳng vào API của GitHub để ép xembongda chạy tức thì
-          # GITHUB_TOKEN có sẵn của hệ thống sẽ lo phần bảo mật, bypass hoàn toàn lỗi 403
-          curl -X POST \
-            -H "Accept: application/vnd.github+json" \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            https://api.github.com/repos/${{ github.repository_owner }}/xembongda/actions/workflows/main.yml/dispatches \
-            -d '{"ref":"main"}'
-          
-          echo "[SUCCESS] Đã ép kho xembongda kích hoạt check_live ngay lập tức!"name: Tín hiệu kích hoạt từ xem_football
-
-on:
-  push:
-    paths:
-      - 'All_CHANNEL.m3u' # Chỉ kích hoạt đúng khi file này có thay đổi thực sự
-
-jobs:
-  ping-xembongda:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Bắn lệnh kích hoạt trực tiếp sang xembongda
-        run: |
-          # Sử dụng MY_TRIGGER_TOKEN (PAT) đã cấu hình để bypass lỗi 403 thành công
+          # Sử dụng MY_TRIGGER_TOKEN (PAT) đã cấu hình trong Settings -> Secrets để bypass lỗi 403
           curl -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.MY_TRIGGER_TOKEN }}" \
