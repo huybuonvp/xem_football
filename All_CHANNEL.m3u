@@ -74,21 +74,6 @@ https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/tdtv_blv_taomeo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="[09:00] Ballard FC vs Bigfoot | BLV RYO" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="SOCO SPORT",[09:00] Ballard FC vs Bigfoot | BLV RYO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781845200-0-0-fba07b9682632b1f56aa1efcb7cc03de
-
-#EXTINF:-1 tvg-name="[09:00] Ballard FC vs Bigfoot | BLV KÉP" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="SOCO SPORT",[09:00] Ballard FC vs Bigfoot | BLV KÉP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781845161-0-0-414253533549f68c64324b413c56d570
-
-#EXTINF:-1 tvg-name="[09:00] San Juan vs San Francisco City | BLV LÝ ỨNG" tvg-logo="https://cdn-img.cdnokvip.com/logos/69189_1jwd1qx98932.png" group-title="LSTV SPORT",[09:00] San Juan vs San Francisco City | BLV LÝ ỨNG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
 #EXTINF:-1 tvg-name="[14:30] Shanghai Second vs SHANGHAI SIPG | BLV PHAN CA" tvg-logo="https://media.api-sports.io/football/teams/27619.png" group-title="HỘI QUÁN 1",[14:30] Shanghai Second vs SHANGHAI SIPG | BLV PHAN CA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -103,6 +88,11 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="[14:30] Shanghai Second vs SHANGHAI SIPG | BLV Mao Từn" tvg-logo="https://media.api-sports.io/football/teams/27619.png" group-title="VÒNG CẤM TV",[14:30] Shanghai Second vs SHANGHAI SIPG | BLV Mao Từn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
 #EXTINF:-1 tvg-name="[14:30] Câu lạc bộ bóng đá Tây An Ronghai vs Qingdao West Coast | BLV MOUNTAIN DEW" tvg-logo="https://img.gvapi.cc/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80" group-title="CO LA TV",[14:30] Câu lạc bộ bóng đá Tây An Ronghai vs Qingdao West Coast | BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -124,20 +114,10 @@ https://live05.msdht.app/live/14830711.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://live05.msdht.app/live/90865415.m3u8
 
-#EXTINF:-1 tvg-name="[14:30] Shanghai Second vs SHANGHAI SIPG | BLV Mao Từn" tvg-logo="https://media.api-sports.io/football/teams/27619.png" group-title="VÒNG CẤM TV",[14:30] Shanghai Second vs SHANGHAI SIPG | BLV Mao Từn
+#EXTINF:-1 tvg-name="[14:30] Dalian Kewei vs Liaoning Tieren | BLV CÔNG CHẤT" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png" group-title="SOCO SPORT",[14:30] Dalian Kewei vs Liaoning Tieren | BLV CÔNG CHẤT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[14:30] Shanghai Second vs Shanghai Port | BLV KEM" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png" group-title="SOCO SPORT",[14:30] Shanghai Second vs Shanghai Port | BLV KEM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781802155-0-0-7a684b1fb4a1819460f9ce83cc037037
-
-#EXTINF:-1 tvg-name="[14:30] Shanxi Chongde Ronghai vs Qingdao West Coast | BLV GIÓ" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png" group-title="SOCO SPORT",[14:30] Shanxi Chongde Ronghai vs Qingdao West Coast | BLV GIÓ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781812373-0-0-eeb533f9945634a119f1c50d59bcf04a
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781801261-0-0-21ccdb495f889b6f49a63b379d7eabca
 
 #EXTINF:-1 tvg-name="[14:30] Shanxi Chongde Ronghai vs Qingdao West Coast | BLV WUKONG" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png" group-title="SOCO SPORT",[14:30] Shanxi Chongde Ronghai vs Qingdao West Coast | BLV WUKONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -179,30 +159,45 @@ https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1781838478-0-0-782
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1781838423-0-0-fed5732125e69363a5d6e66f5600a087
 
-#EXTINF:-1 tvg-name="[14:30] Dalian Kewei vs Liaoning Tieren | BLV CÔNG CHẤT" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png" group-title="SOCO SPORT",[14:30] Dalian Kewei vs Liaoning Tieren | BLV CÔNG CHẤT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1781801261-0-0-21ccdb495f889b6f49a63b379d7eabca
-
 #EXTINF:-1 tvg-name="[14:30] Canterbury Rams vs Tauranga Whai | BLV HENRY" tvg-logo="https://sta.vnres.co/file/common/20260617/b9bb808cda56492d90685b93455b0883.png" group-title="SOCO SPORT",[14:30] Canterbury Rams vs Tauranga Whai | BLV HENRY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781845161-0-0-c719f0b37fdd246e5e45a21324eae179
-
-#EXTINF:-1 tvg-name="[14:30] Dalian Kewei vs Liaoning Tieren | BLV LOGAN" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png" group-title="SOCO SPORT",[14:30] Dalian Kewei vs Liaoning Tieren | BLV LOGAN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781787547-0-0-7fa5c8d5808498c449c022c41d850acd
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1781845761-0-0-6ca93eb5a85795d6f554dcaf30a3cbfa
 
 #EXTINF:-1 tvg-name="[14:30] Dalian Kewei vs Liaoning Tieren | BLV ENZO" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png" group-title="SOCO SPORT",[14:30] Dalian Kewei vs Liaoning Tieren | BLV ENZO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1781787475-0-0-2ab1c021ca4a64dfefe55a2bd44510f3
 
-#EXTINF:-1 tvg-name="[14:30] Shanxi Chongde Ronghai vs Qingdao West Coast | BLV XUÂN SON" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png" group-title="SOCO SPORT",[14:30] Shanxi Chongde Ronghai vs Qingdao West Coast | BLV XUÂN SON
+#EXTINF:-1 tvg-name="[14:30] Shanghai Second vs Shanghai Port | BLV ROBBEN" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png" group-title="SOCO SPORT",[14:30] Shanghai Second vs Shanghai Port | BLV ROBBEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b155aeabe0b83f70a68d25fbc6789de2&txTime=6a346c19
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781776685-0-0-bd9e4c9be6e0f3623f4a7b8b8eee0080
+
+#EXTINF:-1 tvg-name="[14:30] Dalian Kewei vs Liaoning Tieren | BLV RÔSI" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png" group-title="SOCO SPORT",[14:30] Dalian Kewei vs Liaoning Tieren | BLV RÔSI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=bfc487ebec4b51e513b5474fea50d321&txTime=6a346c54
+
+#EXTINF:-1 tvg-name="[14:30] Dalian Kewei vs Liaoning Tieren | BLV LOGAN" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png" group-title="SOCO SPORT",[14:30] Dalian Kewei vs Liaoning Tieren | BLV LOGAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1781787547-0-0-7fa5c8d5808498c449c022c41d850acd
+
+#EXTINF:-1 tvg-name="[14:30] Shanghai Second vs Shanghai Port | BLV HẢI THANH" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png" group-title="SOCO SPORT",[14:30] Shanghai Second vs Shanghai Port | BLV HẢI THANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781748327-0-0-16795b7ffaa5d94c154ebf8f4c5fbf93
+
+#EXTINF:-1 tvg-name="[14:30] Shanxi Chongde Ronghai vs Qingdao West Coast | BLV GIÓ" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png" group-title="SOCO SPORT",[14:30] Shanxi Chongde Ronghai vs Qingdao West Coast | BLV GIÓ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1781812373-0-0-eeb533f9945634a119f1c50d59bcf04a
+
+#EXTINF:-1 tvg-name="[14:30] Shanghai Second vs Shanghai Port | BLV A BỆU" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png" group-title="SOCO SPORT",[14:30] Shanghai Second vs Shanghai Port | BLV A BỆU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781831419-0-0-8b86d4c59a32c757b4986c8089881c51
 
 #EXTINF:-1 tvg-name="[14:30] Dalian Kewei vs Liaoning Tieren | BLV HÚP" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png" group-title="SOCO SPORT",[14:30] Dalian Kewei vs Liaoning Tieren | BLV HÚP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -214,45 +209,35 @@ https://pull.niues.live/live/stream-611382_lhd.m3u8?auth_key=1781831092-0-0-3d91
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1781800027-0-0-b5306f0dbb8f4eb6176b8900fd213614
 
-#EXTINF:-1 tvg-name="[14:30] Shanghai Second vs Shanghai Port | BLV HẢI THANH" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png" group-title="SOCO SPORT",[14:30] Shanghai Second vs Shanghai Port | BLV HẢI THANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1781748327-0-0-16795b7ffaa5d94c154ebf8f4c5fbf93
-
-#EXTINF:-1 tvg-name="[14:30] Shanghai Second vs Shanghai Port | BLV A BỆU" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png" group-title="SOCO SPORT",[14:30] Shanghai Second vs Shanghai Port | BLV A BỆU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1781831419-0-0-8b86d4c59a32c757b4986c8089881c51
-
 #EXTINF:-1 tvg-name="[14:30] Shanghai Second vs Shanghai Port | BLV PEWPEW" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png" group-title="SOCO SPORT",[14:30] Shanghai Second vs Shanghai Port | BLV PEWPEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1781802193-0-0-f2074f635d2fa24877af22f68a4a6849
 
-#EXTINF:-1 tvg-name="[14:30] Dalian Kewei vs Liaoning Tieren | BLV RÔSI" tvg-logo="https://sta.vnres.co/file/common/20260615/a56ec5c69956ff680adbddec6a281bf3.png" group-title="SOCO SPORT",[14:30] Dalian Kewei vs Liaoning Tieren | BLV RÔSI
+#EXTINF:-1 tvg-name="[14:30] Shanghai Second vs Shanghai Port | BLV KEM" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png" group-title="SOCO SPORT",[14:30] Shanghai Second vs Shanghai Port | BLV KEM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=bfc487ebec4b51e513b5474fea50d321&txTime=6a346c54
-
-#EXTINF:-1 tvg-name="[14:30] Shanghai Second vs Shanghai Port | BLV NGƯỜI CÁ" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png" group-title="SOCO SPORT",[14:30] Shanghai Second vs Shanghai Port | BLV NGƯỜI CÁ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781831097-0-0-60772d38cda6a81561fee6dfc5cfc5b9
-
-#EXTINF:-1 tvg-name="[14:30] Shanghai Second vs Shanghai Port | BLV ROBBEN" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png" group-title="SOCO SPORT",[14:30] Shanghai Second vs Shanghai Port | BLV ROBBEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1781776685-0-0-bd9e4c9be6e0f3623f4a7b8b8eee0080
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1781802155-0-0-7a684b1fb4a1819460f9ce83cc037037
 
 #EXTINF:-1 tvg-name="[14:30] Shanxi Chongde Ronghai vs Qingdao West Coast | BLV A TÚ" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png" group-title="SOCO SPORT",[14:30] Shanxi Chongde Ronghai vs Qingdao West Coast | BLV A TÚ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1781756938-0-0-b247d6f57389bd332850c3b299cf6b6a
 
+#EXTINF:-1 tvg-name="[14:30] Shanghai Second vs Shanghai Port | BLV NGƯỜI CÁ" tvg-logo="https://sta.vnres.co/file/common/20260615/5242b0fd4ad7cdccf5f3b135851d6e48.png" group-title="SOCO SPORT",[14:30] Shanghai Second vs Shanghai Port | BLV NGƯỜI CÁ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1781831097-0-0-60772d38cda6a81561fee6dfc5cfc5b9
+
+#EXTINF:-1 tvg-name="[14:30] Shanxi Chongde Ronghai vs Qingdao West Coast | BLV XUÂN SON" tvg-logo="https://sta.vnres.co/file/common/20260615/0e5b9c50f6fdbd888b62812d140ca8db.png" group-title="SOCO SPORT",[14:30] Shanxi Chongde Ronghai vs Qingdao West Coast | BLV XUÂN SON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=b155aeabe0b83f70a68d25fbc6789de2&txTime=6a346c19
+
 #EXTINF:-1 tvg-name="[14:30] Câu lạc bộ bóng đá Tây An Ronghai vs Qingdao West Coast | BLV SHIO" tvg-logo="https://img0.aiscore.com/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png!w80" group-title="XEMBONGHAY",[14:30] Câu lạc bộ bóng đá Tây An Ronghai vs Qingdao West Coast | BLV SHIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/805b74da.m3u8?auth_key=1781841602-0-0-b9ad1d2eeaadea55e6e7ffae0bd21a9d
+https://pull.vod2gwuskh.com/xem/805b74da.m3u8?auth_key=1781842203-0-0-ef6895f95a474cea168e6da890556a0e
 
 #EXTINF:-1 tvg-name="[15:00] Cộng Hòa Dominicana vs Serbia | BLV PHAN HẢI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" group-title="HỘI QUÁN 1",[15:00] Cộng Hòa Dominicana vs Serbia | BLV PHAN HẢI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -269,15 +254,15 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="[15:00] Cộng hòa Dominican Nữ vs Serbia Nữ | BLV T-Rex" tvg-logo="https://static.flashscore.com/res/image/data/hWkRwuZA-YwmRHSUk.png" group-title="KHAN DAI A",[15:00] Cộng hòa Dominican Nữ vs Serbia Nữ | BLV T-Rex
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
-
 #EXTINF:-1 tvg-name="[15:00] Dominican W vs Serbia W | BLV Pháo" tvg-logo="https://static.flashscore.com/res/image/data/hWkRwuZA-YwmRHSUk.png" group-title="VÒNG CẤM TV",[15:00] Dominican W vs Serbia W | BLV Pháo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[15:00] Cộng hòa Dominican Nữ vs Serbia Nữ | BLV T-Rex" tvg-logo="https://static.flashscore.com/res/image/data/hWkRwuZA-YwmRHSUk.png" group-title="KHAN DAI A",[15:00] Cộng hòa Dominican Nữ vs Serbia Nữ | BLV T-Rex
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
 
 #EXTINF:-1 tvg-name="[15:00] Mexico vs Hàn Quốc | BLV NGƯỜI TIỀN SỬ" tvg-logo="https://s8tv.social/wp-json/s8-image/c2277b67-3909-4d7d-81b8-f07552adccaf" group-title="S8TV",[15:00] Mexico vs Hàn Quốc | BLV NGƯỜI TIỀN SỬ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -339,15 +324,20 @@ https://live05.msdht.app/live/75915087.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://live05.msdht.app/live/87379114.m3u8
 
+#EXTINF:-1 tvg-name="[16:30] Bentleigh greens vs South Melbourne | BLV VOI" tvg-logo="https://sta.vnres.co/file/common/20260615/43e9943e1e66f33211a1377fd16f0fcf.png" group-title="SOCO SPORT",[16:30] Bentleigh greens vs South Melbourne | BLV VOI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781791802-0-0-2790256cb6e40ac3988869a9205ea939
+
 #EXTINF:-1 tvg-name="[16:30] Bentleigh greens vs South Melbourne | BLV CÒ" tvg-logo="https://sta.vnres.co/file/common/20260615/43e9943e1e66f33211a1377fd16f0fcf.png" group-title="SOCO SPORT",[16:30] Bentleigh greens vs South Melbourne | BLV CÒ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1781758775-0-0-1937b22131a50cedd5391d06bc4554f9
 
-#EXTINF:-1 tvg-name="[16:30] Bentleigh greens vs South Melbourne | BLV VOI" tvg-logo="https://sta.vnres.co/file/common/20260615/43e9943e1e66f33211a1377fd16f0fcf.png" group-title="SOCO SPORT",[16:30] Bentleigh greens vs South Melbourne | BLV VOI
+#EXTINF:-1 tvg-name="[16:30] Bentleigh greens vs South Melbourne | BLV PINKMAN" tvg-logo="https://sta.vnres.co/file/common/20260615/43e9943e1e66f33211a1377fd16f0fcf.png" group-title="SOCO SPORT",[16:30] Bentleigh greens vs South Melbourne | BLV PINKMAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1781791802-0-0-2790256cb6e40ac3988869a9205ea939
+https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=ea3b3af544d10494d99ca47b9f6834f3&txTime=6a3468ac
 
 #EXTINF:-1 tvg-name="[16:30] Bentleigh greens vs South Melbourne | BLV A PÁO" tvg-logo="https://sta.vnres.co/file/common/20260615/43e9943e1e66f33211a1377fd16f0fcf.png" group-title="SOCO SPORT",[16:30] Bentleigh greens vs South Melbourne | BLV A PÁO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -364,35 +354,30 @@ https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1781809476-0-0-05bb
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1781809294-0-0-b0a0dd774b8e47c77324cfe74b80e689
 
-#EXTINF:-1 tvg-name="[16:30] Bentleigh greens vs South Melbourne | BLV PINKMAN" tvg-logo="https://sta.vnres.co/file/common/20260615/43e9943e1e66f33211a1377fd16f0fcf.png" group-title="SOCO SPORT",[16:30] Bentleigh greens vs South Melbourne | BLV PINKMAN
+#EXTINF:-1 tvg-name="[16:30] Gold Coast Knights vs Magic United TFA | BLV CƠM CHÁY" tvg-logo="https://sta.vnres.co/file/common/20260615/e1e9185a166962bec5dbb707b94c8be1.png" group-title="SOCO SPORT",[16:30] Gold Coast Knights vs Magic United TFA | BLV CƠM CHÁY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niur.live/live/stream-595715_lhd.m3u8?txSecret=ea3b3af544d10494d99ca47b9f6834f3&txTime=6a3468ac
+https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781805113-0-0-8e462b3e4f0ddf3f24d8b925588a4915
 
 #EXTINF:-1 tvg-name="[16:30] Gold Coast Knights vs Magic United TFA | BLV XUÂN TÓC ĐỎ" tvg-logo="https://sta.vnres.co/file/common/20260615/e1e9185a166962bec5dbb707b94c8be1.png" group-title="SOCO SPORT",[16:30] Gold Coast Knights vs Magic United TFA | BLV XUÂN TÓC ĐỎ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=807395cb5225945eb4303858e5b0b18e&txTime=6a345b67
 
+#EXTINF:-1 tvg-name="[16:30] Gold Coast Knights vs Magic United TFA | BLV VIP" tvg-logo="https://sta.vnres.co/file/common/20260615/e1e9185a166962bec5dbb707b94c8be1.png" group-title="SOCO SPORT",[16:30] Gold Coast Knights vs Magic United TFA | BLV VIP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5bb99b27a7c0d9d2f7f0d85f277c54c8&txTime=6a34934d
+
 #EXTINF:-1 tvg-name="[16:30] Gold Coast Knights vs Magic United TFA | BLV PICK" tvg-logo="https://sta.vnres.co/file/common/20260615/e1e9185a166962bec5dbb707b94c8be1.png" group-title="SOCO SPORT",[16:30] Gold Coast Knights vs Magic United TFA | BLV PICK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1781799958-0-0-d0818fc12e0217eabaddaa7371c2e15d
 
-#EXTINF:-1 tvg-name="[16:30] Gold Coast Knights vs Magic United TFA | BLV CƠM CHÁY" tvg-logo="https://sta.vnres.co/file/common/20260615/e1e9185a166962bec5dbb707b94c8be1.png" group-title="SOCO SPORT",[16:30] Gold Coast Knights vs Magic United TFA | BLV CƠM CHÁY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-611528_lhd.m3u8?auth_key=1781805113-0-0-8e462b3e4f0ddf3f24d8b925588a4915
-
 #EXTINF:-1 tvg-name="[16:30] Gold Coast Knights vs Magic United TFA | BLV LÃO LÂM" tvg-logo="https://sta.vnres.co/file/common/20260615/e1e9185a166962bec5dbb707b94c8be1.png" group-title="SOCO SPORT",[16:30] Gold Coast Knights vs Magic United TFA | BLV LÃO LÂM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niur.live/live/stream-527384_lhd.m3u8?txSecret=19f806acae67cb546c83ce530440a354&txTime=6a35054d
-
-#EXTINF:-1 tvg-name="[16:30] Gold Coast Knights vs Magic United TFA | BLV VIP" tvg-logo="https://sta.vnres.co/file/common/20260615/e1e9185a166962bec5dbb707b94c8be1.png" group-title="SOCO SPORT",[16:30] Gold Coast Knights vs Magic United TFA | BLV VIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=5bb99b27a7c0d9d2f7f0d85f277c54c8&txTime=6a34934d
 
 #EXTINF:-1 tvg-name="[16:30] Gold Coast Knights vs Magic United TFA | BLV BÉO" tvg-logo="https://sta.vnres.co/file/common/20260615/e1e9185a166962bec5dbb707b94c8be1.png" group-title="SOCO SPORT",[16:30] Gold Coast Knights vs Magic United TFA | BLV BÉO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -414,6 +399,11 @@ https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="[17:00] Ukraine W vs Netherlands W | BLV Tiểu Mèo" tvg-logo="https://static.flashscore.com/res/image/data/nuvercYA-AT5SyHUr.png" group-title="VÒNG CẤM TV",[17:00] Ukraine W vs Netherlands W | BLV Tiểu Mèo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
 #EXTINF:-1 tvg-name="[17:00] Ukraine Nữ vs Hà Lan Nữ | BLV Bệu" tvg-logo="https://static.flashscore.com/res/image/data/Q3dsHxe5-8KJ0tcMR.png" group-title="KHAN DAI A",[17:00] Ukraine Nữ vs Hà Lan Nữ | BLV Bệu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -423,16 +413,6 @@ https://q9kh24w2ba.yarncdn.live/live/kda-blv-beu/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://live05.msdht.app/live/82054853.m3u8
-
-#EXTINF:-1 tvg-name="[17:00] Ukraine W vs Netherlands W | BLV Tiểu Mèo" tvg-logo="https://static.flashscore.com/res/image/data/nuvercYA-AT5SyHUr.png" group-title="VÒNG CẤM TV",[17:00] Ukraine W vs Netherlands W | BLV Tiểu Mèo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[17:00] Bồ Đồ Nha vs CH Congo | BLV PHÁT LẠI" tvg-logo="https://s8tv.social/wp-json/s8-image/3444f7c1-e3c7-4916-99fb-dd4786155401" group-title="S8TV",[17:00] Bồ Đồ Nha vs CH Congo | BLV PHÁT LẠI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://hls.lauthaitv.cc/live/bdn-congo-phatlai/index.m3u8
 
 #EXTINF:-1 tvg-name="[17:00] Dalian Yingbo B vs Nantong Haimen Codion | BLV Thợ Lặn" tvg-logo="https://media.api-sports.io/football/teams/27621.png" group-title="XAY CON",[17:00] Dalian Yingbo B vs Nantong Haimen Codion | BLV Thợ Lặn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -448,6 +428,11 @@ https://alive.yarncdn.live/xctv_blv_tholan/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/xctv_blv_tholan/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="[17:00] Bồ Đồ Nha vs CH Congo | BLV PHÁT LẠI" tvg-logo="https://s8tv.social/wp-json/s8-image/3444f7c1-e3c7-4916-99fb-dd4786155401" group-title="S8TV",[17:00] Bồ Đồ Nha vs CH Congo | BLV PHÁT LẠI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://hls.lauthaitv.cc/live/bdn-congo-phatlai/index.m3u8
 
 #EXTINF:-1 tvg-name="[17:00] Adamstown Rosebud (W) vs Broadmeadow Magic (W) | BLV NHÀ ÐÀI" tvg-logo="https://cdn-img.cdnokvip.com/logos/34981_1gynxgyyn329.png" group-title="LSTV SPORT",[17:00] Adamstown Rosebud (W) vs Broadmeadow Magic (W) | BLV NHÀ ÐÀI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -479,20 +464,20 @@ https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1781729933-0-0-7325
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://live05.msdht.app/live/02456966.m3u8
 
-#EXTINF:-1 tvg-name="[17:30] Caboolture FC vs Brisbane Strikers | BLV CÁP" tvg-logo="https://sta.vnres.co/file/common/20260615/14d9b9699dc0b966ad8b87e6e3a1629e.png" group-title="SOCO SPORT",[17:30] Caboolture FC vs Brisbane Strikers | BLV CÁP
+#EXTINF:-1 tvg-name="[17:30] Holland Park Hawks FC vs St George Willawong FC | BLV QUỐC KHÁNH" tvg-logo="https://sta.vnres.co/file/common/20260615/af3571c6ebf28e04b4656fb0641a0c5a.png" group-title="SOCO SPORT",[17:30] Holland Park Hawks FC vs St George Willawong FC | BLV QUỐC KHÁNH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781802259-0-0-39969f01e6dfa7bbcbbd576976442d52
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781809366-0-0-3ddc8bd56ef1406a34e4f48cb972faeb
 
 #EXTINF:-1 tvg-name="[17:30] Holland Park Hawks FC vs St George Willawong FC | BLV A TINH" tvg-logo="https://sta.vnres.co/file/common/20260615/af3571c6ebf28e04b4656fb0641a0c5a.png" group-title="SOCO SPORT",[17:30] Holland Park Hawks FC vs St George Willawong FC | BLV A TINH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=94dd3c2efd1c92da5520668b68d6f430&txTime=6a34f6e4
 
-#EXTINF:-1 tvg-name="[17:30] Holland Park Hawks FC vs St George Willawong FC | BLV QUỐC KHÁNH" tvg-logo="https://sta.vnres.co/file/common/20260615/af3571c6ebf28e04b4656fb0641a0c5a.png" group-title="SOCO SPORT",[17:30] Holland Park Hawks FC vs St George Willawong FC | BLV QUỐC KHÁNH
+#EXTINF:-1 tvg-name="[17:30] Caboolture FC vs Brisbane Strikers | BLV CÁP" tvg-logo="https://sta.vnres.co/file/common/20260615/14d9b9699dc0b966ad8b87e6e3a1629e.png" group-title="SOCO SPORT",[17:30] Caboolture FC vs Brisbane Strikers | BLV CÁP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1781809366-0-0-3ddc8bd56ef1406a34e4f48cb972faeb
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1781802259-0-0-39969f01e6dfa7bbcbbd576976442d52
 
 #EXTINF:-1 tvg-name="[18:00] Shaanxi Union vs Hangzhou Greentown | BLV TÁO GIÀ" tvg-logo="https://media.api-sports.io/football/teams/23286.png" group-title="HỘI QUÁN 1",[18:00] Shaanxi Union vs Hangzhou Greentown | BLV TÁO GIÀ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -529,6 +514,16 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-mo/playlist.m3u8
 
+#EXTINF:-1 tvg-name="[18:00] Tân Châu Huệ Long vs Zhejiang Professional | BLV 247" tvg-logo="https://img.gvapi.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80" group-title="CO LA TV",[18:00] Tân Châu Huệ Long vs Zhejiang Professional | BLV 247
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://live05.msdht.app/live/90865415.m3u8
+
+#EXTINF:-1 tvg-name="[18:00] Thanh niên Thâm Quyến vs Shenzhen Peng City | BLV C2" tvg-logo="https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80" group-title="CO LA TV",[18:00] Thanh niên Thâm Quyến vs Shenzhen Peng City | BLV C2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://live05.msdht.app/live/08552895.m3u8
+
 #EXTINF:-1 tvg-name="[18:00] University Azzurri FC vs Mindil Aces | BLV Mã Siêu" tvg-logo="https://img0.aiscore.com/football/team/c9bf281eb0f1cf13975e39dbe45c4c5e.png!w60" group-title="TAM QUOC TV",[18:00] University Azzurri FC vs Mindil Aces | BLV Mã Siêu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -544,30 +539,25 @@ https://alive.yarncdn.live/tqtv_blv_masieu/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/tqtv_blv_masieu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="[18:00] Tân Châu Huệ Long vs Zhejiang Professional | BLV 247" tvg-logo="https://img.gvapi.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80" group-title="CO LA TV",[18:00] Tân Châu Huệ Long vs Zhejiang Professional | BLV 247
+#EXTINF:-1 tvg-name="[18:00] Shenzhen Juniors vs Shenzhen Peng City | BLV KÉP" tvg-logo="https://sta.vnres.co/file/common/20260615/6c24770b457228753646983d3a4c1394.png" group-title="SOCO SPORT",[18:00] Shenzhen Juniors vs Shenzhen Peng City | BLV KÉP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://live05.msdht.app/live/90865415.m3u8
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781845264-0-0-5f51c6d4fdc9529e36b96cf10d0fc790
 
-#EXTINF:-1 tvg-name="[18:00] Thanh niên Thâm Quyến vs Shenzhen Peng City | BLV C2" tvg-logo="https://img.gvapi.cc/football/team/a08ac642f929244efa8a75289ec5d75a.png!w80" group-title="CO LA TV",[18:00] Thanh niên Thâm Quyến vs Shenzhen Peng City | BLV C2
+#EXTINF:-1 tvg-name="[18:00] Shaanxi Union vs Zhejiang Professional FC | BLV CUỘI" tvg-logo="https://sta.vnres.co/file/common/20260615/a741d6fb90f676046a9920651bafdceb.png" group-title="SOCO SPORT",[18:00] Shaanxi Union vs Zhejiang Professional FC | BLV CUỘI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://live05.msdht.app/live/08552895.m3u8
-
-#EXTINF:-1 tvg-name="[18:00] Shenzhen Juniors vs Shenzhen Peng City | BLV CHÍ PHÈO" tvg-logo="https://sta.vnres.co/file/common/20260615/6c24770b457228753646983d3a4c1394.png" group-title="SOCO SPORT",[18:00] Shenzhen Juniors vs Shenzhen Peng City | BLV CHÍ PHÈO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781787337-0-0-1b12377ed8265fb5a7e9761758dd6221
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781831624-0-0-c522f704598182a090fb3632947ef24c
 
 #EXTINF:-1 tvg-name="[18:00] Shaanxi Union vs Zhejiang Professional FC | BLV COZY" tvg-logo="https://sta.vnres.co/file/common/20260615/a741d6fb90f676046a9920651bafdceb.png" group-title="SOCO SPORT",[18:00] Shaanxi Union vs Zhejiang Professional FC | BLV COZY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=f55553eaa515f87139d911a4e26f1b5e&txTime=6a34f797
 
-#EXTINF:-1 tvg-name="[18:00] Shaanxi Union vs Zhejiang Professional FC | BLV CUỘI" tvg-logo="https://sta.vnres.co/file/common/20260615/a741d6fb90f676046a9920651bafdceb.png" group-title="SOCO SPORT",[18:00] Shaanxi Union vs Zhejiang Professional FC | BLV CUỘI
+#EXTINF:-1 tvg-name="[18:00] Shenzhen Juniors vs Shenzhen Peng City | BLV CHÍ PHÈO" tvg-logo="https://sta.vnres.co/file/common/20260615/6c24770b457228753646983d3a4c1394.png" group-title="SOCO SPORT",[18:00] Shenzhen Juniors vs Shenzhen Peng City | BLV CHÍ PHÈO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1781831624-0-0-c522f704598182a090fb3632947ef24c
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1781787337-0-0-1b12377ed8265fb5a7e9761758dd6221
 
 #EXTINF:-1 tvg-name="[18:00] Shenzhen Juniors vs Shenzhen Peng City | BLV KAN" tvg-logo="https://sta.vnres.co/file/common/20260615/6c24770b457228753646983d3a4c1394.png" group-title="SOCO SPORT",[18:00] Shenzhen Juniors vs Shenzhen Peng City | BLV KAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -579,15 +569,15 @@ https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=33a98b46451ede50cd7b
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://auto.cdnfaster.live/live/sd-6MwdqBiX7SPrexUPEt/playlist.m3u8
 
-#EXTINF:-1 tvg-name="[18:00] Guangzhou dandelion FC vs Hubei Istar | BLV NHÀ ÐÀI" tvg-logo="https://cdn-img.cdnokvip.com/logos/65884_1jnb5ct5r625.png" group-title="LSTV SPORT",[18:00] Guangzhou dandelion FC vs Hubei Istar | BLV NHÀ ÐÀI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://auto.cdnfaster.live/live/sd-6MwcqG3PpEJh4562Wg/playlist.m3u8
-
 #EXTINF:-1 tvg-name="[18:00] University Azzurri FC vs Mindil Aces | BLV NHÀ ÐÀI" tvg-logo="https://cdn-img.cdnokvip.com/logos/44813_1gyk775sbr25.png" group-title="LSTV SPORT",[18:00] University Azzurri FC vs Mindil Aces | BLV NHÀ ÐÀI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://auto.cdnfaster.live/live/sd-6Mwdq8Md9JiKGYWa8t/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[18:00] Guangzhou dandelion FC vs Hubei Istar | BLV NHÀ ÐÀI" tvg-logo="https://cdn-img.cdnokvip.com/logos/65884_1jnb5ct5r625.png" group-title="LSTV SPORT",[18:00] Guangzhou dandelion FC vs Hubei Istar | BLV NHÀ ÐÀI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://auto.cdnfaster.live/live/sd-6MwcqG3PpEJh4562Wg/playlist.m3u8
 
 #EXTINF:-1 tvg-name="[18:30] Guangzhou E-Power vs Beijing Guoan | BLV THẦN THÔNG" tvg-logo="https://media.api-sports.io/football/teams/23269.png" group-title="HỘI QUÁN 1",[18:30] Guangzhou E-Power vs Beijing Guoan | BLV THẦN THÔNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -619,6 +609,11 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="[18:30] Guangzhou E-Power vs Beijing Guoan | BLV Mao Từn" tvg-logo="https://media.api-sports.io/football/teams/23269.png" group-title="VÒNG CẤM TV",[18:30] Guangzhou E-Power vs Beijing Guoan | BLV Mao Từn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+
 #EXTINF:-1 tvg-name="[18:30] Quảng Châu E-Power FC vs Beijing Guoan | BLV 7UP" tvg-logo="https://img.gvapi.cc/football/team/8c08e09f2c1d5628cf599b883fe999bf.png!w80" group-title="CO LA TV",[18:30] Quảng Châu E-Power FC vs Beijing Guoan | BLV 7UP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -633,66 +628,6 @@ https://live05.msdht.app/live/19919577.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://live05.msdht.app/live/99121525.m3u8
-
-#EXTINF:-1 tvg-name="[18:30] Guangzhou E-Power vs Beijing Guoan | BLV Mao Từn" tvg-logo="https://media.api-sports.io/football/teams/23269.png" group-title="VÒNG CẤM TV",[18:30] Guangzhou E-Power vs Beijing Guoan | BLV Mao Từn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[18:30] Guangdong Guangzhou Power vs Beijing Guoan | BLV SAO LA" tvg-logo="https://sta.vnres.co/file/common/20260615/1af7766216e229c6bf692f6444dad37e.png" group-title="SOCO SPORT",[18:30] Guangdong Guangzhou Power vs Beijing Guoan | BLV SAO LA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=b588944798ddc0bd4e5f438f85959858&txTime=6a34dcfe
-
-#EXTINF:-1 tvg-name="[18:30] Hangzhou Linping Wuyue vs Dalian Yingbo | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260615/c9ff1eb6d77c488cba511324e367451e.png" group-title="SOCO SPORT",[18:30] Hangzhou Linping Wuyue vs Dalian Yingbo | BLV XO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781843712-0-0-ce982ff7ace452ed7cf962a51cad6a1e
-
-#EXTINF:-1 tvg-name="[18:30] Hangzhou Linping Wuyue vs Dalian Yingbo | BLV ANH TÀI" tvg-logo="https://sta.vnres.co/file/common/20260615/c9ff1eb6d77c488cba511324e367451e.png" group-title="SOCO SPORT",[18:30] Hangzhou Linping Wuyue vs Dalian Yingbo | BLV ANH TÀI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781808819-0-0-da22bf27ecdc5ffc3689d42e3a038c48
-
-#EXTINF:-1 tvg-name="[18:30] Guangdong Guangzhou Power vs Beijing Guoan | BLV ALEX" tvg-logo="https://sta.vnres.co/file/common/20260615/1af7766216e229c6bf692f6444dad37e.png" group-title="SOCO SPORT",[18:30] Guangdong Guangzhou Power vs Beijing Guoan | BLV ALEX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781838243-0-0-1a11d9691df35f8333dc84f87208e256
-
-#EXTINF:-1 tvg-name="[18:30] Hangzhou Linping Wuyue vs Dalian Yingbo | BLV 24H" tvg-logo="https://sta.vnres.co/file/common/20260615/c9ff1eb6d77c488cba511324e367451e.png" group-title="SOCO SPORT",[18:30] Hangzhou Linping Wuyue vs Dalian Yingbo | BLV 24H
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781802091-0-0-186d7943699ee1018701173669ac6d70
-
-#EXTINF:-1 tvg-name="[18:30] Jiangxi Lushan vs Henan FC | BLV LONG" tvg-logo="https://sta.vnres.co/file/common/20260615/27a4aeb15887b6ffe2f8291fc4420185.png" group-title="SOCO SPORT",[18:30] Jiangxi Lushan vs Henan FC | BLV LONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=dec88e0c34747629673686a10de63ef8&txTime=6a348716
-
-#EXTINF:-1 tvg-name="[18:30] Jiangxi Lushan vs Henan FC | BLV ĐỖ TÚ TÀI" tvg-logo="https://sta.vnres.co/file/common/20260615/27a4aeb15887b6ffe2f8291fc4420185.png" group-title="SOCO SPORT",[18:30] Jiangxi Lushan vs Henan FC | BLV ĐỖ TÚ TÀI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781729745-0-0-7b1b54204b1ce63502d904827bb0dcb5
-
-#EXTINF:-1 tvg-name="[18:30] Jiangxi Lushan vs Henan FC | BLV CÁO" tvg-logo="https://sta.vnres.co/file/common/20260615/27a4aeb15887b6ffe2f8291fc4420185.png" group-title="SOCO SPORT",[18:30] Jiangxi Lushan vs Henan FC | BLV CÁO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781812408-0-0-75887555a7faa28eb89d4e0cdc17525a
-
-#EXTINF:-1 tvg-name="[18:30] Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger | BLV LUCAS" tvg-logo="https://sta.vnres.co/file/common/20260615/0f054af70cd264f39e0d935d5ea3e026.png" group-title="SOCO SPORT",[18:30] Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger | BLV LUCAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781802349-0-0-c17d42aa1d29913809f5ea4cd82d0233
-
-#EXTINF:-1 tvg-name="[18:30] Jiangxi Lushan vs Henan FC | BLV BEN 10" tvg-logo="https://sta.vnres.co/file/common/20260615/27a4aeb15887b6ffe2f8291fc4420185.png" group-title="SOCO SPORT",[18:30] Jiangxi Lushan vs Henan FC | BLV BEN 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781841231-0-0-4981bbd107a47b57a7c930c78584fcce
-
-#EXTINF:-1 tvg-name="[18:30] Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger | BLV QUÂN JK" tvg-logo="https://sta.vnres.co/file/common/20260615/0f054af70cd264f39e0d935d5ea3e026.png" group-title="SOCO SPORT",[18:30] Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger | BLV QUÂN JK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781842302-0-0-9756fb3facbd01186b54de5bcc70d68a
 
 #EXTINF:-1 tvg-name="[18:30] Shenzhen Juniors vs Sichuan Jiuniu | BLV Rồng Đất" tvg-logo="https://media.api-sports.io/football/teams/23265.png" group-title="XAY CON",[18:30] Shenzhen Juniors vs Sichuan Jiuniu | BLV Rồng Đất
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -709,25 +644,85 @@ https://alive.yarncdn.live/xctv_blv_rongdat/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/xctv_blv_rongdat/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="[18:30] Ganzhou Ruishi vs Guangdong Mingtu | BLV NHÀ ÐÀI" tvg-logo="https://cdn-img.cdnokvip.com/logos/58103_1hx91j09eb1s.png" group-title="LSTV SPORT",[18:30] Ganzhou Ruishi vs Guangdong Mingtu | BLV NHÀ ÐÀI
+#EXTINF:-1 tvg-name="[18:30] Guangdong Guangzhou Power vs Beijing Guoan | BLV ALEX" tvg-logo="https://sta.vnres.co/file/common/20260615/1af7766216e229c6bf692f6444dad37e.png" group-title="SOCO SPORT",[18:30] Guangdong Guangzhou Power vs Beijing Guoan | BLV ALEX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://auto.cdnfaster.live/live/sd-6MwcqG3Nz4iwrJ4EZA/playlist.m3u8
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1781838243-0-0-1a11d9691df35f8333dc84f87208e256
+
+#EXTINF:-1 tvg-name="[18:30] Guangdong Guangzhou Power vs Beijing Guoan | BLV SAO LA" tvg-logo="https://sta.vnres.co/file/common/20260615/1af7766216e229c6bf692f6444dad37e.png" group-title="SOCO SPORT",[18:30] Guangdong Guangzhou Power vs Beijing Guoan | BLV SAO LA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=b588944798ddc0bd4e5f438f85959858&txTime=6a34dcfe
+
+#EXTINF:-1 tvg-name="[18:30] Hangzhou Linping Wuyue vs Dalian Yingbo | BLV XO" tvg-logo="https://sta.vnres.co/file/common/20260615/c9ff1eb6d77c488cba511324e367451e.png" group-title="SOCO SPORT",[18:30] Hangzhou Linping Wuyue vs Dalian Yingbo | BLV XO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1781843712-0-0-ce982ff7ace452ed7cf962a51cad6a1e
+
+#EXTINF:-1 tvg-name="[18:30] Jiangxi Lushan vs Henan FC | BLV ĐỖ TÚ TÀI" tvg-logo="https://sta.vnres.co/file/common/20260615/27a4aeb15887b6ffe2f8291fc4420185.png" group-title="SOCO SPORT",[18:30] Jiangxi Lushan vs Henan FC | BLV ĐỖ TÚ TÀI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1781729745-0-0-7b1b54204b1ce63502d904827bb0dcb5
+
+#EXTINF:-1 tvg-name="[18:30] Hangzhou Linping Wuyue vs Dalian Yingbo | BLV ANH TÀI" tvg-logo="https://sta.vnres.co/file/common/20260615/c9ff1eb6d77c488cba511324e367451e.png" group-title="SOCO SPORT",[18:30] Hangzhou Linping Wuyue vs Dalian Yingbo | BLV ANH TÀI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1781808819-0-0-da22bf27ecdc5ffc3689d42e3a038c48
+
+#EXTINF:-1 tvg-name="[18:30] Hangzhou Linping Wuyue vs Dalian Yingbo | BLV 24H" tvg-logo="https://sta.vnres.co/file/common/20260615/c9ff1eb6d77c488cba511324e367451e.png" group-title="SOCO SPORT",[18:30] Hangzhou Linping Wuyue vs Dalian Yingbo | BLV 24H
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-612928_lhd.m3u8?auth_key=1781802091-0-0-186d7943699ee1018701173669ac6d70
+
+#EXTINF:-1 tvg-name="[18:30] Jiangxi Lushan vs Henan FC | BLV LONG" tvg-logo="https://sta.vnres.co/file/common/20260615/27a4aeb15887b6ffe2f8291fc4420185.png" group-title="SOCO SPORT",[18:30] Jiangxi Lushan vs Henan FC | BLV LONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=dec88e0c34747629673686a10de63ef8&txTime=6a348716
+
+#EXTINF:-1 tvg-name="[18:30] Jiangxi Lushan vs Henan FC | BLV CÁO" tvg-logo="https://sta.vnres.co/file/common/20260615/27a4aeb15887b6ffe2f8291fc4420185.png" group-title="SOCO SPORT",[18:30] Jiangxi Lushan vs Henan FC | BLV CÁO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1781812408-0-0-75887555a7faa28eb89d4e0cdc17525a
+
+#EXTINF:-1 tvg-name="[18:30] Jiangxi Lushan vs Henan FC | BLV BEN 10" tvg-logo="https://sta.vnres.co/file/common/20260615/27a4aeb15887b6ffe2f8291fc4420185.png" group-title="SOCO SPORT",[18:30] Jiangxi Lushan vs Henan FC | BLV BEN 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1781841231-0-0-4981bbd107a47b57a7c930c78584fcce
+
+#EXTINF:-1 tvg-name="[18:30] Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger | BLV QUÂN JK" tvg-logo="https://sta.vnres.co/file/common/20260615/0f054af70cd264f39e0d935d5ea3e026.png" group-title="SOCO SPORT",[18:30] Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger | BLV QUÂN JK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1781842302-0-0-9756fb3facbd01186b54de5bcc70d68a
+
+#EXTINF:-1 tvg-name="[18:30] Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger | BLV RYO" tvg-logo="https://sta.vnres.co/file/common/20260615/0f054af70cd264f39e0d935d5ea3e026.png" group-title="SOCO SPORT",[18:30] Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger | BLV RYO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781845200-0-0-fba07b9682632b1f56aa1efcb7cc03de
+
+#EXTINF:-1 tvg-name="[18:30] Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger | BLV LUCAS" tvg-logo="https://sta.vnres.co/file/common/20260615/0f054af70cd264f39e0d935d5ea3e026.png" group-title="SOCO SPORT",[18:30] Lanzhou Longyuan Athletic vs Tianjin Jinmen Tiger | BLV LUCAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1781802349-0-0-c17d42aa1d29913809f5ea4cd82d0233
 
 #EXTINF:-1 tvg-name="[18:30] Lanzhou Longyuan Athletics vs Tianjin Tigers | BLV NHÀ ÐÀI" tvg-logo="https://cdn-img.cdnokvip.com/logos/61779_1h0rv0qqdn2f.png" group-title="LSTV SPORT",[18:30] Lanzhou Longyuan Athletics vs Tianjin Tigers | BLV NHÀ ÐÀI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://auto.cdnfaster.live/live/sd-6Mwe5HcRdiPDg5npTW/playlist.m3u8
 
+#EXTINF:-1 tvg-name="[18:30] Ganzhou Ruishi vs Guangdong Mingtu | BLV NHÀ ÐÀI" tvg-logo="https://cdn-img.cdnokvip.com/logos/58103_1hx91j09eb1s.png" group-title="LSTV SPORT",[18:30] Ganzhou Ruishi vs Guangdong Mingtu | BLV NHÀ ÐÀI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://auto.cdnfaster.live/live/sd-6MwcqG3Nz4iwrJ4EZA/playlist.m3u8
+
 #EXTINF:-1 tvg-name="[18:30] Quảng Châu E-Power FC vs Beijing Guoan | BLV CAM" tvg-logo="https://img0.aiscore.com/football/team/8c08e09f2c1d5628cf599b883fe999bf.png!w80" group-title="XEMBONGHAY",[18:30] Quảng Châu E-Power FC vs Beijing Guoan | BLV CAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/88591b4d.m3u8?auth_key=1781841602-0-0-054f6ec10f748a9866b185c1f4fdabbd
+https://pull.vod2gwuskh.com/xem/88591b4d.m3u8?auth_key=1781842203-0-0-50e41b92a9571d25c98adc7a6aa40475
 
 #EXTINF:-1 tvg-name="[18:30] Thành phố vinh quang Lang Phường vs Câu lạc bộ bóng đá Zhixing Đại Liên | BLV KEVIN" tvg-logo="https://img0.aiscore.com/football/team/b493c3e5b0fb8c1c48b1a685b2a33c26.png!w80" group-title="XEMBONGHAY",[18:30] Thành phố vinh quang Lang Phường vs Câu lạc bộ bóng đá Zhixing Đại Liên | BLV KEVIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/cc26f87f.m3u8?auth_key=1781841603-0-0-7f582427ca08e475d777de35274d4f1a
+https://pull.vod2gwuskh.com/xem/cc26f87f.m3u8?auth_key=1781842203-0-0-3ccf1aa5213859d94e5afa3c13e11bcc
 
 #EXTINF:-1 tvg-name="[18:35] Wuhan Jianghan (W) vs ShanXi zhidan (W) | BLV NHÀ ÐÀI" tvg-logo="https://cdn-img.cdnokvip.com/logos/7850_1gtzda45752y.png" group-title="LSTV SPORT",[18:35] Wuhan Jianghan (W) vs ShanXi zhidan (W) | BLV NHÀ ÐÀI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -754,11 +749,6 @@ https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="[19:00] Nhật Bản Nữ vs Cộng hòa Séc Nữ | BLV Kaka" tvg-logo="https://static.flashscore.com/res/image/data/0WJLxnGG-zLx3xGjj.png" group-title="KHAN DAI A",[19:00] Nhật Bản Nữ vs Cộng hòa Séc Nữ | BLV Kaka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://q9kh24w2ba.yarncdn.live/live/kda-blv-kk/playlist.m3u8
-
 #EXTINF:-1 tvg-name="[19:00] Japan W vs Czech Republic W | BLV Chim Nhỏ" tvg-logo="https://static.flashscore.com/res/image/data/0WJLxnGG-zLx3xGjj.png" group-title="VÒNG CẤM TV",[19:00] Japan W vs Czech Republic W | BLV Chim Nhỏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -768,6 +758,11 @@ https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[19:00] Nhật Bản Nữ vs Cộng hòa Séc Nữ | BLV Kaka" tvg-logo="https://static.flashscore.com/res/image/data/0WJLxnGG-zLx3xGjj.png" group-title="KHAN DAI A",[19:00] Nhật Bản Nữ vs Cộng hòa Séc Nữ | BLV Kaka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://q9kh24w2ba.yarncdn.live/live/kda-blv-kk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="[19:30] Sài Gòn Heat vs Hanoi buffalo | BLV ROCKSTAR" tvg-logo="https://img.gvapi.cc/basketball/team/fb1060fc304744d0b50e6a180fbc98c2.png!w80" group-title="CO LA TV",[19:30] Sài Gòn Heat vs Hanoi buffalo | BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -904,15 +899,15 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="[21:00] Khan Tengri FC vs FK Taraz | BLV 7UP" tvg-logo="https://img.gvapi.cc/football/team/05cf441029dee335fd968c6bf40f9ad5.png!w80" group-title="CO LA TV",[21:00] Khan Tengri FC vs FK Taraz | BLV 7UP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://live05.msdht.app/live/78905744.m3u8
-
 #EXTINF:-1 tvg-name="[21:00] Khan Tengri vs Taraz | BLV Tiểu Mèo" tvg-logo="https://media.api-sports.io/football/teams/18805.png" group-title="VÒNG CẤM TV",[21:00] Khan Tengri vs Taraz | BLV Tiểu Mèo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[21:00] Khan Tengri FC vs FK Taraz | BLV 7UP" tvg-logo="https://img.gvapi.cc/football/team/05cf441029dee335fd968c6bf40f9ad5.png!w80" group-title="CO LA TV",[21:00] Khan Tengri FC vs FK Taraz | BLV 7UP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://live05.msdht.app/live/78905744.m3u8
 
 #EXTINF:-1 tvg-name="[21:00] Khan Tengri FC vs FK Taraz | BLV HÀ DUY KIÊN" tvg-logo="https://sta.vnres.co/file/common/20260615/b99a77e71987af3bda31e4246ee14072.png" group-title="SOCO SPORT",[21:00] Khan Tengri FC vs FK Taraz | BLV HÀ DUY KIÊN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -949,21 +944,6 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-beu/playlist.m3u8
 
-#EXTINF:-1 tvg-name="[22:00] Naftan vs Baranovichi | BLV Coca" tvg-logo="https://media.api-sports.io/football/teams/750.png" group-title="TAM QUOC TV",[22:00] Naftan vs Baranovichi | BLV Coca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://tqlive.yarncdn.live/live/tqtv_blv_coca/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[22:00] Naftan vs Baranovichi | BLV Coca" tvg-logo="https://media.api-sports.io/football/teams/750.png" group-title="TAM QUOC TV",[22:00] Naftan vs Baranovichi | BLV Coca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://alive.yarncdn.live/tqtv_blv_coca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="[22:00] Naftan vs Baranovichi | BLV Coca" tvg-logo="https://media.api-sports.io/football/teams/750.png" group-title="TAM QUOC TV",[22:00] Naftan vs Baranovichi | BLV Coca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://alive.yarncdn.live/tqtv_blv_coca/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="[22:00] Naftan Novopolock vs Baranovici | BLV MOUNTAIN DEW" tvg-logo="https://img.gvapi.cc/football/team/64ce89d02cc5898473912ceb88178b99.png!w80" group-title="CO LA TV",[22:00] Naftan Novopolock vs Baranovici | BLV MOUNTAIN DEW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -984,10 +964,25 @@ https://alive.yarncdn.live/xctv_blv_tammao/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/xctv_blv_tammao/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="[22:00] Naftan vs Baranovichi | BLV Coca" tvg-logo="https://media.api-sports.io/football/teams/750.png" group-title="TAM QUOC TV",[22:00] Naftan vs Baranovichi | BLV Coca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://tqlive.yarncdn.live/live/tqtv_blv_coca/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[22:00] Naftan vs Baranovichi | BLV Coca" tvg-logo="https://media.api-sports.io/football/teams/750.png" group-title="TAM QUOC TV",[22:00] Naftan vs Baranovichi | BLV Coca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://alive.yarncdn.live/tqtv_blv_coca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="[22:00] Naftan vs Baranovichi | BLV Coca" tvg-logo="https://media.api-sports.io/football/teams/750.png" group-title="TAM QUOC TV",[22:00] Naftan vs Baranovichi | BLV Coca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://alive.yarncdn.live/tqtv_blv_coca/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="[22:00] Naftan Novopolock vs Baranovici | BLV CAM" tvg-logo="https://img0.aiscore.com/football/team/64ce89d02cc5898473912ceb88178b99.png!w80" group-title="XEMBONGHAY",[22:00] Naftan Novopolock vs Baranovici | BLV CAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/b433da1b.m3u8?auth_key=1781841603-0-0-e8adc5b966e71c5ce50f1e1b143f6561
+https://pull.vod2gwuskh.com/xem/b433da1b.m3u8?auth_key=1781842203-0-0-88c3c5c4d4a271dd4f46b2a50fb0f0f5
 
 #EXTINF:-1 tvg-name="[22:30] Elina Svitolina vs Alexandra Eala | BLV PHAN CA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5M9hwvSbtia3mudgiHt09H8e9t-mhfHQ9g&s" group-title="HỘI QUÁN 1",[22:30] Elina Svitolina vs Alexandra Eala | BLV PHAN CA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -1059,11 +1054,6 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-isco/playlist.m3u8
 
-#EXTINF:-1 tvg-name="[00:00] Dalian Yingbo 2 vs Haimen Codion | BLV NGƯỜI SẮT" tvg-logo="https://s8tv.social/wp-json/s8-image/f5963ff8-05fb-4a75-abef-38b0f6d8a29a" group-title="S8TV",[00:00] Dalian Yingbo 2 vs Haimen Codion | BLV NGƯỜI SẮT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://hls.lauthaitv.cc/live/dalian2-haimen-chnleague2/index.m3u8
-
 #EXTINF:-1 tvg-name="[00:00] Ranheim vs Lyn | BLV A Cỏ" tvg-logo="https://media.api-sports.io/football/teams/322.png" group-title="XAY CON",[00:00] Ranheim vs Lyn | BLV A Cỏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -1078,6 +1068,11 @@ https://alive.yarncdn.live/xctv_blv_aco/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/xctv_blv_aco/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="[00:00] Dalian Yingbo 2 vs Haimen Codion | BLV NGƯỜI SẮT" tvg-logo="https://s8tv.social/wp-json/s8-image/f5963ff8-05fb-4a75-abef-38b0f6d8a29a" group-title="S8TV",[00:00] Dalian Yingbo 2 vs Haimen Codion | BLV NGƯỜI SẮT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://hls.lauthaitv.cc/live/dalian2-haimen-chnleague2/index.m3u8
 
 #EXTINF:-1 tvg-name="[01:00] Shaanxi Union vs Zhejiang Professional FC | BLV NGƯỜI PHÁO" tvg-logo="https://s8tv.social/wp-json/s8-image/9faa0b03-79fb-4fd9-9159-aeac5132288f" group-title="S8TV",[01:00] Shaanxi Union vs Zhejiang Professional FC | BLV NGƯỜI PHÁO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -1119,6 +1114,16 @@ https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Chim Nhỏ" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="VÒNG CẤM TV",[02:00] USA vs Australia | BLV Chim Nhỏ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Mao Từn" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="VÒNG CẤM TV",[02:00] USA vs Australia | BLV Mao Từn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+
 #EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Nhật Tinh Ngao" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="KHAN DAI A",[02:00] USA vs Australia | BLV Nhật Tinh Ngao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -1128,36 +1133,6 @@ https://q9kh24w2ba.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-delua/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Ricky" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="TAM QUOC TV",[02:00] USA vs Australia | BLV Ricky
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Ricky" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="TAM QUOC TV",[02:00] USA vs Australia | BLV Ricky
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://alive.yarncdn.live/tqtv_blv_ricky/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Ricky" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="TAM QUOC TV",[02:00] USA vs Australia | BLV Ricky
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://alive.yarncdn.live/tqtv_blv_ricky/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Coca" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="TAM QUOC TV",[02:00] USA vs Australia | BLV Coca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://tqlive.yarncdn.live/live/tqtv_blv_coca/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Coca" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="TAM QUOC TV",[02:00] USA vs Australia | BLV Coca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://alive.yarncdn.live/tqtv_blv_coca/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Coca" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="TAM QUOC TV",[02:00] USA vs Australia | BLV Coca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://alive.yarncdn.live/tqtv_blv_coca/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="[02:00] Mỹ vs ĐTQG Úc | BLV C2" tvg-logo="https://img.gvapi.cc/football/team/08e9fb9c257f63bc57837b42b31f8cef.png!w80" group-title="CO LA TV",[02:00] Mỹ vs ĐTQG Úc | BLV C2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -1178,16 +1153,6 @@ https://live05.msdht.app/live/14830711.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://live05.msdht.app/live/24561735.m3u8
-
-#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Chim Nhỏ" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="VÒNG CẤM TV",[02:00] USA vs Australia | BLV Chim Nhỏ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Mao Từn" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="VÒNG CẤM TV",[02:00] USA vs Australia | BLV Mao Từn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 
 #EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Thợ Lặn" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="XAY CON",[02:00] USA vs Australia | BLV Thợ Lặn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -1234,15 +1199,45 @@ https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/xctv_blv_bipcon/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Ricky" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="TAM QUOC TV",[02:00] USA vs Australia | BLV Ricky
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Ricky" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="TAM QUOC TV",[02:00] USA vs Australia | BLV Ricky
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://alive.yarncdn.live/tqtv_blv_ricky/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Ricky" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="TAM QUOC TV",[02:00] USA vs Australia | BLV Ricky
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://alive.yarncdn.live/tqtv_blv_ricky/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Coca" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="TAM QUOC TV",[02:00] USA vs Australia | BLV Coca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://tqlive.yarncdn.live/live/tqtv_blv_coca/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Coca" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="TAM QUOC TV",[02:00] USA vs Australia | BLV Coca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://alive.yarncdn.live/tqtv_blv_coca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV Coca" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="TAM QUOC TV",[02:00] USA vs Australia | BLV Coca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://alive.yarncdn.live/tqtv_blv_coca/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="[02:00] Mỹ vs ĐTQG Úc | BLV HỌA MI" tvg-logo="https://img0.aiscore.com/football/team/350ec526535f4c9a81f9d9201948d9d5.png!w80" group-title="XEMBONGHAY",[02:00] Mỹ vs ĐTQG Úc | BLV HỌA MI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/d87d3902.m3u8?auth_key=1781841603-0-0-6d598a8d8c6f93b96b8dd60195b9b57a
+https://pull.vod2gwuskh.com/xem/d87d3902.m3u8?auth_key=1781842203-0-0-78836abeeb279ef465ba36e87c346ab3
 
 #EXTINF:-1 tvg-name="[02:00] Mỹ vs ĐTQG Úc | BLV LUCA" tvg-logo="https://img0.aiscore.com/football/team/350ec526535f4c9a81f9d9201948d9d5.png!w80" group-title="XEMBONGHAY",[02:00] Mỹ vs ĐTQG Úc | BLV LUCA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/b219f59c.m3u8?auth_key=1781841603-0-0-096e94c40212094c009e2ed1cede41f3
+https://pull.vod2gwuskh.com/xem/b219f59c.m3u8?auth_key=1781842203-0-0-d2e496cb3a9c398095939e116b14e797
 
 #EXTINF:-1 tvg-name="[02:00] USA vs Australia | BLV PUMA" tvg-logo="https://media.api-sports.io/football/teams/2384.png" group-title="QUECHOA TV",[02:00] USA vs Australia | BLV PUMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -1314,6 +1309,16 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="[05:00] Scotland vs Morocco | BLV Tiểu Trà Đá" tvg-logo="https://media.api-sports.io/football/teams/1108.png" group-title="VÒNG CẤM TV",[05:00] Scotland vs Morocco | BLV Tiểu Trà Đá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[05:00] Scotland vs Morocco | BLV Mao Từn" tvg-logo="https://media.api-sports.io/football/teams/1108.png" group-title="VÒNG CẤM TV",[05:00] Scotland vs Morocco | BLV Mao Từn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
+
 #EXTINF:-1 tvg-name="[05:00] Scotland vs Morocco | BLV Nhật Tinh Ngao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg" group-title="KHAN DAI A",[05:00] Scotland vs Morocco | BLV Nhật Tinh Ngao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -1343,21 +1348,6 @@ https://live05.msdht.app/live/90865415.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://live05.msdht.app/live/78905744.m3u8
-
-#EXTINF:-1 tvg-name="[05:00] Scotland vs Morocco | BLV Tiểu Trà Đá" tvg-logo="https://media.api-sports.io/football/teams/1108.png" group-title="VÒNG CẤM TV",[05:00] Scotland vs Morocco | BLV Tiểu Trà Đá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[05:00] Scotland vs Morocco | BLV Mao Từn" tvg-logo="https://media.api-sports.io/football/teams/1108.png" group-title="VÒNG CẤM TV",[05:00] Scotland vs Morocco | BLV Mao Từn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[05:00] Naftan Novopolotsk vs FC Baranovichi | BLV NGƯỜI SÓI" tvg-logo="https://s8tv.social/wp-json/s8-image/882f12da-9774-4e8d-b8c6-9576c015ab64" group-title="S8TV",[05:00] Naftan Novopolotsk vs FC Baranovichi | BLV NGƯỜI SÓI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://hls.lauthaitv.cc/live/novo-bara-blrprem/index.m3u8
 
 #EXTINF:-1 tvg-name="[05:00] Scotland vs Morocco | BLV Bịp Con" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg" group-title="XAY CON",[05:00] Scotland vs Morocco | BLV Bịp Con
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -1404,20 +1394,25 @@ https://alive.yarncdn.live/xctv_blv_tholan/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/xctv_blv_tholan/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="[05:00] Naftan Novopolotsk vs FC Baranovichi | BLV NGƯỜI SÓI" tvg-logo="https://s8tv.social/wp-json/s8-image/882f12da-9774-4e8d-b8c6-9576c015ab64" group-title="S8TV",[05:00] Naftan Novopolotsk vs FC Baranovichi | BLV NGƯỜI SÓI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://hls.lauthaitv.cc/live/novo-bara-blrprem/index.m3u8
+
 #EXTINF:-1 tvg-name="[05:00] ĐTQG Scotland vs Ma Rốc | BLV LUCA" tvg-logo="https://img0.aiscore.com/football/team/40812113b19045bfac9e0fd11134ac87.png!w80" group-title="XEMBONGHAY",[05:00] ĐTQG Scotland vs Ma Rốc | BLV LUCA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/4392e631.m3u8?auth_key=1781841603-0-0-e88eaf7dd5f66e03305c2d5948e7cc9e
+https://pull.vod2gwuskh.com/xem/4392e631.m3u8?auth_key=1781842204-0-0-55f410a65c4ab98b3a4d16b79adfaf7e
 
 #EXTINF:-1 tvg-name="[05:00] ĐTQG Scotland vs Ma Rốc | BLV HỌA MI" tvg-logo="https://img0.aiscore.com/football/team/40812113b19045bfac9e0fd11134ac87.png!w80" group-title="XEMBONGHAY",[05:00] ĐTQG Scotland vs Ma Rốc | BLV HỌA MI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/edf959e1.m3u8?auth_key=1781841603-0-0-f49ac0352cb63793711c60302300e418
+https://pull.vod2gwuskh.com/xem/edf959e1.m3u8?auth_key=1781842204-0-0-67d21a036925a937eb3a2db941536573
 
 #EXTINF:-1 tvg-name="[05:00] ĐTQG Scotland vs Ma Rốc | BLV CAM" tvg-logo="https://img0.aiscore.com/football/team/40812113b19045bfac9e0fd11134ac87.png!w80" group-title="XEMBONGHAY",[05:00] ĐTQG Scotland vs Ma Rốc | BLV CAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/9bde76f2.m3u8?auth_key=1781841603-0-0-91f7c62f6046a8c0bde48e884a96153f
+https://pull.vod2gwuskh.com/xem/9bde76f2.m3u8?auth_key=1781842204-0-0-51c59a0f43d5b03fc1c32bc1e86c7eae
 
 #EXTINF:-1 tvg-name="[05:00] Scotland vs Morocco | BLV CHÈ XANH" tvg-logo="https://media.api-sports.io/football/teams/1108.png" group-title="QUECHOA TV",[05:00] Scotland vs Morocco | BLV CHÈ XANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -1519,6 +1514,21 @@ https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="[07:30] Brazil vs Haiti | BLV Tiểu Trà Đá" tvg-logo="https://media.api-sports.io/football/teams/6.png" group-title="VÒNG CẤM TV",[07:30] Brazil vs Haiti | BLV Tiểu Trà Đá
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[07:30] Brazil vs Haiti | BLV Lềnh" tvg-logo="https://media.api-sports.io/football/teams/6.png" group-title="VÒNG CẤM TV",[07:30] Brazil vs Haiti | BLV Lềnh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[07:30] Brazil vs Haiti | BLV Phi MC" tvg-logo="https://media.api-sports.io/football/teams/6.png" group-title="VÒNG CẤM TV",[07:30] Brazil vs Haiti | BLV Phi MC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+
 #EXTINF:-1 tvg-name="[07:30] Brazil vs Haiti | BLV Dế Lửa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png" group-title="KHAN DAI A",[07:30] Brazil vs Haiti | BLV Dế Lửa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -1554,35 +1564,20 @@ https://live05.msdht.app/live/24561735.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://live05.msdht.app/live/87379114.m3u8
 
-#EXTINF:-1 tvg-name="[07:30] Brazil vs Haiti | BLV Tiểu Trà Đá" tvg-logo="https://media.api-sports.io/football/teams/6.png" group-title="VÒNG CẤM TV",[07:30] Brazil vs Haiti | BLV Tiểu Trà Đá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[07:30] Brazil vs Haiti | BLV Lềnh" tvg-logo="https://media.api-sports.io/football/teams/6.png" group-title="VÒNG CẤM TV",[07:30] Brazil vs Haiti | BLV Lềnh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[07:30] Brazil vs Haiti | BLV Phi MC" tvg-logo="https://media.api-sports.io/football/teams/6.png" group-title="VÒNG CẤM TV",[07:30] Brazil vs Haiti | BLV Phi MC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-
 #EXTINF:-1 tvg-name="[07:30] Brazil vs Haiti | BLV SHIO" tvg-logo="https://img0.aiscore.com/football/team/c718af22dc754a6b8dc103901c554eb8.png!w80" group-title="XEMBONGHAY",[07:30] Brazil vs Haiti | BLV SHIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/bd21307b.m3u8?auth_key=1781841603-0-0-a06b3a9b6e11897d7f7e3c6957f280e9
+https://pull.vod2gwuskh.com/xem/bd21307b.m3u8?auth_key=1781842204-0-0-a9d9fb615e0499eb157c08539a911c35
 
 #EXTINF:-1 tvg-name="[07:30] Brazil vs Haiti | BLV CAM" tvg-logo="https://img0.aiscore.com/football/team/c718af22dc754a6b8dc103901c554eb8.png!w80" group-title="XEMBONGHAY",[07:30] Brazil vs Haiti | BLV CAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/0634ac71.m3u8?auth_key=1781841603-0-0-e540093692b48f5bdf4e47bb909ff35c
+https://pull.vod2gwuskh.com/xem/0634ac71.m3u8?auth_key=1781842204-0-0-5ab4b79b59bc8940876fcbbad40445e7
 
 #EXTINF:-1 tvg-name="[07:30] Brazil vs Haiti | BLV HỌA MI" tvg-logo="https://img0.aiscore.com/football/team/c718af22dc754a6b8dc103901c554eb8.png!w80" group-title="XEMBONGHAY",[07:30] Brazil vs Haiti | BLV HỌA MI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/1662d130.m3u8?auth_key=1781841604-0-0-efb84acc0fa9e328d586782ccf6fc91d
+https://pull.vod2gwuskh.com/xem/1662d130.m3u8?auth_key=1781842204-0-0-2ac45b87ccbca246ddfa08c25cffe99e
 
 #EXTINF:-1 tvg-name="[07:30] Brazil vs Haiti | BLV DƯA HẤU" tvg-logo="https://media.api-sports.io/football/teams/6.png" group-title="QUECHOA TV",[07:30] Brazil vs Haiti | BLV DƯA HẤU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -1664,6 +1659,16 @@ https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="[10:00] Türkiye vs Paraguay | BLV Phi MC" tvg-logo="https://media.api-sports.io/football/teams/777.png" group-title="VÒNG CẤM TV",[10:00] Türkiye vs Paraguay | BLV Phi MC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[10:00] Türkiye vs Paraguay | BLV Lềnh" tvg-logo="https://media.api-sports.io/football/teams/777.png" group-title="VÒNG CẤM TV",[10:00] Türkiye vs Paraguay | BLV Lềnh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
+
 #EXTINF:-1 tvg-name="[10:00] Türkiye vs Paraguay | BLV Nhật Tinh Ngao" tvg-logo="https://media.api-sports.io/football/teams/777.png" group-title="KHAN DAI A",[10:00] Türkiye vs Paraguay | BLV Nhật Tinh Ngao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -1694,25 +1699,15 @@ https://live05.msdht.app/live/82054853.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://live05.msdht.app/live/19919577.m3u8
 
-#EXTINF:-1 tvg-name="[10:00] Türkiye vs Paraguay | BLV Phi MC" tvg-logo="https://media.api-sports.io/football/teams/777.png" group-title="VÒNG CẤM TV",[10:00] Türkiye vs Paraguay | BLV Phi MC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-
-#EXTINF:-1 tvg-name="[10:00] Türkiye vs Paraguay | BLV Lềnh" tvg-logo="https://media.api-sports.io/football/teams/777.png" group-title="VÒNG CẤM TV",[10:00] Türkiye vs Paraguay | BLV Lềnh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
-
 #EXTINF:-1 tvg-name="[10:00] Thổ nhĩ kỳ vs Paraguay | BLV SHIO" tvg-logo="https://img0.aiscore.com/football/team/a175df50667b42ef97dcb52a9a8b1c1a.png!w80" group-title="XEMBONGHAY",[10:00] Thổ nhĩ kỳ vs Paraguay | BLV SHIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/7463afe2.m3u8?auth_key=1781841604-0-0-9fe11703d370acf135192a054f3e892d
+https://pull.vod2gwuskh.com/xem/7463afe2.m3u8?auth_key=1781842204-0-0-d1f87005ded5d4220bafa98509ebab4d
 
 #EXTINF:-1 tvg-name="[10:00] Thổ nhĩ kỳ vs Paraguay | BLV LUCA" tvg-logo="https://img0.aiscore.com/football/team/a175df50667b42ef97dcb52a9a8b1c1a.png!w80" group-title="XEMBONGHAY",[10:00] Thổ nhĩ kỳ vs Paraguay | BLV LUCA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/69f8ea31.m3u8?auth_key=1781841604-0-0-2b78664ea46dece994b3ab841aa9792d
+https://pull.vod2gwuskh.com/xem/69f8ea31.m3u8?auth_key=1781842204-0-0-fa64d45682a0c048525b67b8163bcfaf
 
 #EXTINF:-1 tvg-name="[10:00] Türkiye vs Paraguay | BLV VỎ QUÝT" tvg-logo="https://media.api-sports.io/football/teams/777.png" group-title="QUECHOA TV",[10:00] Türkiye vs Paraguay | BLV VỎ QUÝT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -1839,15 +1834,15 @@ https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="[15:00] Thánh giá George Springs của Caroline Springs vs Dandenong City | BLV BÍ ĐAO" tvg-logo="https://img.gvapi.cc/football/team/e9fe5248e24a1ccdffa4af70e767ffa7.png!w80" group-title="CO LA TV",[15:00] Thánh giá George Springs của Caroline Springs vs Dandenong City | BLV BÍ ĐAO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://live05.msdht.app/live/99121525.m3u8
-
 #EXTINF:-1 tvg-name="[15:00] USA W vs Italy W | BLV Pháo" tvg-logo="https://static.flashscore.com/res/image/data/zoIpbvHG-W6UqXKEA.png" group-title="VÒNG CẤM TV",[15:00] USA W vs Italy W | BLV Pháo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[15:00] Thánh giá George Springs của Caroline Springs vs Dandenong City | BLV BÍ ĐAO" tvg-logo="https://img.gvapi.cc/football/team/e9fe5248e24a1ccdffa4af70e767ffa7.png!w80" group-title="CO LA TV",[15:00] Thánh giá George Springs của Caroline Springs vs Dandenong City | BLV BÍ ĐAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://live05.msdht.app/live/99121525.m3u8
 
 #EXTINF:-1 tvg-name="[16:00] Ningbo Professional vs Chongqing Tongliang Long | BLV PHAN CA" tvg-logo="https://media.api-sports.io/football/teams/27556.png" group-title="HỘI QUÁN 1",[16:00] Ningbo Professional vs Chongqing Tongliang Long | BLV PHAN CA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -1939,6 +1934,11 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-name="[18:30] Hebei Kungfu vs Shanghai Shenhua | BLV Phi MC" tvg-logo="https://media.api-sports.io/football/teams/17264.png" group-title="VÒNG CẤM TV",[18:30] Hebei Kungfu vs Shanghai Shenhua | BLV Phi MC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+
 #EXTINF:-1 tvg-name="[18:30] Câu lạc bộ bóng đá Quảng Tây Hengchen vs Shandong Taishan | BLV SPRITE" tvg-logo="https://img.gvapi.cc/football/team/7543134c669d639c3ff036bc215a3b62.png!w80" group-title="CO LA TV",[18:30] Câu lạc bộ bóng đá Quảng Tây Hengchen vs Shandong Taishan | BLV SPRITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -1954,20 +1954,15 @@ https://live05.msdht.app/live/02456966.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://live05.msdht.app/live/75915087.m3u8
 
-#EXTINF:-1 tvg-name="[18:30] Hebei Kungfu vs Shanghai Shenhua | BLV Phi MC" tvg-logo="https://media.api-sports.io/football/teams/17264.png" group-title="VÒNG CẤM TV",[18:30] Hebei Kungfu vs Shanghai Shenhua | BLV Phi MC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-
 #EXTINF:-1 tvg-name="[18:30] Shanghai Zetian vs Chengdu Rongcheng | BLV KEVIN" tvg-logo="https://img0.aiscore.com/football/team/48ca4f90b0590c25024da1025ee596ff.png!w80" group-title="XEMBONGHAY",[18:30] Shanghai Zetian vs Chengdu Rongcheng | BLV KEVIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/1b2bae9e.m3u8?auth_key=1781841604-0-0-000f57dcf693fdc875845025ad6e24dd
+https://pull.vod2gwuskh.com/xem/1b2bae9e.m3u8?auth_key=1781842204-0-0-ccf6edb944201d1f01c7bbba154ec61a
 
 #EXTINF:-1 tvg-name="[18:30] HeBei KungFu vs Shanghai Shenhua | BLV CAM" tvg-logo="https://img0.aiscore.com/football/team/0408f34aeb9005f8f65c4c2e80478235.png!w80" group-title="XEMBONGHAY",[18:30] HeBei KungFu vs Shanghai Shenhua | BLV CAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/5b5abc70.m3u8?auth_key=1781841604-0-0-a16578ab6bfb2b225405940e0a508282
+https://pull.vod2gwuskh.com/xem/5b5abc70.m3u8?auth_key=1781842204-0-0-ea36379ceec0e84e45424b79fc4d045f
 
 #EXTINF:-1 tvg-name="[19:00] Nhật Bản vs Cộng Hòa Dominicana | BLV LƯƠNG BỔNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png" group-title="HỘI QUÁN 1",[19:00] Nhật Bản vs Cộng Hòa Dominicana | BLV LƯƠNG BỔNG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -1999,15 +1994,15 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="[19:00] Chengdu Rongcheng B vs Yichun Grand Tiger | BLV MOUNTAIN DEW" tvg-logo="https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80" group-title="CO LA TV",[19:00] Chengdu Rongcheng B vs Yichun Grand Tiger | BLV MOUNTAIN DEW
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://live05.msdht.app/live/87547578.m3u8
-
 #EXTINF:-1 tvg-name="[19:00] Japan W vs Dominican W | BLV Pháo" tvg-logo="https://static.flashscore.com/res/image/data/0WJLxnGG-zLx3xGjj.png" group-title="VÒNG CẤM TV",[19:00] Japan W vs Dominican W | BLV Pháo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[19:00] Chengdu Rongcheng B vs Yichun Grand Tiger | BLV MOUNTAIN DEW" tvg-logo="https://img.gvapi.cc/football/team/15b9e3f5c163260c1e77e246dcb58cfd.png!w80" group-title="CO LA TV",[19:00] Chengdu Rongcheng B vs Yichun Grand Tiger | BLV MOUNTAIN DEW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://live05.msdht.app/live/87547578.m3u8
 
 #EXTINF:-1 tvg-name="[19:30] Hochiminh City Wings vs Nha Trang Dolphins | BLV ROCKSTAR" tvg-logo="https://img.gvapi.cc/basketball/team/a431de8af67ea988c837ff726cdb30ca.png!w80" group-title="CO LA TV",[19:30] Hochiminh City Wings vs Nha Trang Dolphins | BLV ROCKSTAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -2017,7 +2012,7 @@ https://live05.msdht.app/live/82054853.m3u8
 #EXTINF:-1 tvg-name="[19:30] Hochiminh City Wings vs Nha Trang Dolphins | BLV AKHOI" tvg-logo="https://img0.aiscore.com/basketball/team/a431de8af67ea988c837ff726cdb30ca.png!w80" group-title="XEMBONGHAY",[19:30] Hochiminh City Wings vs Nha Trang Dolphins | BLV AKHOI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/784a9c5b.m3u8?auth_key=1781841604-0-0-70a5573418223ec875c30cdc3fa9ee9a
+https://pull.vod2gwuskh.com/xem/784a9c5b.m3u8?auth_key=1781842204-0-0-39f73d986356d6d45b007e21fa326f84
 
 #EXTINF:-1 tvg-name="[20:00] Trung Quốc vs Brazil | BLV PHAN CHỚP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQOuJBhheUKikHwopx5J3hD7olyljs3suGQ&s" group-title="HỘI QUÁN 1",[20:00] Trung Quốc vs Brazil | BLV PHAN CHỚP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -2069,15 +2064,15 @@ https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="[20:30] Câu lạc bộ Bóng đá Slavia Mozyr vs FK Isloch Minsk | BLV PEPSI" tvg-logo="https://img.gvapi.cc/football/team/5d2cb6fdc8934f80107352ea5efb7e64.png!w80" group-title="CO LA TV",[20:30] Câu lạc bộ Bóng đá Slavia Mozyr vs FK Isloch Minsk | BLV PEPSI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://live05.msdht.app/live/43612277.m3u8
-
 #EXTINF:-1 tvg-name="[20:30] Thailand W vs Canada W | BLV Chim Nhỏ" tvg-logo="https://static.flashscore.com/res/image/data/pWVxGjFa-zLx3xGjj.png" group-title="VÒNG CẤM TV",[20:30] Thailand W vs Canada W | BLV Chim Nhỏ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+
+#EXTINF:-1 tvg-name="[20:30] Câu lạc bộ Bóng đá Slavia Mozyr vs FK Isloch Minsk | BLV PEPSI" tvg-logo="https://img.gvapi.cc/football/team/5d2cb6fdc8934f80107352ea5efb7e64.png!w80" group-title="CO LA TV",[20:30] Câu lạc bộ Bóng đá Slavia Mozyr vs FK Isloch Minsk | BLV PEPSI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://live05.msdht.app/live/43612277.m3u8
 
 #EXTINF:-1 tvg-name="[21:00] Londrina vs CLB Athletic MG | BLV 247" tvg-logo="https://img.gvapi.cc/football/team/9d3195be22d95cf5d35790272afc724a.png!w80" group-title="CO LA TV",[21:00] Londrina vs CLB Athletic MG | BLV 247
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -2152,12 +2147,12 @@ https://live05.msdht.app/live/90865415.m3u8
 #EXTINF:-1 tvg-name="[00:00] ĐTQG Hà Lan vs Thụy Điển | BLV LUCA" tvg-logo="https://img0.aiscore.com/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png!w80" group-title="XEMBONGHAY",[00:00] ĐTQG Hà Lan vs Thụy Điển | BLV LUCA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/42edd1ec.m3u8?auth_key=1781841604-0-0-04c427a53523ad1735aeb9ecca72a6fe
+https://pull.vod2gwuskh.com/xem/42edd1ec.m3u8?auth_key=1781842205-0-0-0f6d19e9ba6264f0823b785749681ca2
 
 #EXTINF:-1 tvg-name="[00:00] ĐTQG Hà Lan vs Thụy Điển | BLV HỌA MI" tvg-logo="https://img0.aiscore.com/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png!w80" group-title="XEMBONGHAY",[00:00] ĐTQG Hà Lan vs Thụy Điển | BLV HỌA MI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/8eb4b4c0.m3u8?auth_key=1781841604-0-0-2c758e8d30d38f74a7e64bfd62c1e887
+https://pull.vod2gwuskh.com/xem/8eb4b4c0.m3u8?auth_key=1781842205-0-0-1f695908b9fbd4bc1c403bee44a167b0
 
 #EXTINF:-1 tvg-name="[00:00] Netherlands vs Sweden | BLV PUMA" tvg-logo="https://media.api-sports.io/football/teams/1118.png" group-title="QUECHOA TV",[00:00] Netherlands vs Sweden | BLV PUMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -2287,12 +2282,12 @@ https://live05.msdht.app/live/19919577.m3u8
 #EXTINF:-1 tvg-name="[07:00] Ecuador vs Curacao | BLV SHIO" tvg-logo="https://img0.aiscore.com/football/team/10c94f16a2db4872b22d66aa3949bdc0.png!w80" group-title="XEMBONGHAY",[07:00] Ecuador vs Curacao | BLV SHIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/9578a63f.m3u8?auth_key=1781841604-0-0-17576ac1f3ddf32afb731711819062de
+https://pull.vod2gwuskh.com/xem/9578a63f.m3u8?auth_key=1781842205-0-0-faae2112a7898ec01fd145fe5a350e83
 
 #EXTINF:-1 tvg-name="[07:00] Ecuador vs Curacao | BLV KEVIN" tvg-logo="https://img0.aiscore.com/football/team/10c94f16a2db4872b22d66aa3949bdc0.png!w80" group-title="XEMBONGHAY",[07:00] Ecuador vs Curacao | BLV KEVIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/4d22136e.m3u8?auth_key=1781841604-0-0-6d253ab0e9c68c6b405a6514e5687cb5
+https://pull.vod2gwuskh.com/xem/4d22136e.m3u8?auth_key=1781842205-0-0-1bcff09ce4941e0ecba1bcd482b24600
 
 #EXTINF:-1 tvg-name="[07:00] Ecuador vs Curaçao | BLV CHÈ XANH" tvg-logo="https://media.api-sports.io/football/teams/2382.png" group-title="QUECHOA TV",[07:00] Ecuador vs Curaçao | BLV CHÈ XANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -2357,7 +2352,7 @@ https://live05.msdht.app/live/78905744.m3u8
 #EXTINF:-1 tvg-name="[11:00] Tunisia vs Đội tuyển Bóng đá Quốc gia Nhật Bản | BLV SHIO" tvg-logo="https://img0.aiscore.com/football/team/7cb09c45e2124a08ac950d31c7ebe0a6.png!w80" group-title="XEMBONGHAY",[11:00] Tunisia vs Đội tuyển Bóng đá Quốc gia Nhật Bản | BLV SHIO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/d093e56e.m3u8?auth_key=1781841604-0-0-78f11af0fcec93dfdad87b6ccafd53e7
+https://pull.vod2gwuskh.com/xem/d093e56e.m3u8?auth_key=1781842205-0-0-0e8a51f9bfe1df3905325ee670f0afe0
 
 #EXTINF:-1 tvg-name="[11:00] Tunisia vs Japan | BLV DƯA HẤU" tvg-logo="https://media.api-sports.io/football/teams/28.png" group-title="QUECHOA TV",[11:00] Tunisia vs Japan | BLV DƯA HẤU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -2412,7 +2407,7 @@ https://live05.msdht.app/live/02456966.m3u8
 #EXTINF:-1 tvg-name="[18:00] Suzhou Dongwu vs Câu lạc bộ bóng đá Yuxi Yukun | BLV KEVIN" tvg-logo="https://img0.aiscore.com/football/team/bb318757b867c541d704d93053aa1bfb.png!w80" group-title="XEMBONGHAY",[18:00] Suzhou Dongwu vs Câu lạc bộ bóng đá Yuxi Yukun | BLV KEVIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.vod2gwuskh.com/xem/05298fdb.m3u8?auth_key=1781841604-0-0-444b9617cf6c1c02cefdd13f9b0f3610
+https://pull.vod2gwuskh.com/xem/05298fdb.m3u8?auth_key=1781842205-0-0-081ff9ed58951bd22a2804ef812c6371
 
 #EXTINF:-1 tvg-name="[19:30] Sài Gòn Heat vs Hanoi buffalo | BLV POCARI" tvg-logo="https://img.gvapi.cc/basketball/team/fb1060fc304744d0b50e6a180fbc98c2.png!w80" group-title="CO LA TV",[19:30] Sài Gòn Heat vs Hanoi buffalo | BLV POCARI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -2843,11 +2838,6 @@ https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c69
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard Football Club vs Bigfoot (Lương Sơn) NHÀ ÐÀI m3u" tvg-logo="https://cdn-img.cdnokvip.com/logos/57571_1h1dyjv2t34.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard Football Club vs Bigfoot (Lương Sơn) NHÀ ÐÀI m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://auto.cdnfaster.live/live/sd-6MwdpuM6TXPRxQjaAx/playlist.m3u8
 
 #EXTINF:-1 tvg-name="07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source" tvg-logo="https://img.sports-data.online/football/team/1a8729f6837d72a8092aaabd02695c2b.png" group-title="FPT SPORT",07h30 ngày 23/05 FC Tulsa vs Hartford Athletic (Khán Đài A) source
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
@@ -3384,46 +3374,6 @@ https://www3.f2k3.shop/live/a60cdd817beb680017f46a5c111202f7/playlist.m3u8
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://www3.f2k3.shop/live/829f44b193d50a1f8dcb948fab6a0983/playlist.m3u8
 
-#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) flv" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1781844081-0-0-50364800a3f622899d7f17e400f05b8d
-
-#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) hdFlv" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1781844081-0-0-5de007c7f39d1b9ce64cc7b4a0daf23d
-
-#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) m3u8" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781844081-0-0-6ced2824f3f80de410339bcd35c891d3
-
-#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) hdM3u8" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781844081-0-0-e824c4d6771547cca66c7fdf328282cc
-
-#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) flv" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1781844081-0-0-6e7e6c6ad33078dcc17541d13bbf4f6f
-
-#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) hdFlv" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) hdFlv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1781844081-0-0-e6c1a0bf7cab52d5788fa6e1827557da
-
-#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) m3u8" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781844081-0-0-c0129d4f2fa3f40a16f53440f48bce3f
-
-#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) hdM3u8" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) hdM3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781844081-0-0-338ef19c577d92441c5aa632be1698fd
-
 #EXTINF:-1 tvg-name="06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W | BLV HENRY (Socolive) flv" tvg-logo="https://sta.vnres.co/file/common/20260617/b86e023fc6583001b76d96ed05eef3fa.png" group-title="FPT SPORT",06h30 ngày 19/06 Indiana Fever W vs Atlanta Dream W | BLV HENRY (Socolive) flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
@@ -3583,6 +3533,46 @@ https://pull.niues.live/live/stream-175784_lsd.m3u8?auth_key=1781844801-0-0-479e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
 https://pull.niues.live/live/stream-175784_lhd.m3u8?auth_key=1781844801-0-0-469cb342c54e884b291b11a95d20a655
+
+#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) flv" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull06.scstream.net/live/stream-560690_lsd.flv?auth_key=1781845161-0-0-8bf6203e630056d976e01e4a3ac15648
+
+#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) hdFlv" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull06.scstream.net/live/stream-560690_lhd.flv?auth_key=1781845161-0-0-77be075426c4bc7e7af8a81a59c3ffc2
+
+#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) m3u8" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-560690_lsd.m3u8?auth_key=1781845161-0-0-6e6966550c5e7d2f474988c5e6e10967
+
+#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) hdM3u8" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV KÉP (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1781845161-0-0-414253533549f68c64324b413c56d570
+
+#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) flv" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull06.scstream.net/live/stream-602019_lsd.flv?auth_key=1781845200-0-0-9708d62a955ec892e08c865155502056
+
+#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) hdFlv" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) hdFlv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull06.scstream.net/live/stream-602019_lhd.flv?auth_key=1781845200-0-0-e925cc49d109e7b21379f8b31fab8068
+
+#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) m3u8" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-602019_lsd.m3u8?auth_key=1781845200-0-0-44dfd5797e82c0b58989a66480c2ef0c
+
+#EXTINF:-1 tvg-name="09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) hdM3u8" tvg-logo="https://sta.vnres.co/file/common/20260615/d8336086224741ef7b2475523cc65b8d.png" group-title="FPT SPORT",09h00 ngày 19/06 Ballard FC vs Bigfoot | BLV RYO (Socolive) hdM3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"}
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1781845200-0-0-fba07b9682632b1f56aa1efcb7cc03de
 
 #EXTINF:-1 tvg-name="|2026-06-19T11:30:00|[⏳ Chờ] Guangdong Guangzhou Power vs Beijing Guoan - BLV TRẠNG BÉO" tvg-logo="https://img.sports-data.online/football/team/8c08e09f2c1d5628cf599b883fe999bf.png" group-title="TIẾU LÂM TV",|2026-06-19T11:30:00|[⏳ Chờ] Guangdong Guangzhou Power vs Beijing Guoan - BLV TRẠNG BÉO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36
