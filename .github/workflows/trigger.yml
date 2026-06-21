@@ -2,8 +2,8 @@ name: Tín hiệu kích hoạt từ xem_football
 
 on:
   push:
-    paths:
-      - 'All_CHANNEL.m3u' # Chỉ kích hoạt khi file này có thay đổi thực sự
+    branches:
+      - main # Cứ có bất kỳ lệnh push nào lên nhánh main (kể cả commit trống) là kích hoạt luôn
 
 jobs:
   ping-xembongda:
