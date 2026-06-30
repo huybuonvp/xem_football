@@ -2322,6 +2322,59 @@
         },
         {
           "id": "channel-419",
+          "name": "[16:30 01/07] Newcastle Olympic vs Charlestown Azzurri | BLV SAMURAI",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://img.gvapi.cc/football/team/aa5f7b825709e21a96d40dea9f611882.png!w80",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-419",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-419",
+                  "name": "[16:30 01/07] Newcastle Olympic vs Charlestown Azzurri | BLV SAMURAI",
+                  "streams": [
+                    {
+                      "id": "stream-419",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-419",
+                          "name": "Link Phát",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://live05.paznhl.app/live/07808742.m3u8",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-420",
           "name": "[16:30 01/07] Monaro Panthers vs Thành Phố Queanbeyan | BLV MOUNTAIN DEW",
           "type": "single",
           "display": "thumbnail-only",
@@ -2344,65 +2397,12 @@
           ],
           "sources": [
             {
-              "id": "src-419",
-              "name": "Tổng Hợp",
-              "contents": [
-                {
-                  "id": "content-419",
-                  "name": "[16:30 01/07] Monaro Panthers vs Thành Phố Queanbeyan | BLV MOUNTAIN DEW",
-                  "streams": [
-                    {
-                      "id": "stream-419",
-                      "name": "Link Gốc",
-                      "stream_links": [
-                        {
-                          "id": "lnk-419",
-                          "name": "Link Phát",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://live05.paznhl.app/live/87547578.m3u8",
-                          "headers": {
-                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "channel-420",
-          "name": "[17:00 01/07] Newcastle Olympic vs Charlestown Azzurri | BLV SAMURAI",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://img.gvapi.cc/football/team/aa5f7b825709e21a96d40dea9f611882.png!w80",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
               "id": "src-420",
               "name": "Tổng Hợp",
               "contents": [
                 {
                   "id": "content-420",
-                  "name": "[17:00 01/07] Newcastle Olympic vs Charlestown Azzurri | BLV SAMURAI",
+                  "name": "[16:30 01/07] Monaro Panthers vs Thành Phố Queanbeyan | BLV MOUNTAIN DEW",
                   "streams": [
                     {
                       "id": "stream-420",
@@ -2413,7 +2413,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://live05.paznhl.app/live/07808742.m3u8",
+                          "url": "https://live05.paznhl.app/live/87547578.m3u8",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -4239,7 +4239,7 @@
         },
         {
           "id": "channel-18",
-          "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV TOMIA",
+          "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV FIREMAN",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4266,7 +4266,7 @@
               "contents": [
                 {
                   "id": "content-18",
-                  "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV TOMIA",
+                  "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV FIREMAN",
                   "streams": [
                     {
                       "id": "stream-18",
@@ -4277,7 +4277,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782755548-0-0-9e791998fb874ab961aa88cd57852574",
+                          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782756650-0-0-553445324334412928b4497a03068f24",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -4292,7 +4292,7 @@
         },
         {
           "id": "channel-19",
-          "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV FIREMAN",
+          "name": "[15:00 30/06] Rizal Golden Coolers vs Bulacan Kuyas | BLV A CHÈ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4300,7 +4300,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://sta.vnres.co/file/common/20260626/3a6ac5bc5c27de01d3b021d16015611d.png",
+            "url": "https://sta.vnres.co/file/common/20260628/0325308c7430c7f3cd2c134aa0f4ba28.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -4319,7 +4319,7 @@
               "contents": [
                 {
                   "id": "content-19",
-                  "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV FIREMAN",
+                  "name": "[15:00 30/06] Rizal Golden Coolers vs Bulacan Kuyas | BLV A CHÈ",
                   "streams": [
                     {
                       "id": "stream-19",
@@ -4330,7 +4330,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1782756650-0-0-553445324334412928b4497a03068f24",
+                          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782787764-0-0-8f9fb9e5607f2de7c3f0ba6f86e68941",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -4345,7 +4345,7 @@
         },
         {
           "id": "channel-20",
-          "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV COZY",
+          "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV TOMIA",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4372,7 +4372,7 @@
               "contents": [
                 {
                   "id": "content-20",
-                  "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV COZY",
+                  "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV TOMIA",
                   "streams": [
                     {
                       "id": "stream-20",
@@ -4383,7 +4383,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782746684-0-0-e7293f7c90729d47ea586dd1bc784690",
+                          "url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1782755548-0-0-9e791998fb874ab961aa88cd57852574",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -4398,7 +4398,7 @@
         },
         {
           "id": "channel-21",
-          "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV LÃO LÂM",
+          "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV COZY",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4425,7 +4425,7 @@
               "contents": [
                 {
                   "id": "content-21",
-                  "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV LÃO LÂM",
+                  "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV COZY",
                   "streams": [
                     {
                       "id": "stream-21",
@@ -4436,7 +4436,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782799647-0-0-2dbda642257b577d465bb71b6e69c4d3",
+                          "url": "https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1782746684-0-0-e7293f7c90729d47ea586dd1bc784690",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -4451,7 +4451,7 @@
         },
         {
           "id": "channel-22",
-          "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV CÒ",
+          "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV LÃO LÂM",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4478,7 +4478,7 @@
               "contents": [
                 {
                   "id": "content-22",
-                  "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV CÒ",
+                  "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV LÃO LÂM",
                   "streams": [
                     {
                       "id": "stream-22",
@@ -4489,7 +4489,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782755555-0-0-5975f30de454c7c0f6f68d9071d9916e",
+                          "url": "https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1782799647-0-0-2dbda642257b577d465bb71b6e69c4d3",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -4504,7 +4504,7 @@
         },
         {
           "id": "channel-23",
-          "name": "[15:00 30/06] Rizal Golden Coolers vs Bulacan Kuyas | BLV A CHÈ",
+          "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV CÒ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4512,7 +4512,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://sta.vnres.co/file/common/20260628/0325308c7430c7f3cd2c134aa0f4ba28.jpg",
+            "url": "https://sta.vnres.co/file/common/20260626/3a6ac5bc5c27de01d3b021d16015611d.png",
             "width": 1600,
             "height": 1200
           },
@@ -4531,7 +4531,7 @@
               "contents": [
                 {
                   "id": "content-23",
-                  "name": "[15:00 30/06] Rizal Golden Coolers vs Bulacan Kuyas | BLV A CHÈ",
+                  "name": "[15:00 30/06] FC Ulaanbaatar vs Central Stallions | BLV CÒ",
                   "streams": [
                     {
                       "id": "stream-23",
@@ -4542,7 +4542,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1782787764-0-0-8f9fb9e5607f2de7c3f0ba6f86e68941",
+                          "url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1782755555-0-0-5975f30de454c7c0f6f68d9071d9916e",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -4557,7 +4557,7 @@
         },
         {
           "id": "channel-50",
-          "name": "[16:00 30/06] Ha Noi II Women vs Ho Chi Minh City B Women | BLV HẢI THANH",
+          "name": "[16:00 30/06] Ha Noi II Women vs Ho Chi Minh City B Women | BLV KEM",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4584,7 +4584,7 @@
               "contents": [
                 {
                   "id": "content-50",
-                  "name": "[16:00 30/06] Ha Noi II Women vs Ho Chi Minh City B Women | BLV HẢI THANH",
+                  "name": "[16:00 30/06] Ha Noi II Women vs Ho Chi Minh City B Women | BLV KEM",
                   "streams": [
                     {
                       "id": "stream-50",
@@ -4592,112 +4592,6 @@
                       "stream_links": [
                         {
                           "id": "lnk-50",
-                          "name": "Link Phát",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782746612-0-0-e0e6cea678b184c4224692d3421106b9",
-                          "headers": {
-                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "channel-51",
-          "name": "[16:00 30/06] Phong Phu Ha Nam Women vs Than KSVN Women | BLV CHÍ PHÈO",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/common/20260626/89a01903c8120c8ad9e6e24a3efd1a72.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-51",
-              "name": "Tổng Hợp",
-              "contents": [
-                {
-                  "id": "content-51",
-                  "name": "[16:00 30/06] Phong Phu Ha Nam Women vs Than KSVN Women | BLV CHÍ PHÈO",
-                  "streams": [
-                    {
-                      "id": "stream-51",
-                      "name": "Link Gốc",
-                      "stream_links": [
-                        {
-                          "id": "lnk-51",
-                          "name": "Link Phát",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782693057-0-0-2eb5d437149b95b1a1fa49c2ce06a1d6",
-                          "headers": {
-                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "channel-52",
-          "name": "[16:00 30/06] Ha Noi II Women vs Ho Chi Minh City B Women | BLV KEM",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/common/20260626/65168770897d6ec2366e7d4727fd0743.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-52",
-              "name": "Tổng Hợp",
-              "contents": [
-                {
-                  "id": "content-52",
-                  "name": "[16:00 30/06] Ha Noi II Women vs Ho Chi Minh City B Women | BLV KEM",
-                  "streams": [
-                    {
-                      "id": "stream-52",
-                      "name": "Link Gốc",
-                      "stream_links": [
-                        {
-                          "id": "lnk-52",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
@@ -4715,60 +4609,7 @@
           ]
         },
         {
-          "id": "channel-53",
-          "name": "[16:00 30/06] Phong Phu Ha Nam Women vs Than KSVN Women | BLV SAO LA",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/common/20260626/89a01903c8120c8ad9e6e24a3efd1a72.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-53",
-              "name": "Tổng Hợp",
-              "contents": [
-                {
-                  "id": "content-53",
-                  "name": "[16:00 30/06] Phong Phu Ha Nam Women vs Than KSVN Women | BLV SAO LA",
-                  "streams": [
-                    {
-                      "id": "stream-53",
-                      "name": "Link Gốc",
-                      "stream_links": [
-                        {
-                          "id": "lnk-53",
-                          "name": "Link Phát",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=769d96284df3424da1b1125bcd792f9f&txTime=6a435574",
-                          "headers": {
-                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "channel-54",
+          "id": "channel-51",
           "name": "[16:00 30/06] Italy U17 vs USA U17 | BLV HUNTER",
           "type": "single",
           "display": "thumbnail-only",
@@ -4791,19 +4632,19 @@
           ],
           "sources": [
             {
-              "id": "src-54",
+              "id": "src-51",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-54",
+                  "id": "content-51",
                   "name": "[16:00 30/06] Italy U17 vs USA U17 | BLV HUNTER",
                   "streams": [
                     {
-                      "id": "stream-54",
+                      "id": "stream-51",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-54",
+                          "id": "lnk-51",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
@@ -4821,8 +4662,8 @@
           ]
         },
         {
-          "id": "channel-55",
-          "name": "[16:00 30/06] Italy U17 vs USA U17 | BLV HENRY",
+          "id": "channel-52",
+          "name": "[16:00 30/06] Phong Phu Ha Nam Women vs Than KSVN Women | BLV CHÍ PHÈO",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4830,7 +4671,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://sta.vnres.co/file/common/20260628/162612a4a8ffbd22286ea103c6ba921d.png",
+            "url": "https://sta.vnres.co/file/common/20260626/89a01903c8120c8ad9e6e24a3efd1a72.png",
             "width": 1600,
             "height": 1200
           },
@@ -4844,23 +4685,23 @@
           ],
           "sources": [
             {
-              "id": "src-55",
+              "id": "src-52",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-55",
-                  "name": "[16:00 30/06] Italy U17 vs USA U17 | BLV HENRY",
+                  "id": "content-52",
+                  "name": "[16:00 30/06] Phong Phu Ha Nam Women vs Than KSVN Women | BLV CHÍ PHÈO",
                   "streams": [
                     {
-                      "id": "stream-55",
+                      "id": "stream-52",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-55",
+                          "id": "lnk-52",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782787916-0-0-511c0248448e46b6e76c5a2fd273eb5c",
+                          "url": "https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1782693057-0-0-2eb5d437149b95b1a1fa49c2ce06a1d6",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -4874,7 +4715,113 @@
           ]
         },
         {
-          "id": "channel-56",
+          "id": "channel-53",
+          "name": "[16:00 30/06] Ha Noi II Women vs Ho Chi Minh City B Women | BLV HẢI THANH",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260626/65168770897d6ec2366e7d4727fd0743.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-53",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-53",
+                  "name": "[16:00 30/06] Ha Noi II Women vs Ho Chi Minh City B Women | BLV HẢI THANH",
+                  "streams": [
+                    {
+                      "id": "stream-53",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-53",
+                          "name": "Link Phát",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1782746612-0-0-e0e6cea678b184c4224692d3421106b9",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-54",
+          "name": "[16:00 30/06] Phong Phu Ha Nam Women vs Than KSVN Women | BLV SAO LA",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260626/89a01903c8120c8ad9e6e24a3efd1a72.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-54",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-54",
+                  "name": "[16:00 30/06] Phong Phu Ha Nam Women vs Than KSVN Women | BLV SAO LA",
+                  "streams": [
+                    {
+                      "id": "stream-54",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-54",
+                          "name": "Link Phát",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=769d96284df3424da1b1125bcd792f9f&txTime=6a435574",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-55",
           "name": "[16:00 30/06] Phong Phu Ha Nam Women vs Than KSVN Women | BLV RYO",
           "type": "single",
           "display": "thumbnail-only",
@@ -4897,12 +4844,65 @@
           ],
           "sources": [
             {
+              "id": "src-55",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-55",
+                  "name": "[16:00 30/06] Phong Phu Ha Nam Women vs Than KSVN Women | BLV RYO",
+                  "streams": [
+                    {
+                      "id": "stream-55",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-55",
+                          "name": "Link Phát",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782786670-0-0-11c5c5cc8c7b4ce1dacbed8dee4fb432",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-56",
+          "name": "[16:00 30/06] Italy U17 vs USA U17 | BLV HENRY",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260628/162612a4a8ffbd22286ea103c6ba921d.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
               "id": "src-56",
               "name": "Tổng Hợp",
               "contents": [
                 {
                   "id": "content-56",
-                  "name": "[16:00 30/06] Phong Phu Ha Nam Women vs Than KSVN Women | BLV RYO",
+                  "name": "[16:00 30/06] Italy U17 vs USA U17 | BLV HENRY",
                   "streams": [
                     {
                       "id": "stream-56",
@@ -4913,7 +4913,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1782786670-0-0-11c5c5cc8c7b4ce1dacbed8dee4fb432",
+                          "url": "https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1782787916-0-0-511c0248448e46b6e76c5a2fd273eb5c",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -5670,7 +5670,7 @@
         },
         {
           "id": "channel-86",
-          "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV QUÂN JK",
+          "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV TRÀ ĐÁ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -5697,7 +5697,7 @@
               "contents": [
                 {
                   "id": "content-86",
-                  "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV QUÂN JK",
+                  "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV TRÀ ĐÁ",
                   "streams": [
                     {
                       "id": "stream-86",
@@ -5708,7 +5708,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782755530-0-0-ee31dddf38d49299915b266798d3a6e7",
+                          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782693549-0-0-ec25273339a75bf68cc53441af10c2f7",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -5723,7 +5723,7 @@
         },
         {
           "id": "channel-87",
-          "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV KÉP",
+          "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV QUÂN JK",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -5750,7 +5750,7 @@
               "contents": [
                 {
                   "id": "content-87",
-                  "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV KÉP",
+                  "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV QUÂN JK",
                   "streams": [
                     {
                       "id": "stream-87",
@@ -5761,7 +5761,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782702161-0-0-defa9eea4832eaf21ff5293c5e497536",
+                          "url": "https://pull.niues.live/live/stream-611178_lhd.m3u8?auth_key=1782755530-0-0-ee31dddf38d49299915b266798d3a6e7",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -5776,7 +5776,7 @@
         },
         {
           "id": "channel-88",
-          "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV TRÀ ĐÁ",
+          "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV KÉP",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -5803,7 +5803,7 @@
               "contents": [
                 {
                   "id": "content-88",
-                  "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV TRÀ ĐÁ",
+                  "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV KÉP",
                   "streams": [
                     {
                       "id": "stream-88",
@@ -5814,7 +5814,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1782693549-0-0-ec25273339a75bf68cc53441af10c2f7",
+                          "url": "https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1782702161-0-0-defa9eea4832eaf21ff5293c5e497536",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -5829,7 +5829,7 @@
         },
         {
           "id": "channel-89",
-          "name": "[17:00 30/06] Bataan Risers vs San Juan Knights | BLV KING",
+          "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV VITAMIN",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -5837,7 +5837,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://sta.vnres.co/file/common/20260628/45ffadd0bad91c4a2a8d3df8d597af01.png",
+            "url": "https://sta.vnres.co/file/common/20260519/d77d4b954ccd552fb1f07781a53ce216.png",
             "width": 1600,
             "height": 1200
           },
@@ -5856,7 +5856,7 @@
               "contents": [
                 {
                   "id": "content-89",
-                  "name": "[17:00 30/06] Bataan Risers vs San Juan Knights | BLV KING",
+                  "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV VITAMIN",
                   "streams": [
                     {
                       "id": "stream-89",
@@ -5867,7 +5867,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782737691-0-0-7963c86a87a5fdebf2a64c277dadc503",
+                          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782676642-0-0-4b3dfaf2c321496e6301bef4d9893169",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -5882,7 +5882,7 @@
         },
         {
           "id": "channel-90",
-          "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV VITAMIN",
+          "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV CHIVAS",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -5909,7 +5909,7 @@
               "contents": [
                 {
                   "id": "content-90",
-                  "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV VITAMIN",
+                  "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV CHIVAS",
                   "streams": [
                     {
                       "id": "stream-90",
@@ -5920,7 +5920,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1782676642-0-0-4b3dfaf2c321496e6301bef4d9893169",
+                          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=572fd5c906fab5e3398e2f91d4826a62&txTime=6a432a9d",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -5935,7 +5935,7 @@
         },
         {
           "id": "channel-91",
-          "name": "[17:00 30/06] Bataan Risers vs San Juan Knights | BLV CHAN SENA",
+          "name": "[17:00 30/06] Bataan Risers vs San Juan Knights | BLV KING",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -5962,7 +5962,7 @@
               "contents": [
                 {
                   "id": "content-91",
-                  "name": "[17:00 30/06] Bataan Risers vs San Juan Knights | BLV CHAN SENA",
+                  "name": "[17:00 30/06] Bataan Risers vs San Juan Knights | BLV KING",
                   "streams": [
                     {
                       "id": "stream-91",
@@ -5973,7 +5973,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782787822-0-0-87e322824840c2f8f357dcf1ce312eef",
+                          "url": "https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1782737691-0-0-7963c86a87a5fdebf2a64c277dadc503",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -5988,7 +5988,7 @@
         },
         {
           "id": "channel-92",
-          "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV CHIVAS",
+          "name": "[17:00 30/06] Bataan Risers vs San Juan Knights | BLV CHAN SENA",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -5996,7 +5996,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://sta.vnres.co/file/common/20260519/d77d4b954ccd552fb1f07781a53ce216.png",
+            "url": "https://sta.vnres.co/file/common/20260628/45ffadd0bad91c4a2a8d3df8d597af01.png",
             "width": 1600,
             "height": 1200
           },
@@ -6015,7 +6015,7 @@
               "contents": [
                 {
                   "id": "content-92",
-                  "name": "[17:00 30/06] SD Raiders FC vs Sydney FC Youth | BLV CHIVAS",
+                  "name": "[17:00 30/06] Bataan Risers vs San Juan Knights | BLV CHAN SENA",
                   "streams": [
                     {
                       "id": "stream-92",
@@ -6026,7 +6026,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=572fd5c906fab5e3398e2f91d4826a62&txTime=6a432a9d",
+                          "url": "https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782787822-0-0-87e322824840c2f8f357dcf1ce312eef",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -6094,59 +6094,6 @@
         },
         {
           "id": "channel-94",
-          "name": "[17:15 30/06] Brisbane City W vs Souths Strikers W | BLV BÉO",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://sta.vnres.co/file/common/20260629/f17ac9d51db2845304964d3b1d681c19.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-94",
-              "name": "Tổng Hợp",
-              "contents": [
-                {
-                  "id": "content-94",
-                  "name": "[17:15 30/06] Brisbane City W vs Souths Strikers W | BLV BÉO",
-                  "streams": [
-                    {
-                      "id": "stream-94",
-                      "name": "Link Gốc",
-                      "stream_links": [
-                        {
-                          "id": "lnk-94",
-                          "name": "Link Phát",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f41fffc998ed33d85103c71d579beeaa&txTime=6a432ff2",
-                          "headers": {
-                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "channel-95",
           "name": "[17:15 30/06] Capalaba W vs FQ Academy QAS W | BLV A PÁO",
           "type": "single",
           "display": "thumbnail-only",
@@ -6169,12 +6116,65 @@
           ],
           "sources": [
             {
+              "id": "src-94",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-94",
+                  "name": "[17:15 30/06] Capalaba W vs FQ Academy QAS W | BLV A PÁO",
+                  "streams": [
+                    {
+                      "id": "stream-94",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-94",
+                          "name": "Link Phát",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782755651-0-0-13594bde8896787622c39f762b377255",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-95",
+          "name": "[17:15 30/06] Brisbane City W vs Souths Strikers W | BLV BÉO",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://sta.vnres.co/file/common/20260629/f17ac9d51db2845304964d3b1d681c19.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
               "id": "src-95",
               "name": "Tổng Hợp",
               "contents": [
                 {
                   "id": "content-95",
-                  "name": "[17:15 30/06] Capalaba W vs FQ Academy QAS W | BLV A PÁO",
+                  "name": "[17:15 30/06] Brisbane City W vs Souths Strikers W | BLV BÉO",
                   "streams": [
                     {
                       "id": "stream-95",
@@ -6185,7 +6185,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1782755651-0-0-13594bde8896787622c39f762b377255",
+                          "url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=f41fffc998ed33d85103c71d579beeaa&txTime=6a432ff2",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -6412,7 +6412,7 @@
         },
         {
           "id": "channel-192",
-          "name": "[22:00 30/06] Vaasa VPS vs Inter Turku | BLV LOKA",
+          "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV XUÂN TÓC ĐỎ",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -6420,7 +6420,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://sta.vnres.co/file/common/20260626/8f4b892eeb522db595b955e7a8d74ec8.png",
+            "url": "https://sta.vnres.co/file/common/20260626/d54aefc9e05bb02a95a6764779a223df.png",
             "width": 1600,
             "height": 1200
           },
@@ -6439,7 +6439,7 @@
               "contents": [
                 {
                   "id": "content-192",
-                  "name": "[22:00 30/06] Vaasa VPS vs Inter Turku | BLV LOKA",
+                  "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV XUÂN TÓC ĐỎ",
                   "streams": [
                     {
                       "id": "stream-192",
@@ -6450,7 +6450,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782756109-0-0-413137ad6d839a11fc9b8ba0ffacb219",
+                          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=e45912abde1dc7babc563ea66d13e281&txTime=6a41b408",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -6465,7 +6465,7 @@
         },
         {
           "id": "channel-193",
-          "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV XO",
+          "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV LONG",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -6492,7 +6492,7 @@
               "contents": [
                 {
                   "id": "content-193",
-                  "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV XO",
+                  "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV LONG",
                   "streams": [
                     {
                       "id": "stream-193",
@@ -6503,7 +6503,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782755515-0-0-6cfe6dd3f194917f3a30899633e1184f",
+                          "url": "https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1782755766-0-0-1e2c0afabbd5ac30d52943a96ed47c10",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -6518,7 +6518,7 @@
         },
         {
           "id": "channel-194",
-          "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV XUÂN TÓC ĐỎ",
+          "name": "[22:00 30/06] Vaasa VPS vs Inter Turku | BLV ENZO",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -6526,7 +6526,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://sta.vnres.co/file/common/20260626/d54aefc9e05bb02a95a6764779a223df.png",
+            "url": "https://sta.vnres.co/file/common/20260626/8f4b892eeb522db595b955e7a8d74ec8.png",
             "width": 1600,
             "height": 1200
           },
@@ -6545,7 +6545,7 @@
               "contents": [
                 {
                   "id": "content-194",
-                  "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV XUÂN TÓC ĐỎ",
+                  "name": "[22:00 30/06] Vaasa VPS vs Inter Turku | BLV ENZO",
                   "streams": [
                     {
                       "id": "stream-194",
@@ -6556,7 +6556,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=e45912abde1dc7babc563ea66d13e281&txTime=6a41b408",
+                          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782755803-0-0-9f1475ec6c12976e8cc4c5642b32106f",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -6624,7 +6624,7 @@
         },
         {
           "id": "channel-196",
-          "name": "[22:00 30/06] Vaasa VPS vs Inter Turku | BLV ENZO",
+          "name": "[22:00 30/06] Vaasa VPS vs Inter Turku | BLV LOKA",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -6651,7 +6651,7 @@
               "contents": [
                 {
                   "id": "content-196",
-                  "name": "[22:00 30/06] Vaasa VPS vs Inter Turku | BLV ENZO",
+                  "name": "[22:00 30/06] Vaasa VPS vs Inter Turku | BLV LOKA",
                   "streams": [
                     {
                       "id": "stream-196",
@@ -6662,7 +6662,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1782755803-0-0-9f1475ec6c12976e8cc4c5642b32106f",
+                          "url": "https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1782756109-0-0-413137ad6d839a11fc9b8ba0ffacb219",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -6677,7 +6677,7 @@
         },
         {
           "id": "channel-197",
-          "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV ANH TÀI",
+          "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV XO",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -6704,7 +6704,7 @@
               "contents": [
                 {
                   "id": "content-197",
-                  "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV ANH TÀI",
+                  "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV XO",
                   "streams": [
                     {
                       "id": "stream-197",
@@ -6715,7 +6715,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782676386-0-0-2b5cedc9e335f454dd1d5a03ad83b067",
+                          "url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1782755515-0-0-6cfe6dd3f194917f3a30899633e1184f",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -6730,7 +6730,7 @@
         },
         {
           "id": "channel-198",
-          "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV LONG",
+          "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV ANH TÀI",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -6757,7 +6757,7 @@
               "contents": [
                 {
                   "id": "content-198",
-                  "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV LONG",
+                  "name": "[22:00 30/06] Rigas Futbola Skola vs BFC Daugavpils | BLV ANH TÀI",
                   "streams": [
                     {
                       "id": "stream-198",
@@ -6768,7 +6768,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-9912117_lhd.m3u8?auth_key=1782755766-0-0-1e2c0afabbd5ac30d52943a96ed47c10",
+                          "url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1782676386-0-0-2b5cedc9e335f454dd1d5a03ad83b067",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -6783,7 +6783,7 @@
         },
         {
           "id": "channel-199",
-          "name": "[22:00 30/06] Bosnia Women U19 vs Sweden Women U19 | BLV VINFAST",
+          "name": "[22:00 30/06] Bosnia Women U19 vs Sweden Women U19 | BLV A TINH",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -6810,7 +6810,7 @@
               "contents": [
                 {
                   "id": "content-199",
-                  "name": "[22:00 30/06] Bosnia Women U19 vs Sweden Women U19 | BLV VINFAST",
+                  "name": "[22:00 30/06] Bosnia Women U19 vs Sweden Women U19 | BLV A TINH",
                   "streams": [
                     {
                       "id": "stream-199",
@@ -6821,7 +6821,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1782768658-0-0-2aefba7c5c08456daae3f044d895c36a",
+                          "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=165b6d7ecf364c663c6805882b48e31c&txTime=6a41c33a",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -6836,7 +6836,7 @@
         },
         {
           "id": "channel-200",
-          "name": "[22:00 30/06] Bosnia Women U19 vs Sweden Women U19 | BLV A TINH",
+          "name": "[22:00 30/06] Bosnia Women U19 vs Sweden Women U19 | BLV VINFAST",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -6863,7 +6863,7 @@
               "contents": [
                 {
                   "id": "content-200",
-                  "name": "[22:00 30/06] Bosnia Women U19 vs Sweden Women U19 | BLV A TINH",
+                  "name": "[22:00 30/06] Bosnia Women U19 vs Sweden Women U19 | BLV VINFAST",
                   "streams": [
                     {
                       "id": "stream-200",
@@ -6874,7 +6874,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=165b6d7ecf364c663c6805882b48e31c&txTime=6a41c33a",
+                          "url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1782768658-0-0-2aefba7c5c08456daae3f044d895c36a",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -6936,7 +6936,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/9578a63f.m3u8?auth_key=1782799204-0-0-eeb6d8ce7d434b64544098250d70cae7",
+                          "url": "https://pull.vod2gwuskh.com/xem/9578a63f.m3u8?auth_key=1782799803-0-0-e86436a79c56e3f683952eaf6bb5671c",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -6989,7 +6989,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/9bde76f2.m3u8?auth_key=1782799204-0-0-686184e25f1bbd7cbde2065a0ac3cf6a",
+                          "url": "https://pull.vod2gwuskh.com/xem/9bde76f2.m3u8?auth_key=1782799804-0-0-e0d36ad60f4943de128427f3f90b4b1d",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7042,7 +7042,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/cc26f87f.m3u8?auth_key=1782799204-0-0-8c8830dda950c0c176771c880c55b9b8",
+                          "url": "https://pull.vod2gwuskh.com/xem/cc26f87f.m3u8?auth_key=1782799804-0-0-9f9264f79d8ebe3d1fb5196657198d92",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7095,7 +7095,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/805b74da.m3u8?auth_key=1782799204-0-0-def70510e731352bbb0319e5e5acf46b",
+                          "url": "https://pull.vod2gwuskh.com/xem/805b74da.m3u8?auth_key=1782799804-0-0-215c83167377db7150e04b8aba28c7f3",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7148,7 +7148,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/5b5abc70.m3u8?auth_key=1782799204-0-0-cb769b990167dc16c9343d4c862838b3",
+                          "url": "https://pull.vod2gwuskh.com/xem/5b5abc70.m3u8?auth_key=1782799804-0-0-222f74109edb7a08cff8ba497131a1b9",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7201,7 +7201,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/1b2bae9e.m3u8?auth_key=1782799204-0-0-b3f403e8f1df82f9d0e52aa801971a06",
+                          "url": "https://pull.vod2gwuskh.com/xem/1b2bae9e.m3u8?auth_key=1782799804-0-0-646c55faf2eee23ab756c38233e351aa",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7254,7 +7254,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/69f8ea31.m3u8?auth_key=1782799204-0-0-dbc8935932ab54d1e9cb7be89c7bd387",
+                          "url": "https://pull.vod2gwuskh.com/xem/69f8ea31.m3u8?auth_key=1782799804-0-0-f2f705d5166a98abf4edd3b2b09d13b4",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7307,7 +7307,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/1662d130.m3u8?auth_key=1782799205-0-0-2cd12b9fc88a6e3675b3e5ffb14d5244",
+                          "url": "https://pull.vod2gwuskh.com/xem/1662d130.m3u8?auth_key=1782799804-0-0-adcf650406b22ddd21de5e8d379f9220",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7360,7 +7360,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/d093e56e.m3u8?auth_key=1782799205-0-0-5a528868afab65e46480ab1c69ed3fa5",
+                          "url": "https://pull.vod2gwuskh.com/xem/d093e56e.m3u8?auth_key=1782799805-0-0-7fdd59f437e43d95240606a70b9bce85",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7413,7 +7413,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/c0c3a9fb.m3u8?auth_key=1782799205-0-0-88a6675f1c422522dc9f5f9ea0eb784f",
+                          "url": "https://pull.vod2gwuskh.com/xem/c0c3a9fb.m3u8?auth_key=1782799805-0-0-32e9221f7a089bb6ea305ef085a26b2a",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7466,7 +7466,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/d87d3902.m3u8?auth_key=1782799205-0-0-ed665f4157a689746a85f0245e1003fc",
+                          "url": "https://pull.vod2gwuskh.com/xem/d87d3902.m3u8?auth_key=1782799805-0-0-51bc83de1c8d71bd818463070eac5550",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7519,7 +7519,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/0634ac71.m3u8?auth_key=1782799205-0-0-638fc9bb2e9b5b4ff840904c7daba306",
+                          "url": "https://pull.vod2gwuskh.com/xem/0634ac71.m3u8?auth_key=1782799805-0-0-9255ced59ea0cd9f43f73c3ca33a9e99",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7572,7 +7572,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/85c9f9ef.m3u8?auth_key=1782799205-0-0-57481ea436a5f88c83fa7c9624d0229e",
+                          "url": "https://pull.vod2gwuskh.com/xem/85c9f9ef.m3u8?auth_key=1782799805-0-0-2f28fe116d8cf3a8fae36494f8948481",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7625,7 +7625,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/b219f59c.m3u8?auth_key=1782799205-0-0-3d1c84cb2e22951f80944e9c5266ef77",
+                          "url": "https://pull.vod2gwuskh.com/xem/b219f59c.m3u8?auth_key=1782799805-0-0-2546de65b660111251ff091a5bbb53ee",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7678,7 +7678,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/edf959e1.m3u8?auth_key=1782799205-0-0-1e41dcfe43512fe80ad00e8e800b658b",
+                          "url": "https://pull.vod2gwuskh.com/xem/edf959e1.m3u8?auth_key=1782799805-0-0-787b219adf841487b91d8cd1643182cb",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7731,7 +7731,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/b433da1b.m3u8?auth_key=1782799205-0-0-d48ebda76a0fe6cc8e821729f8387518",
+                          "url": "https://pull.vod2gwuskh.com/xem/b433da1b.m3u8?auth_key=1782799805-0-0-dad9902fcea48f82e050133851f0fa8b",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7784,7 +7784,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/05298fdb.m3u8?auth_key=1782799205-0-0-930b2dd2c31c74327e4b6accfa4c3b5c",
+                          "url": "https://pull.vod2gwuskh.com/xem/05298fdb.m3u8?auth_key=1782799805-0-0-5149dfde4b2fda9779ad14c148b1c57c",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7837,7 +7837,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/8eb4b4c0.m3u8?auth_key=1782799206-0-0-231f4e48baf500b6bb52deca7eb61ac9",
+                          "url": "https://pull.vod2gwuskh.com/xem/8eb4b4c0.m3u8?auth_key=1782799805-0-0-0b555eb8dc2207ae1cdc2c4351d47896",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7890,7 +7890,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/42edd1ec.m3u8?auth_key=1782799206-0-0-14b726e962acd431d74b84b687b95aba",
+                          "url": "https://pull.vod2gwuskh.com/xem/42edd1ec.m3u8?auth_key=1782799806-0-0-aeae225730d65fe6b56d8f9c3f89b906",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7943,7 +7943,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/88591b4d.m3u8?auth_key=1782799206-0-0-84d7a558d2170b2a96ec087ce23aa154",
+                          "url": "https://pull.vod2gwuskh.com/xem/88591b4d.m3u8?auth_key=1782799806-0-0-32e4dfdb0ebcbffea49bcf01c845d9e0",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -7996,7 +7996,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/7463afe2.m3u8?auth_key=1782799206-0-0-fb32e99b898a1246050023dc9d4d2b95",
+                          "url": "https://pull.vod2gwuskh.com/xem/7463afe2.m3u8?auth_key=1782799806-0-0-7a6fb8a5d60dfc2988e7abe657c0e51f",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -8049,7 +8049,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pull.vod2gwuskh.com/xem/da796dcc.m3u8?auth_key=1782799206-0-0-aec73ca722d8696555d12690ccb48432",
+                          "url": "https://pull.vod2gwuskh.com/xem/da796dcc.m3u8?auth_key=1782799806-0-0-49b925db07f3f5c817110786e953e7fc",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -23641,7 +23641,7 @@
           ]
         },
         {
-          "id": "channel-282",
+          "id": "channel-273",
           "name": "[00:00 01/07] SD Raiders FC vs Sydney FC Youth | BLV NGƯỜI NẶN",
           "type": "single",
           "display": "thumbnail-only",
@@ -23664,19 +23664,19 @@
           ],
           "sources": [
             {
-              "id": "src-282",
+              "id": "src-273",
               "name": "Tổng Hợp",
               "contents": [
                 {
-                  "id": "content-282",
+                  "id": "content-273",
                   "name": "[00:00 01/07] SD Raiders FC vs Sydney FC Youth | BLV NGƯỜI NẶN",
                   "streams": [
                     {
-                      "id": "stream-282",
+                      "id": "stream-273",
                       "name": "Link Gốc",
                       "stream_links": [
                         {
-                          "id": "lnk-282",
+                          "id": "lnk-273",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
@@ -25249,59 +25249,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "channel-273",
-          "name": "[00:00 01/07] Ivory Coast vs Norway | BLV VỎ QUÝT",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://media.api-sports.io/football/teams/1501.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-273",
-              "name": "Tổng Hợp",
-              "contents": [
-                {
-                  "id": "content-273",
-                  "name": "[00:00 01/07] Ivory Coast vs Norway | BLV VỎ QUÝT",
-                  "streams": [
-                    {
-                      "id": "stream-273",
-                      "name": "Link Gốc",
-                      "stream_links": [
-                        {
-                          "id": "lnk-273",
-                          "name": "Link Phát",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
-                          "headers": {
-                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "channel-274",
           "name": "[00:00 01/07] Ivory Coast vs Norway | BLV VỎ QUÝT",
           "type": "single",
@@ -25409,7 +25356,7 @@
         },
         {
           "id": "channel-276",
-          "name": "[00:00 01/07] Ivory Coast vs Norway | BLV CHÈ XANH",
+          "name": "[00:00 01/07] Ivory Coast vs Norway | BLV VỎ QUÝT",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -25436,7 +25383,7 @@
               "contents": [
                 {
                   "id": "content-276",
-                  "name": "[00:00 01/07] Ivory Coast vs Norway | BLV CHÈ XANH",
+                  "name": "[00:00 01/07] Ivory Coast vs Norway | BLV VỎ QUÝT",
                   "streams": [
                     {
                       "id": "stream-276",
@@ -25447,7 +25394,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -25568,7 +25515,7 @@
         },
         {
           "id": "channel-279",
-          "name": "[00:00 01/07] Ivory Coast vs Norway | BLV NEM CHUA",
+          "name": "[00:00 01/07] Ivory Coast vs Norway | BLV CHÈ XANH",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -25595,7 +25542,7 @@
               "contents": [
                 {
                   "id": "content-279",
-                  "name": "[00:00 01/07] Ivory Coast vs Norway | BLV NEM CHUA",
+                  "name": "[00:00 01/07] Ivory Coast vs Norway | BLV CHÈ XANH",
                   "streams": [
                     {
                       "id": "stream-279",
@@ -25606,7 +25553,7 @@
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
                           "headers": {
                             "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
                           }
@@ -25709,6 +25656,59 @@
                       "stream_links": [
                         {
                           "id": "lnk-281",
+                          "name": "Link Phát",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+                          "headers": {
+                            "User-Agent": "Mozilla/5.0 (Linux; Android 11; TV) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "channel-282",
+          "name": "[00:00 01/07] Ivory Coast vs Norway | BLV NEM CHUA",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://media.api-sports.io/football/teams/1501.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-282",
+              "name": "Tổng Hợp",
+              "contents": [
+                {
+                  "id": "content-282",
+                  "name": "[00:00 01/07] Ivory Coast vs Norway | BLV NEM CHUA",
+                  "streams": [
+                    {
+                      "id": "stream-282",
+                      "name": "Link Gốc",
+                      "stream_links": [
+                        {
+                          "id": "lnk-282",
                           "name": "Link Phát",
                           "type": "hls",
                           "default": true,
