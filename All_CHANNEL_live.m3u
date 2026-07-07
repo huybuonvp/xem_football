@@ -11,7 +11,15 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125452_c8ee16a6.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 03:00 08/07 ⚽ Switzerland vs Colombia (Trốc Tru) [FHD4] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" group-title="Khán Đài A" , Thái Lan vs Mỹ [BLV Trạng Bệu]
-https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" group-title="Khán Đài A" , Ukraine vs Ý [BLV Núi]
-https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/tWvN5N9r-88LAtdNt.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 03:00 08/07 ⚽ Switzerland  vs Colombia (BLV TRẠNG NGỐ)
+#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
+https://pull.asynccdn.com/live/dbffcdc5e5864607933569af814e7cfd/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/tWvN5N9r-88LAtdNt.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 03:00 08/07 ⚽ Switzerland vs Colombia (BLV TRẠNG TỒ)
+#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
+https://pull.asynccdn.com/live/d0aac6c0313f485aa2cf60b9ebd511a7/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 03:00 08/07 ⚽ Switzerland vs Colombia (BLV Phi MC) [HD]
+#EXTVLCOPT:http-referrer=https://vongcam.tv/
+https://alive.yarncdn.live/bgtv_blv_phimc/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/13975.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 06:00 08/07 ⚽ Athletic Club vs Operario-PR (BLV Max) [HD]
+#EXTVLCOPT:http-referrer=https://vongcam.tv/
+https://alive.yarncdn.live/bgtv_blv_max/tracks-v2a1/mono.m3u8
