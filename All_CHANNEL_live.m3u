@@ -20,16 +20,11 @@ https://pull.asynccdn.com/live/d0aac6c0313f485aa2cf60b9ebd511a7/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 03:00 08/07 ⚽ Switzerland vs Colombia (BLV Phi MC) [HD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://alive.yarncdn.live/bgtv_blv_phimc/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 03:00 08/07 ⚽ Switzerland vs Colombia (BLV Phi MC) [FHD]
-#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 03:00 08/07 ⚽ Switzerland vs Colombia (BLV Chim Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
-https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/13975.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 06:00 08/07 ⚽ Athletic Club vs Operario-PR (BLV Max) [FHD]
-#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
-https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260630/78e838bf90f69ebccf57fa9227a6efc4.png" group-title="FPT SPORT" , 14h00 ngày 02/07 Bay Hawks vs Taranaki Airs [CHAN SENA] (Socolive) m3u8
 https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1782977363-0-0-4b3cef5f4afd4e6ef9f51fe964ae1797
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260630/78e838bf90f69ebccf57fa9227a6efc4.png" group-title="FPT SPORT" , 14h00 ngày 02/07 Bay Hawks vs Taranaki Airs [CHAN SENA] (Socolive) hdM3u8
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1782977363-0-0-72135d13bc98bb970a734bda3e9dde55
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" group-title="Khán Đài A" , Thái Lan vs Mỹ [BLV Trạng Bệu]
+https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" group-title="Khán Đài A" , Ukraine vs Ý [BLV Núi]
+https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
