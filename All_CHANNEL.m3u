@@ -479,6 +479,18 @@ https://alive.yarncdn.live/bgtv_blv_phaothan/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqePjetOK9YTAWgKRdQuPYgB6WgmVbDYdJrgvtX3YewQ&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 11:00 09/07 ⚽ Hoa Kỳ vs Ba Lan (BLV Pháo) [FHD]
 #EXTVLCOPT:http-referrer=https://vongcam.tv/
 https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgW0VAuV6rUk40nM2HsIybZ3kJdRX8vBan-_y5oEzxA&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 16:00 09/07 ⚽ Bỉ vs Canada (BLV Pháo) [HD]
+#EXTVLCOPT:http-referrer=https://vongcam.tv/
+https://alive.yarncdn.live/bgtv_blv_phaothan/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgW0VAuV6rUk40nM2HsIybZ3kJdRX8vBan-_y5oEzxA&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 16:00 09/07 ⚽ Bỉ vs Canada (BLV Pháo) [FHD]
+#EXTVLCOPT:http-referrer=https://vongcam.tv/
+https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8J_fMN0R_ZOM_VbIdnJCS8Wb2YvyKeGV-mWo63Q-7g&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 17:20 09/07 ⚽ Nhật Bản vs Thái Lan (BLV Chim Nhỏ) [HD]
+#EXTVLCOPT:http-referrer=https://vongcam.tv/
+https://alive.yarncdn.live/bgtv_blv_cuccu/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe8J_fMN0R_ZOM_VbIdnJCS8Wb2YvyKeGV-mWo63Q-7g&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 17:20 09/07 ⚽ Nhật Bản vs Thái Lan (BLV Chim Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://vongcam.tv/
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782965678.png" group-title="FPT SPORT" , 11h30 ngày 02/07 Anh vs Congo (Lương Sơn) BLV KAKA REPLAY m3u
 https://hls.cdnfaster-a.live/live/TO3A/index.m3u8?expire=1891408380&sign=9c81b067b218299e5542cfcd512206bf
 #EXTINF:-1 tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1782965678.png" group-title="FPT SPORT" , 11h30 ngày 02/07 Anh vs Congo (Lương Sơn) BLV KAKA REPLAY flv
@@ -853,3 +865,9 @@ https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
 https://alive.yarncdn.live/kda-blv-kaka/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/3840px-Flag_of_the_People%27s_Republic_of_China.svg.png" group-title="Khán Đài A" , Trung Quốc vs Hàn Quốc [BLV Kaka]
 https://alive.yarncdn.live/kda-blv-kaka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3364.png" group-title="Khán Đài A" , Borac Banja Luka vs  Levski Sofia [BLV Dế Lửa]
+https://kdalive.yarncdn.live/live/kda-blv-delua/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3364.png" group-title="Khán Đài A" , Borac Banja Luka vs  Levski Sofia [BLV Dế Lửa]
+https://alive.yarncdn.live/kda-blv-delua/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3364.png" group-title="Khán Đài A" , Borac Banja Luka vs  Levski Sofia [BLV Dế Lửa]
+https://alive.yarncdn.live/kda-blv-delua/tracks-v1a1/mono.m3u8
