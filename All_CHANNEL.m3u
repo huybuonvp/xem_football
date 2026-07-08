@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_081520_6f8a2bf2.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 13:30 08/07 🏐 Thailand W vs USA W (Chuối Tây) [HD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_081520_6f8a2bf2.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 13:30 08/07 🏐 Thailand W vs USA W (Chuối Tây) [HD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_081520_6f8a2bf2.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 13:30 08/07 🏐 Thailand W vs USA W (Chuối Tây) [FHD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_081520_6f8a2bf2.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 13:30 08/07 🏐 Thailand W vs USA W (Chuối Tây) [FHD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/pWVxGjFa-zLx3xGjj.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 13:30 08/07 🏐 Thailand W vs USA W (BLV TRẠNG BỊP)
-#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
-https://pull.asynccdn.com/live/f0dffc48e3e2449ea2fb11447d26806e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 13:30 08/07 🏐 Thái Lan vs Mỹ (BLV PHAN CA) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
@@ -290,12 +275,6 @@ https://alive.yarncdn.live/kda-blv-nui/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 20:30 08/07 🏐 Cộng Hòa Séc vs Đức (Núi) [SD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://alive.yarncdn.live/kda-blv-nui/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPLq5-ZP3PdMB0VK0epq_QikfLqhwFruhp9PvE1eYYQ&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 13:30 08/07 ⚽ Thái Lan vs Hoa Kỳ (BLV Pháo) [HD]
-#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
-https://alive.yarncdn.live/bgtv_blv_phaothan/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPLq5-ZP3PdMB0VK0epq_QikfLqhwFruhp9PvE1eYYQ&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 13:30 08/07 ⚽ Thái Lan vs Hoa Kỳ (BLV Pháo) [FHD]
-#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
-https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134016_7b40519f.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:00 08/07 ⚽ Alay vs Toktogul (Chuối Tím) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
@@ -352,12 +331,20 @@ https://hls.streamhub.media/hls/thesport-api-be583f184659904c7b5c/master.m3u8
 https://station1-global.ebaclofen.org/live/f46be3a9497a906c7cc4ba110b11b037/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/82325f30d601dd69f8c3f0e35c61e44c.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 08/07 ⚽ Guizhou Xufengtang vs Guangzhou Zhicheng (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-be583f184659904c7b5c/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/beaa819a3e60f3b55590a102fc0087b4.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 08/07 ⚽ Pasuruan United vs Persinga Ngawi (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/7ff5fcaa79f64a68666f06e65bfc1574/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/beaa819a3e60f3b55590a102fc0087b4.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 08/07 ⚽ Pasuruan United vs Persinga Ngawi (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-8822a48ef8aa92fad8e5/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/beaa819a3e60f3b55590a102fc0087b4.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 08/07 ⚽ Pasuruan United vs Persinga Ngawi (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/7ff5fcaa79f64a68666f06e65bfc1574/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/beaa819a3e60f3b55590a102fc0087b4.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 08/07 ⚽ Pasuruan United vs Persinga Ngawi (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-8822a48ef8aa92fad8e5/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e2a39ebeab42f8f308938918be6ad75f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 08/07 ⚽ PSN Ngada vs Pesik Kuningan (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/366b9de30cd02f92684f86f7f7c91fc2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e2a39ebeab42f8f308938918be6ad75f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 08/07 ⚽ PSN Ngada vs Pesik Kuningan (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-58317ca94268a2c80092/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e2a39ebeab42f8f308938918be6ad75f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 08/07 ⚽ PSN Ngada vs Pesik Kuningan (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/366b9de30cd02f92684f86f7f7c91fc2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e2a39ebeab42f8f308938918be6ad75f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 08/07 ⚽ PSN Ngada vs Pesik Kuningan (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-58317ca94268a2c80092/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/3ef04912f88c3166f1a47864cde71949.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 22:00 08/07 ⚽ FC Kairat Almaty vs FK Sutjeska Niksic (BLV TRẠNG BÉO)
@@ -393,6 +380,14 @@ https://alive.yarncdn.live/kda-blv-delua/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FCKairat_logo.png/250px-FCKairat_logo.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 22:00 08/07 ⚽ Kairat Almaty vs Sutjeska (Dế Lửa) [SD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://alive.yarncdn.live/kda-blv-delua/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 08/07 ⚽ Shanxi Chongde Ronghai vs Dalian Kewei (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/2d8ec2973661d957d1f2e5606d49aa73/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 08/07 ⚽ Shanxi Chongde Ronghai vs Dalian Kewei (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-5fa5b0e7cc6b0d70f538/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 08/07 ⚽ Shanxi Chongde Ronghai vs Dalian Kewei (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/2d8ec2973661d957d1f2e5606d49aa73/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 08/07 ⚽ Shanxi Chongde Ronghai vs Dalian Kewei (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-5fa5b0e7cc6b0d70f538/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/20674.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 15:00 08/07 ⚽ Xi'an Ronghai vs Dalian Kewei (BLV Tiểu Trà Đá) [HD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://alive.yarncdn.live/bgtv_blv_trada/tracks-v2a1/mono.m3u8
@@ -534,6 +529,18 @@ https://alive.yarncdn.live/kda-blv-kaka/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 01:00 09/07 🏐 Serbia vs Bulgaria (Kaka) [SD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://alive.yarncdn.live/kda-blv-kaka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080458_8929e0d7.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 09/07 🏐 Serbia W vs Bulgaria W (Chuối Bơ) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080458_8929e0d7.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 09/07 🏐 Serbia W vs Bulgaria W (Chuối Bơ) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080458_8929e0d7.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 09/07 🏐 Serbia W vs Bulgaria W (Chuối Bơ) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080458_8929e0d7.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 09/07 🏐 Serbia W vs Bulgaria W (Chuối Bơ) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/x4FgDryB-zLx3xGjj.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 01:00 09/07 🏐 Serbia W vs Bulgaria W (BLV TRẠNG BỊP)
 #EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
 https://pull.asynccdn.com/live/a458695993834a71853435c6feaa279d/index.m3u8
