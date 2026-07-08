@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/139.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 06:00 09/07 ⚽ Ponte Preta vs Criciuma (BLV PHAN ANH) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/139.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 06:00 09/07 ⚽ Ponte Preta vs Criciuma (BLV PHAN ANH) [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/139.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 06:00 09/07 ⚽ Ponte Preta vs Criciuma (BLV PHAN ANH) [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/139.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 06:00 09/07 ⚽ Ponte Preta vs Criciuma (Isco) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
@@ -8,6 +17,15 @@ https://alive.yarncdn.live/kda-blv-isco/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/139.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 06:00 09/07 ⚽ Ponte Preta vs Criciuma (Isco) [SD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://alive.yarncdn.live/kda-blv-isco/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Vancouver_Whitecaps_logo.svg" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (BLV PHAN ANH) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Vancouver_Whitecaps_logo.svg" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (BLV PHAN ANH) [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Vancouver_Whitecaps_logo.svg" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (BLV PHAN ANH) [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Vancouver_Whitecaps_logo.svg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (Isco) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
@@ -27,12 +45,10 @@ https://hls.streamhub.media/hls/thesport-api-469ab24b62fa3c9f15df/master.m3u8
 https://hls.streamhub.media/hls/thesport-api-469ab24b62fa3c9f15df/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/138b4ed9a0eefa2b230109eec6a23ae4.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 09/07 ⚽ AFC Cleveland vs NK Steel City (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-c0068b82203893c7f0c4/master.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/58651124c7a3d21c51b20500b8e03169.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 09/07 ⚽ Dep. Santo Domingo vs Independiente del Valle (BLV QUỐC KHÁNH)
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=e744961e565f2d0b235a32b79c6f65b8&txTime=6a4f25fb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/58651124c7a3d21c51b20500b8e03169.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 09/07 ⚽ Dep. Santo Domingo vs Independiente del Valle (BLV BLV PICK)
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1783553963-0-0-7573d52ed9efdf5ecf5e506bcc1219ab
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/58651124c7a3d21c51b20500b8e03169.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 09/07 ⚽ Dep. Santo Domingo vs Independiente del Valle (BLV BLV LUCAS)
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1783553963-0-0-8575b51ed3d4b6e77748dfe47c4787d2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/6914c0cfd99439b2010cd5f95fc29103.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:00 09/07 ⚽ Greenville Triumph vs Sarasota Paradise (BLV BLV CÁO)
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1783554564-0-0-bb9bac68cc7b4841cee967c8c36728be
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/6914c0cfd99439b2010cd5f95fc29103.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:00 09/07 ⚽ Greenville Triumph vs Sarasota Paradise (BLV TUẤN CÙI)
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1783554563-0-0-6b9bed92e7d2292b3d38948a1dc2aa9b
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/139.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 06:00 09/07 ⚽ Ponte Preta vs Criciuma (BLV Max) [HD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://alive.yarncdn.live/bgtv_blv_max/tracks-v2a1/mono.m3u8
