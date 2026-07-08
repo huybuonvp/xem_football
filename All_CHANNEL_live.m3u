@@ -1,25 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 15:00 08/07 ⚽ Shanxi Chongde Ronghai vs Dalian Kewei (BLV TRẠNG TÈO)
-#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
-https://pull.asynccdn.com/live/80f972a101b143f5938b7edda87d3f70/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/20674.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 15:00 08/07 ⚽ Xi'an Ronghai vs Dalian Kewei (BLV PHAN QUẨY) [FHD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/20674.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 15:00 08/07 ⚽ Xi'an Ronghai vs Dalian Kewei (BLV PHAN QUẨY) [HD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/20674.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 15:00 08/07 ⚽ Xi'an Ronghai vs Dalian Kewei (BLV PHAN QUẨY) [SD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/20674.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 15:00 08/07 ⚽ Xi'an Ronghai vs Dalian Kewei (Trạng Mơ) [FHD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://kdalive.yarncdn.live/live/kda-blv-mo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/20674.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 15:00 08/07 ⚽ Xi'an Ronghai vs Dalian Kewei (Trạng Mơ) [HD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-mo/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/20674.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 15:00 08/07 ⚽ Xi'an Ronghai vs Dalian Kewei (Trạng Mơ) [SD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-mo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 16:00 08/07 🏐 Ukraina vs Italy (BLV LƯƠNG BỔNG) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
@@ -77,6 +56,21 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9426.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 17:00 08/07 ⚽ Paro vs Tensung (BLV TÁO GIÀ) [SD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_081346_8027acab.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:20 08/07 🏐 Japan W vs Brazil W (Chuối Bơ) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_081346_8027acab.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:20 08/07 🏐 Japan W vs Brazil W (Chuối Bơ) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_081346_8027acab.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:20 08/07 🏐 Japan W vs Brazil W (Chuối Bơ) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_081346_8027acab.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:20 08/07 🏐 Japan W vs Brazil W (Chuối Bơ) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 17:20 08/07 🏐 Nhật Bản vs Brazil (BLV PHAN HẢI) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 17:20 08/07 🏐 Nhật Bản vs Brazil (Kaka) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
@@ -86,23 +80,41 @@ https://alive.yarncdn.live/kda-blv-kaka/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 17:20 08/07 🏐 Nhật Bản vs Brazil (Kaka) [SD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://alive.yarncdn.live/kda-blv-kaka/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 08/07 ⚽ Shanxi Chongde Ronghai vs Dalian Kewei (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-5fa5b0e7cc6b0d70f538/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6329d7d96869a8cdbbe2ebec83d9d7e2.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 08/07 ⚽ Shanxi Chongde Ronghai vs Dalian Kewei (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-5fa5b0e7cc6b0d70f538/master.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/20674.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 15:00 08/07 ⚽ Xi'an Ronghai vs Dalian Kewei (BLV Tiểu Trà Đá) [FHD]
-#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141411_8a5dcd29.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 08/07 ⚽ Gold Coast Knights vs Souths Strikers (Chuối To) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141411_8a5dcd29.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 08/07 ⚽ Gold Coast Knights vs Souths Strikers (Chuối To) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Noskova_RGQ22_%289%29_%2852129787314%29.jpg" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 19:00 08/07 ⚽ Linda Noskova vs Elise Mertens (BLV PHAN HẢI) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZSDJOk9zmiEAUd932qtYHbrfQcbE7f50zQ&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 20:10 08/07 ⚽ Taylor Fritz vs Alexandet Zverev (BLV PHAN HẢI) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 20:30 08/07 🏐 Cộng Hòa Séc vs Đức (Núi) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/ead0df366555ff01fd987a0f46634179.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:00 08/07 ⚽ Budapest Honved FC vs Soroksar (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-ec41dc9078a5cbb7b62c/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/ead0df366555ff01fd987a0f46634179.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:00 08/07 ⚽ Budapest Honved FC vs Soroksar (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-ec41dc9078a5cbb7b62c/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7b54075642785084cc585bac8f28be04.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:00 08/07 ⚽ Canton United vs Chongqing Handa (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-218107b6be9051268cfa/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsekIgFLh-3R0Uto0MlV2jCZuJXOVwquWEEpdEesfM4A&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 16:00 08/07 ⚽ Ukraina vs Ý (BLV Tiểu Mèo) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/7808.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 00:00 09/07 ⚽ ML Vitebsk vs Universitatea Craiova (Núi) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf5WDxzLL831Rq2NNJ3Hn6NgDEYSqyKsXq43wsaMrZ4Q&s" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 17:20 08/07 ⚽ Nhật Bản vs Brazil (BLV Chim Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwtTChnQEGmnNnkB1uN9_B_E4Jss_-Xt9S6-YApLcfBg&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 18:00 08/07 ⚽ Pháp vs Hà Lan (BLV Tiểu Mèo) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1622.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 19:00 08/07 ⚽ SV Babelsberg 03 vs Hamburger SV II (BLV Chim Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2596.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 21:00 08/07 ⚽ Farul Constanta vs Cherno More Varna (BLV Tiểu Mèo) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwbRVnSljHy8WGaU8UVE_bNbA_ouun6OHpw&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 16:00 09/07 ⚽ Hà Nội Nữ vs Phong Phú Hà Nam (BLV TÁO GIÀ) [FHD]
