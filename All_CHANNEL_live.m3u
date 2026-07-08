@@ -55,8 +55,6 @@ https://alive.yarncdn.live/kda-blv-nui/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/kda-blv-nui/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/82325f30d601dd69f8c3f0e35c61e44c.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 08/07 ⚽ Guizhou Xufengtang vs Guangzhou Zhicheng (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-be583f184659904c7b5c/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/82325f30d601dd69f8c3f0e35c61e44c.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 08/07 ⚽ Guizhou Xufengtang vs Guangzhou Zhicheng (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-be583f184659904c7b5c/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/20674.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 15:00 08/07 ⚽ Xi'an Ronghai vs Dalian Kewei (BLV Tiểu Trà Đá) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
@@ -64,5 +62,11 @@ https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwtTChnQEGmnNnkB1uN9_B_E4Jss_-Xt9S6-YApLcfBg&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 18:00 08/07 ⚽ Pháp vs Hà Lan (BLV Tiểu Mèo) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10352.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 01:00 09/07 ⚽ Ukraine U19 vs Germany U19 (BLV LƯƠNG BỔNG) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2596.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 21:00 08/07 ⚽ Farul Constanta vs Cherno More Varna (BLV Tiểu Mèo) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
