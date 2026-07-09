@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVndHuap8KFAxEzV9q8f6sVWefr052gi_2xQ&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 19:30 09/07 ⚽ Karolina Muchova vs Coco Gauff (BLV PHAN BỐNG) [FHD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVndHuap8KFAxEzV9q8f6sVWefr052gi_2xQ&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 19:30 09/07 ⚽ Karolina Muchova vs Coco Gauff (BLV PHAN BỐNG) [HD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVndHuap8KFAxEzV9q8f6sVWefr052gi_2xQ&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 19:30 09/07 ⚽ Karolina Muchova vs Coco Gauff (BLV PHAN BỐNG) [SD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/c04b314a782ba63e990015b5c5c0955c.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 21:00 09/07 ⚽ Atletic Club D Escaldes vs Mornar (BLV TRẠNG BÉO)
 #EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
 https://pull.asynccdn.com/live/5d970bacae154f83994528c6e202be2d/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130333_b43373b2.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:00 09/07 ⚽ Atlètic Club d'Escaldes vs Mornar (Chuối Nhỏ) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130333_b43373b2.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:00 09/07 ⚽ Atlètic Club d'Escaldes vs Mornar (Chuối Nhỏ) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
@@ -62,22 +56,62 @@ https://alive.yarncdn.live/kda-blv-t-rex/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 21:30 09/07 🏐 Cộng Hòa Séc vs Hà Lan (T-Rex) [SD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://alive.yarncdn.live/kda-blv-t-rex/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.tennisnerd.net/wp-content/uploads/2025/05/Marta-Kostyuk-1024x546.webp" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 22:30 09/07 ⚽ Marta Kostuyk vs Linda Noskova (BLV PHAN BỐNG) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tennisnerd.net/wp-content/uploads/2025/05/Marta-Kostyuk-1024x546.webp" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 22:30 09/07 ⚽ Marta Kostuyk vs Linda Noskova (BLV PHAN BỐNG) [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.tennisnerd.net/wp-content/uploads/2025/05/Marta-Kostyuk-1024x546.webp" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 22:30 09/07 ⚽ Marta Kostuyk vs Linda Noskova (BLV PHAN BỐNG) [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/582.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 23:00 09/07 ⚽ Alashkert vs Yelimay Semey (BLV PHAN QUẨY) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/582.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 23:00 09/07 ⚽ Alashkert vs Yelimay Semey (BLV PHAN QUẨY) [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/582.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 23:00 09/07 ⚽ Alashkert vs Yelimay Semey (BLV PHAN QUẨY) [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/394.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 00:00 10/07 ⚽ Dinamo Minsk vs Sileks (BLV PHAN CA) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/394.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 00:00 10/07 ⚽ Dinamo Minsk vs Sileks (BLV PHAN CA) [HD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/394.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 00:00 10/07 ⚽ Dinamo Minsk vs Sileks (BLV PHAN CA) [SD]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 03:00 10/07 ⚽ France vs Morocco (BLV PHAN QUẨY) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/c3c4fa1cdf6229edd8b2b6d3502587d3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 09/07 ⚽ Atletic Club D Escaldes vs Mornar (BLV BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=5e15991cd39e3791717140de030a571d&txTime=6a50105c
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=3626778445f8b0014481bdc0e2c1e112&txTime=6a5012b4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/c3c4fa1cdf6229edd8b2b6d3502587d3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 09/07 ⚽ Atletic Club D Escaldes vs Mornar (BLV VƯƠNG ANH)
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=694e16074940a43d6815c47b68bb2b30&txTime=6a5012b4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/c3c4fa1cdf6229edd8b2b6d3502587d3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 09/07 ⚽ Atletic Club D Escaldes vs Mornar (BLV LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1783613964-0-0-3e24f3dfb2df3f6bf2c359f05fef35c3
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1783614564-0-0-3376f3724ffb3029170101e8ac8dead3
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/c3c4fa1cdf6229edd8b2b6d3502587d3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 09/07 ⚽ Atletic Club D Escaldes vs Mornar (BLV A PÁO)
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1783614564-0-0-82c2e16ea9e4b7c464b7668f03a36af2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/c3c4fa1cdf6229edd8b2b6d3502587d3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 09/07 ⚽ Atletic Club D Escaldes vs Mornar (BLV A BỆU)
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1783614564-0-0-1e490aef7b3928b89afe997d827c2539
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c04b314a782ba63e990015b5c5c0955c.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 21:00 09/07 ⚽ Atletic Club D Escaldes vs Mornar (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-bbe1dc8d31e0b102e5b8/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c04b314a782ba63e990015b5c5c0955c.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 21:00 09/07 ⚽ Atletic Club D Escaldes vs Mornar (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-bbe1dc8d31e0b102e5b8/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3345.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 21:00 09/07 ⚽ Atlètic Club d'Escaldes vs Mornar (BLV Phi MC) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLkHp8_KNZVw1jCYb3bu1mvTTOxYcnl5yQQ&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 17:30 10/07 🏐 Ba Lan vs Brazil (BLV PHAN CA) [HD]
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6f927eb040bdd5c972a9343fd9c8b873.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 22:30 09/07 ⚽ CFR Cluj vs FC Karpaty Lviv (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-29f92520939f0710634b/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6f927eb040bdd5c972a9343fd9c8b873.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 22:30 09/07 ⚽ CFR Cluj vs FC Karpaty Lviv (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-29f92520939f0710634b/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6bb1babe89fffc1f77f25a47db40c847.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 22:30 09/07 ⚽ FC Rapid 1923 vs Slovan Liberec (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-e37eda2ffc320b2007d4/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 16:00 10/07 🏐 Ukraine vs Dominican (T-Rex) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxLkHp8_KNZVw1jCYb3bu1mvTTOxYcnl5yQQ&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 17:30 10/07 🏐 Ba Lan vs Brazil (BLV PHAN CA) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/7060.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 17:30 10/07 ⚽ Cheonan City vs Gimhae City (BLV PHAN QUẨY) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
