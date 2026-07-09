@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Vancouver_Whitecaps_logo.svg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (Isco) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Vancouver_Whitecaps_logo.svg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (Isco) [HD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-isco/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Vancouver_Whitecaps_logo.svg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (Isco) [SD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-isco/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/3b1eedbf7ab45c8c57b3eeb7c7ade1c6.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 09:40 09/07 ⚽ Sacramento Republic FC vs Rhode Island (BLV TRẠNG TÈO)
 #EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
 https://pull.asynccdn.com/live/fe5bfb31256542b6b3fa3523905f7d63/index.m3u8
@@ -35,14 +44,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20251115_123048_e67768f5.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 11:00 09/07 🏐 USA W vs Poland W (Chuối Tím) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d10f5433c1c56f8e5c20532012ea3cfc.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Academica SC vs San Juan SC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/427a4509487c5a16d4d3925f360bd212/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d10f5433c1c56f8e5c20532012ea3cfc.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Academica SC vs San Juan SC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-a1350688ad2b39164ef6/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d10f5433c1c56f8e5c20532012ea3cfc.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Academica SC vs San Juan SC (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/427a4509487c5a16d4d3925f360bd212/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d10f5433c1c56f8e5c20532012ea3cfc.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Academica SC vs San Juan SC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-a1350688ad2b39164ef6/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_212618_887a8760.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 16:00 09/07 🏐 Belgium W vs Canada W (Chuối Già) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
@@ -55,14 +56,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_212618_887a8760.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 16:00 09/07 🏐 Belgium W vs Canada W (Chuối Già) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3f25e2504ba8711ee1e2371331071714.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Bigfoot vs Ballard Football Club (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/9847c709e8f38690e04c5114d9232707/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3f25e2504ba8711ee1e2371331071714.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Bigfoot vs Ballard Football Club (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-b5310f955b635aa32831/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3f25e2504ba8711ee1e2371331071714.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Bigfoot vs Ballard Football Club (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/9847c709e8f38690e04c5114d9232707/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3f25e2504ba8711ee1e2371331071714.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Bigfoot vs Ballard Football Club (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-b5310f955b635aa32831/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 16:00 09/07 🏐 Bỉ vs Canada (BLV PHAN CA) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
@@ -94,53 +87,27 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/32ae6ff7e89c75b65e1dfd4c012ee7be.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 09/07 ⚽ Los Angeles Sparks W vs Indiana Fever W (BLV BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1783572563-0-0-51483ca88dc4506791a261260aefe7fd
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1783573163-0-0-450d05ef2a46b73c1074b6edff4bf6db
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/32ae6ff7e89c75b65e1dfd4c012ee7be.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 09/07 ⚽ Los Angeles Sparks W vs Indiana Fever W (BLV BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783572564-0-0-a00568a42f3c3b92372f9525c38108a0
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783573164-0-0-df72e29390f39568cf28cf3857b5d941
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/32ae6ff7e89c75b65e1dfd4c012ee7be.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 09/07 ⚽ Los Angeles Sparks W vs Indiana Fever W (BLV CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1783572564-0-0-a098673caecf178fcdfd11870dd9a043
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1783573164-0-0-05be155b4c4da79cd626d3d4acb7f260
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/32ae6ff7e89c75b65e1dfd4c012ee7be.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 09/07 ⚽ Los Angeles Sparks W vs Indiana Fever W (BLV A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783572564-0-0-7f8877da8e35c59faf1719e390f1a5d7
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783573164-0-0-a7a12ce18c6121fbb779d99954636bd9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/32ae6ff7e89c75b65e1dfd4c012ee7be.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 09/07 ⚽ Los Angeles Sparks W vs Indiana Fever W (BLV HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1783572564-0-0-41ef6c3459a49219fc7cdae8836b6a1c
-#EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 16:00 09/07 🏐 Nhật Bản vs Thái Lan (Kaka) [FHD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 16:00 09/07 🏐 Nhật Bản vs Thái Lan (Kaka) [HD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-kaka/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 16:00 09/07 🏐 Nhật Bản vs Thái Lan (Kaka) [SD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-kaka/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 16:00 09/07 🏐 Nhật Bản vs Thái Lan (Bệu) [FHD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 16:00 09/07 🏐 Nhật Bản vs Thái Lan (Bệu) [HD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-beu/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 16:00 09/07 🏐 Nhật Bản vs Thái Lan (Bệu) [SD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-beu/tracks-v1a1/mono.m3u8
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1783573164-0-0-80ba3f3434bb7ef6b1d90c4244f32fe6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/ce63383bb8e6a89b3ec850c647778e27.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 09/07 ⚽ Vancouver FC vs Montreal Impact (BLV BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1783572564-0-0-7715fe03b5972259c02aecebf83aa650
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1783573164-0-0-9e35411639a597a09a4bada6ef453d27
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/ce63383bb8e6a89b3ec850c647778e27.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 09/07 ⚽ Vancouver FC vs Montreal Impact (BLV TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1783572563-0-0-1a6a33112f86e9a666b4cd80426e8ca7
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1783573163-0-0-15051cb0163e2d9ca52e69c00e03b0f4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/ce63383bb8e6a89b3ec850c647778e27.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 09/07 ⚽ Vancouver FC vs Montreal Impact (BLV XUÂN TÓC ĐỎ)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=baab1fff9bfff59bb5d2de90463e87f1&txTime=6a4f6ea4
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=dbb3f8d1b26254f4302b4fdca5dfd031&txTime=6a4f70ea
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/ce63383bb8e6a89b3ec850c647778e27.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 09/07 ⚽ Vancouver FC vs Montreal Impact (BLV BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1783572563-0-0-74794ff0d705d44c32dac28a08bf125b
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1783573184-0-0-8ecf17c1c27dd98ddeb9fc03fa09c25a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/ce63383bb8e6a89b3ec850c647778e27.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 09/07 ⚽ Vancouver FC vs Montreal Impact (BLV BLV MESSI)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1783572564-0-0-5f6e22917cc0f28c3fd3f1589f20bad2
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1783573164-0-0-7fdfc2c19f0883bbf7777db567e8e089
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/ce63383bb8e6a89b3ec850c647778e27.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 09/07 ⚽ Vancouver FC vs Montreal Impact (BLV RICKHANTER)
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1783572563-0-0-67ebe43897eab0ec274f331d894a206e
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2be300dfaf22aea36b0f57a2832859ae.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Vancouver FC vs Montreal Impact (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/4b37c5b0df71c3f292d6d4eec660fd41/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2be300dfaf22aea36b0f57a2832859ae.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Vancouver FC vs Montreal Impact (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-e9c7c467dc951615ee0f/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2be300dfaf22aea36b0f57a2832859ae.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Vancouver FC vs Montreal Impact (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/4b37c5b0df71c3f292d6d4eec660fd41/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2be300dfaf22aea36b0f57a2832859ae.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Vancouver FC vs Montreal Impact (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-e9c7c467dc951615ee0f/master.m3u8
+https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1783573168-0-0-8c3e9a737860842b8ebb2cecd496b190
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6766a2d30da30216a62c0295cc70c44c.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Ventura County Fusion vs Stars FC (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/f1fbac213c7b9925ce1b2e6db35e1d69/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6766a2d30da30216a62c0295cc70c44c.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Ventura County Fusion vs Stars FC (Nhà Đài 2)
@@ -150,29 +117,29 @@ https://station1-global.ebaclofen.org/live/f1fbac213c7b9925ce1b2e6db35e1d69/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6766a2d30da30216a62c0295cc70c44c.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:00 09/07 ⚽ Ventura County Fusion vs Stars FC (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-f6ae9515f7d43db4731d/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/bcf3aa709c6f0ec54f86ca894049fce8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:30 09/07 ⚽ Sacramento Republic FC vs Rhode Island (BLV BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4ebcd9c28106b177d44791b3d3f59aec&txTime=6a4f6ea3
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a08e7bd42dd762a86157b25d913b7100&txTime=6a4f70fb
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/bcf3aa709c6f0ec54f86ca894049fce8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:30 09/07 ⚽ Sacramento Republic FC vs Rhode Island (BLV LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1783572564-0-0-5bbf65162b36147cb74fc70dab7716cc
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1783573164-0-0-85e094bbf582f4fa4c13b5a327e652e8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/bcf3aa709c6f0ec54f86ca894049fce8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:30 09/07 ⚽ Sacramento Republic FC vs Rhode Island (BLV DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783572564-0-0-1ed256b1d734d39030a64f30b9fc939e
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783573163-0-0-11239519588a9848b6c8b000c141fe9b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/bcf3aa709c6f0ec54f86ca894049fce8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:30 09/07 ⚽ Sacramento Republic FC vs Rhode Island (BLV BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1783572564-0-0-894b8bd8aa8b1358fee05f5f1e9ba3b1
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1783573164-0-0-fb4183a2175ecf59359f12cfe10c30cf
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/bcf3aa709c6f0ec54f86ca894049fce8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:30 09/07 ⚽ Sacramento Republic FC vs Rhode Island (BLV BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1783572564-0-0-ab5401bf48f7278f24fb4fe700dcaf1e
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1783573163-0-0-9f24f2f27eb760aa89f789294ae08fed
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/bcf3aa709c6f0ec54f86ca894049fce8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:30 09/07 ⚽ Sacramento Republic FC vs Rhode Island (BLV BLV NOVA)
-https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1783572564-0-0-b24afc59e032146ca62c79a29f0c5517
+https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1783573164-0-0-1c9913357f19cf6b8720455d5a321ac8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/44b6191896d1e04ecda309fd8e0dea87.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (BLV BLV ENZO)
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1783572564-0-0-454a02919646eeefa6ec684134817b62
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1783573164-0-0-477c55866207bbb84a5d75a29cdb11d3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/44b6191896d1e04ecda309fd8e0dea87.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (BLV BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1783572564-0-0-ac1d0f71a391230bb3741ba25627c8ec
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1783573164-0-0-33588571cd1b25008edb5a9f7998237d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/44b6191896d1e04ecda309fd8e0dea87.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (BLV BLV TAP)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=0176670419f17076b17d712e79426d05&txTime=6a4f6ea3
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=188f586793d9bc004432e7ca031af037&txTime=6a4f70fb
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/44b6191896d1e04ecda309fd8e0dea87.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (BLV BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1783572564-0-0-c376f542ccb3a6ed73ddcbeea7a1c2a0
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1783573164-0-0-c1dec6004de2d9639611447e5dd90677
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/44b6191896d1e04ecda309fd8e0dea87.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (BLV BLV ĐỐM)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1783572564-0-0-ba629d0075141fc5906b371db927ae1f
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1783573164-0-0-d69f8644df668d09614fcc2d93fbcb7c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/44b6191896d1e04ecda309fd8e0dea87.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (BLV BLV COCA)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1783572564-0-0-0d4fa572d5ce336dce1cba5986874b88
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1783573164-0-0-04efd8ef1006ac16e29dd2515630a752
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/527dcdb6260004a2c8f61fae9345f133.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/3b46d3f934d729f3c54e363456c96482/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/527dcdb6260004a2c8f61fae9345f133.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:30 09/07 ⚽ Vancouver Whitecaps vs Cavalry FC (Nhà Đài 2)
@@ -184,11 +151,11 @@ https://hls.streamhub.media/hls/thesport-api-4ffab3666477e5e7a2e3/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3b1eedbf7ab45c8c57b3eeb7c7ade1c6.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:40 09/07 ⚽ Sacramento Republic FC vs Rhode Island (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/b38374746dcb81d4fa54d8942bd7e29b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3b1eedbf7ab45c8c57b3eeb7c7ade1c6.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:40 09/07 ⚽ Sacramento Republic FC vs Rhode Island (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-d10d79fd8d8b806cf4a0/master.m3u8
+https://hls.streamhub.media/hls/thesport-api-b3030f365e22206bfe01/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3b1eedbf7ab45c8c57b3eeb7c7ade1c6.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:40 09/07 ⚽ Sacramento Republic FC vs Rhode Island (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/b38374746dcb81d4fa54d8942bd7e29b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3b1eedbf7ab45c8c57b3eeb7c7ade1c6.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 09:40 09/07 ⚽ Sacramento Republic FC vs Rhode Island (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-d10d79fd8d8b806cf4a0/master.m3u8
+https://hls.streamhub.media/hls/thesport-api-b3030f365e22206bfe01/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_081346_8027acab.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:20 09/07 🏐 Japan W vs Thailand W (Chuối Tây) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
@@ -213,6 +180,24 @@ https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 17:20 09/07 🏐 Nhật Bản vs Thái Lan (BLV LƯƠNG BỔNG) [SD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 17:20 09/07 🏐 Nhật Bản vs Thái Lan (Kaka) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 17:20 09/07 🏐 Nhật Bản vs Thái Lan (Kaka) [HD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-kaka/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 17:20 09/07 🏐 Nhật Bản vs Thái Lan (Kaka) [SD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-kaka/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 17:20 09/07 🏐 Nhật Bản vs Thái Lan (Bệu) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 17:20 09/07 🏐 Nhật Bản vs Thái Lan (Bệu) [HD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-beu/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cocacnuoc.com/wp-content/uploads/2024/10/co-nhat-ban.jpg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 17:20 09/07 🏐 Nhật Bản vs Thái Lan (Bệu) [SD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-beu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqePjetOK9YTAWgKRdQuPYgB6WgmVbDYdJrgvtX3YewQ&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 11:00 09/07 ⚽ Hoa Kỳ vs Ba Lan (BLV Pháo) [HD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://alive.yarncdn.live/bgtv_blv_phaothan/tracks-v2a1/mono.m3u8
