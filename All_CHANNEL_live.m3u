@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 01:00 10/07 🏐 Serbia vs Pháp (Kaka) [FHD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 01:00 10/07 🏐 Serbia vs Pháp (Kaka) [HD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-kaka/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 01:00 10/07 🏐 Serbia vs Pháp (Kaka) [SD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-kaka/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/x4FgDryB-zLx3xGjj.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 01:00 10/07 🏐 Serbia W vs  France W (BLV TRẠNG BỊP)
-#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
-https://pull.asynccdn.com/live/20c3dca4c3d14c3dbb7725bf183e4524/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080458_8929e0d7.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 10/07 🏐 Serbia W vs France W (Chuối Tím) [HD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080458_8929e0d7.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 10/07 🏐 Serbia W vs France W (Chuối Tím) [HD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080458_8929e0d7.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 10/07 🏐 Serbia W vs France W (Chuối Tím) [FHD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080458_8929e0d7.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 10/07 🏐 Serbia W vs France W (Chuối Tím) [FHD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/I5PqTkcM-U3HPIwDq.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 03:00 10/07 ⚽ France  vs  Morocco (BLV TRẠNG QUỶ)
 #EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
 https://pull.asynccdn.com/live/915c2773ed124264a2c73285d96d7fee/index.m3u8
@@ -122,13 +98,6 @@ https://alive.yarncdn.live/kda-blv-delua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/I5PqTkcM-U3HPIwDq.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 03:00 10/07 ⚽ France vs Morocco (BLV TRẠNG PỜM)
 #EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
 https://pull.asynccdn.com/live/484a02d795c74710a57021d70df504b0/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkovTK8xhMBRAQqQZQOXVXn7nYGINb8o3teoRA7dr5rg&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 01:00 10/07 ⚽ Serbia vs Pháp  (BLV Tiểu Mèo) [FHD]
-#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
-https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/01cf0201d522d3dad41b25a96dd464f7.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:30 10/07 ⚽ Glentoran FC vs Rigas Futbola Skola (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-89ac2edab8daa4f84215/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/01cf0201d522d3dad41b25a96dd464f7.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:30 10/07 ⚽ Glentoran FC vs Rigas Futbola Skola (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-89ac2edab8daa4f84215/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a96621da953a1e173fdcfba037f89f93.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:45 10/07 ⚽ NSI Runavik vs Hamrun Spartans (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-10959fa8af916af89d00/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a96621da953a1e173fdcfba037f89f93.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:45 10/07 ⚽ NSI Runavik vs Hamrun Spartans (Nhà Đài 2)
@@ -143,26 +112,10 @@ https://hls.streamhub.media/hls/thesport-api-3540763c545bc65d77ad/master.m3u8
 https://hls.streamhub.media/hls/thesport-api-3540763c545bc65d77ad/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/de0b90b1c49a62ed9dcca91f67ac5c90.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:00 10/07 ⚽ FC Dinamo City vs FC Astana (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-9fc9fb79aaf94e5ab374/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/de0b90b1c49a62ed9dcca91f67ac5c90.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:00 10/07 ⚽ FC Dinamo City vs FC Astana (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-9fc9fb79aaf94e5ab374/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/923138a0ae0fac73cc50bbc58b3bf796.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:00 10/07 ⚽ Sarajevo vs Inter Turku (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-d4db9a256a95cc2dd962/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/923138a0ae0fac73cc50bbc58b3bf796.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:00 10/07 ⚽ Sarajevo vs Inter Turku (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-d4db9a256a95cc2dd962/master.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/a3357919595a8a135879d6b83cc91cde.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 10/07 ⚽ France vs Morocco (BLV BLV TOMMY)
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783631964-0-0-5cd8bd10e16b3f16f25c1cb92a761eee
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/a3357919595a8a135879d6b83cc91cde.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 10/07 ⚽ France vs Morocco (BLV BLV TAP)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=11de4d9dad6347d5f3a4375926099b60&txTime=6a5056ac
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/a3357919595a8a135879d6b83cc91cde.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 10/07 ⚽ France vs Morocco (BLV DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783631964-0-0-00d0eb6e66c63cb0611fab27eca265c3
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/a3357919595a8a135879d6b83cc91cde.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 10/07 ⚽ France vs Morocco (BLV BLV ĐỐM)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1783631964-0-0-5c354ce097a37549ee9c174197efba6a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/a3357919595a8a135879d6b83cc91cde.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 10/07 ⚽ France vs Morocco (BLV BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1783631964-0-0-03794425bb1d341687751bdc637b410a
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/a3357919595a8a135879d6b83cc91cde.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 10/07 ⚽ France vs Morocco (BLV TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1783631964-0-0-8cff732cf187cb9b073cb696d67d745d
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=7da13a4a683cf50ff171578787a6a642&txTime=6a505904
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260705/a3357919595a8a135879d6b83cc91cde.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 10/07 ⚽ France vs Morocco (BLV SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=d727b8a4cbfe93a987da4d5417ea6b28&txTime=6a5056ac
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=45c7ed67a32960ecc09f5d8a88217dad&txTime=6a505904
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 03:00 10/07 ⚽ France vs Morocco (BLV Tiểu Trà Đá) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
@@ -193,21 +146,33 @@ https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 16:00 10/07 🏐 Ukraina vs Cộng Hòa Dominicana (BLV LƯƠNG BỔNG) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 17:30 10/07 🏐 Ba Lan vs Brazil (Kaka) [FHD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/7060.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 17:30 10/07 ⚽ Cheonan City vs Gimhae City (BLV PHAN QUẨY) [FHD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_fc3fb07a.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:15 10/07 ⚽ Oakleigh Cannons vs Avondale (A Ngao) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_fc3fb07a.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:15 10/07 ⚽ Oakleigh Cannons vs Avondale (A Ngao) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_fc3fb07a.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:15 10/07 ⚽ Oakleigh Cannons vs Avondale (A Ngao) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYTtU4jae9iHqoBPl7Cx3CLxfUUlCzRGB3k1tRMCvxlw&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 11:00 10/07 ⚽ Hoa Kỳ vs Thổ Nhĩ Kỳ  (BLV Chim Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK_tYe8Gdl0F-9_AtTdnFFaTFZMZz1ZaTKxKNnP_IOxw&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 17:20 10/07 ⚽ Ba Lan vs Brazil (BLV Chim Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 02:00 11/07 ⚽ Spain vs Belgium (BLV THẦN THÔNG) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 02:00 11/07 ⚽ Spain vs Belgium (BLV PHAN QUẨY) [FHD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 02:00 11/07 ⚽ Spain vs Belgium (BLV THẦN THÔNG) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYESU1rFQZb4So9Aeh-MopH92mx90rKy-5neHDJO9bEg&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 19:30 10/07 ⚽ Bỉ vs Ý  (BLV Tiểu Mèo) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2767.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 17:30 11/07 ⚽ Ulsan Hyundai FC vs Jeonbuk Motors (BLV THẦN THÔNG) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4HaoJ1wzFZsWfAulO2-7Pn2JcfdE0If6z3u78q-yJw&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 13:00 11/07 ⚽ Đức vs Hà Lan (BLV Chim Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
