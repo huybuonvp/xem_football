@@ -5,6 +5,12 @@ https://pull.asynccdn.com/live/b92a7f109b7f43fd8d763a39a451597b/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3706.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 07:00 10/07 ⚽ Nacional Potosí vs Aurora (BLV PHAN ANH) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3706.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 07:00 10/07 ⚽ Nacional Potosí vs Aurora (BLV PHAN ANH) [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3706.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 07:00 10/07 ⚽ Nacional Potosí vs Aurora (BLV PHAN ANH) [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3706.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 07:00 10/07 ⚽ Nacional Potosí vs Aurora (Isco) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
@@ -14,29 +20,23 @@ https://alive.yarncdn.live/kda-blv-isco/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3706.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 07:00 10/07 ⚽ Nacional Potosí vs Aurora (Isco) [SD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://alive.yarncdn.live/kda-blv-isco/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4aae31b369bf50554c596de7ceb3cb95.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 10/07 ⚽ Dayton Dutch Lions vs West Virginia Alliance FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-6d6febbde0abd44c4db4/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4aae31b369bf50554c596de7ceb3cb95.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 10/07 ⚽ Dayton Dutch Lions vs West Virginia Alliance FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-6d6febbde0abd44c4db4/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/52b2eceb3d9e8d6ea49c1ac55f4f3fe6.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:00 10/07 ⚽ Dallas Mavericks vs Golden State Warriors (BLV KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783645164-0-0-1915fba0af09c3f722b22e7a5885924d
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783645764-0-0-9f5108fa50d06ca2f57feefc889b690a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/52b2eceb3d9e8d6ea49c1ac55f4f3fe6.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:00 10/07 ⚽ Dallas Mavericks vs Golden State Warriors (BLV BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783645164-0-0-e2b6633c1d1b474cc967b95a5d1cc549
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783645764-0-0-e7f748adba0717eefc1fe073a2b3459a
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1cc8fde7becd389f88e35e0b498202bd.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 06:00 10/07 ⚽ Nublense vs O.Higgins (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-07b4f052a0f36e84ec21/master.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/e4f6119a5bd80ab95969be83e622b01a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:00 10/07 ⚽ Atlanta Dream W vs Seattle Storm W (BLV BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1783645164-0-0-8b2939976781cd6345a61a8948194bcd
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1cc8fde7becd389f88e35e0b498202bd.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 06:00 10/07 ⚽ Nublense vs O.Higgins (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-07b4f052a0f36e84ec21/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4a06b2d9ddef7ab86ccfe28b0f6e8e14.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 06:00 10/07 ⚽ Palmeiras SP Women vs Paraguay Women (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-bbd9fb081d2072cc4db3/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4a06b2d9ddef7ab86ccfe28b0f6e8e14.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 06:00 10/07 ⚽ Palmeiras SP Women vs Paraguay Women (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-bbd9fb081d2072cc4db3/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260505/3b5d0908cbb93fcf385bdae3d68b1989.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:00 10/07 ⚽ Nacional Potosi vs Aurora (BLV BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=557e73e85720783ebb0b798ed94e1794&txTime=6a508a3c
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=469665a812b53ed07f335dba7e675292&txTime=6a508c94
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/7060.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 17:30 10/07 ⚽ Cheonan City vs Gimhae City (Isco) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/7060.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 17:30 10/07 ⚽ Cheonan City vs Gimhae City (Isco) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 02:00 11/07 ⚽ Spain vs Belgium (BLV THẦN THÔNG) [FHD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2767.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 17:30 11/07 ⚽ Ulsan Hyundai FC vs Jeonbuk Motors (BLV THẦN THÔNG) [FHD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
