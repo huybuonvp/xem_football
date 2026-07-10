@@ -1,43 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:30 11/07 ⚽ Alianza Atletico Sullana vs Molinos El Pirata (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-0f76d0b675f671da9f57/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:30 11/07 ⚽ Alianza Atletico Sullana vs Molinos El Pirata (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-0f76d0b675f671da9f57/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Sport_Club_Recife.svg/250px-Sport_Club_Recife.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 06:00 11/07 ⚽ Sport Recife vs Botafogo SP (Isco) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Sport_Club_Recife.svg/250px-Sport_Club_Recife.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 06:00 11/07 ⚽ Sport Recife vs Botafogo SP (Isco) [HD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-isco/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Sport_Club_Recife.svg/250px-Sport_Club_Recife.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 06:00 11/07 ⚽ Sport Recife vs Botafogo SP (Isco) [SD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-isco/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/d81b6374efe6f66851d5a815a7f59015.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/07 ⚽ Club Leones del Norte vs CD Universidad Católica (BLV VINFAST)
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1783726164-0-0-307f8b1d42ba840719f90b61fd5e1c7b
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1783726764-0-0-03c9bf368bc9efc9f6089077a2a2f704
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/d81b6374efe6f66851d5a815a7f59015.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/07 ⚽ Club Leones del Norte vs CD Universidad Católica (BLV BLV CHIVAS)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a2891c3107ea785d8e390a2a3562328c&txTime=6a51c6a4
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=49e2e081d4d5ed6aa3f20be7fd53ac0a&txTime=6a51c8fc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/d81b6374efe6f66851d5a815a7f59015.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/07 ⚽ Club Leones del Norte vs CD Universidad Católica (BLV BLV GIÓ)
-https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1783726164-0-0-4b4663784c480978201c178dcc134461
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1783726764-0-0-9e129c148487991d297e79e1b653f0d4
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0bab5c51d1f07f0dc8447c5b860debe3.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 11/07 ⚽ Club Leones del Norte vs CD Universidad Católica (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-49fa53512c6f562feab8/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0bab5c51d1f07f0dc8447c5b860debe3.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 11/07 ⚽ Club Leones del Norte vs CD Universidad Católica (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-49fa53512c6f562feab8/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/fad828243dd57cd5c3086e7d1ce7a013.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/07 ⚽ Deportivo Maldonado vs Albion FC (BLV CHÍ PHÈO)
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1783726164-0-0-773367c7337d6157d381f12f83de1678
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1783726764-0-0-1d2e880133b39cfeae6f161b07c4a1c7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/fad828243dd57cd5c3086e7d1ce7a013.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/07 ⚽ Deportivo Maldonado vs Albion FC (BLV BLV GÔN)
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1783726164-0-0-cec88f33d52345f04b590bc190531196
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1783726764-0-0-cdfe597bbd1d3a50a5cc7b6137f12413
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/fad828243dd57cd5c3086e7d1ce7a013.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/07 ⚽ Deportivo Maldonado vs Albion FC (BLV BLV A WIN)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1783726164-0-0-226b38355bfeed14cdcb36d97c9f04aa
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1783726764-0-0-3af5b1c6064d9155c48cf35a2c3de357
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/932f3790a25e5c4f40ae328ad9060055.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 11/07 ⚽ Deportivo Maldonado vs Albion FC (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-3717ea1cbf9a0afca3cf/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/932f3790a25e5c4f40ae328ad9060055.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 11/07 ⚽ Deportivo Maldonado vs Albion FC (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-3717ea1cbf9a0afca3cf/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/193f34647a6cc19ed0db38d1fc7d9ec4.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/07 ⚽ Juventude vs Vila Nova (BLV LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1783726164-0-0-05c0ebd47c30836e7136bbb31e472f52
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1783726764-0-0-b458fb8b78f2c4c1ac3fe33061c7bdef
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/193f34647a6cc19ed0db38d1fc7d9ec4.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/07 ⚽ Juventude vs Vila Nova (BLV BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1783726164-0-0-a4efe6957c765c4b2b5d6a4aa3facbf0
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1783726764-0-0-4eda4b70cb01bdb62dbcb96d4c7de4ae
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/193f34647a6cc19ed0db38d1fc7d9ec4.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/07 ⚽ Juventude vs Vila Nova (BLV BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1783726164-0-0-1e3c3f235ca02ebce6dd3715497e573d
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1783726764-0-0-c900a54d3978ebae901836274d05f958
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/193f34647a6cc19ed0db38d1fc7d9ec4.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/07 ⚽ Juventude vs Vila Nova (BLV BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=0af262b47b59abb7c75ae23e26298489&txTime=6a51c6a4
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=64197cf7226335655b9ea01f28e7eddc&txTime=6a51c8fc
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 11/07 ⚽ Juventude vs Vila Nova (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-ff1b31345c7fb718f970/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7a9a6275e29e0f51ea68ba1ec740bf1e.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 11/07 ⚽ Juventude vs Vila Nova (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-ff1b31345c7fb718f970/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/1cfbdb2712525f8c80167134945a5cf2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/07 ⚽ New York Knicks vs Brooklyn Nets (BLV KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783726164-0-0-31d8ec3f3f3ef61cc0f8df3ca6eed3c3
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783726764-0-0-04b66a53e7acf257caac4e27a73bc5e2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/790dee2959ae19832236a6b4dbf220ef.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 11/07 ⚽ Denver Nuggets vs Houston Rockets (BLV BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783726164-0-0-d642672cd9dfd407455c91b91b87f030
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783726764-0-0-f1e137b3b1a140c82419b9bcf7bdf72a
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/57bf0e7418b34073e05f4dbe9c98bca0.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:30 11/07 ⚽ Hattiesburg FC vs Little Rock Rangers (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-dc0b6b5beb14c19b16d7/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/57bf0e7418b34073e05f4dbe9c98bca0.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:30 11/07 ⚽ Hattiesburg FC vs Little Rock Rangers (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-dc0b6b5beb14c19b16d7/master.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/a50f5fe571572ebb542d9cc028a4263e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:00 11/07 ⚽ Sport Club do Recife vs Botafogo SP (BLV XUÂN SON)
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=2a2b538229bfbd38d309f78783c3b1f4&txTime=6a51c8fc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/a50f5fe571572ebb542d9cc028a4263e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:00 11/07 ⚽ Sport Club do Recife vs Botafogo SP (BLV HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1783726164-0-0-f815b8a42980dc19fa6fcd9e7b9761da
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1783726764-0-0-c901a8b52ac8c66878d7c325becae032
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/a50f5fe571572ebb542d9cc028a4263e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:00 11/07 ⚽ Sport Club do Recife vs Botafogo SP (BLV LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1783726183-0-0-5370fbd626211f1fc02d8e2edc065a71
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1783726764-0-0-3090c44544cc0f6870bccd02d095e79b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/a50f5fe571572ebb542d9cc028a4263e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:00 11/07 ⚽ Sport Club do Recife vs Botafogo SP (BLV BEN 10)
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1783726764-0-0-e18ae89f5529f7851a72d99077a008ff
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Gwangju_FC.svg" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 17:30 11/07 ⚽ Gwangju FC vs Pohang Steelers (Isco) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
