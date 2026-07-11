@@ -20,14 +20,38 @@ https://pull.asynccdn.com/live/f4e5a567a1b14aeeadf909dbac9bcaa9/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 13:30 11/07 🏐 Thái Lan vs Brazil (BLV LƯƠNG BỔNG) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 13:30 11/07 🏐 Thái Lan vs Brazil (BLV LƯƠNG BỔNG) [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 13:30 11/07 🏐 Thái Lan vs Brazil (BLV LƯƠNG BỔNG) [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/pWVxGjFa-zLx3xGjj.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 13:30 11/07 🏐 Thái Lan vs Brazil (T-Rex) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/pWVxGjFa-zLx3xGjj.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 13:30 11/07 🏐 Thái Lan vs Brazil (T-Rex) [HD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-t-rex/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/pWVxGjFa-zLx3xGjj.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 13:30 11/07 🏐 Thái Lan vs Brazil (T-Rex) [SD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-t-rex/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/bc3591c3b971cf5eda42f936537d5c76.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 11:30 11/07 ⚽ Canberra Olympic vs Canberra White Eagles (BLV BEN 10)
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1783754364-0-0-e5cad7ca06e5738658aac013d64bac9f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/bc3591c3b971cf5eda42f936537d5c76.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 11:30 11/07 ⚽ Canberra Olympic vs Canberra White Eagles (BLV BLV CÁP)
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1783754364-0-0-3a2db9d6aa5f0e2daec04a0d8576b0df
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6d1c454cefb8b653d03158e60468e425.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 11:30 11/07 ⚽ Canberra Olympic vs Canberra White Eagles (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-722cf9bf201fc94be186/master.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/fd29b53e9a8acee189589885934d6f55.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 11:30 11/07 ⚽ Devonport City vs South East United FC (BLV QUỐC KHÁNH)
+https://pull.niues.live/live/stream-602153_lhd.m3u8?auth_key=1783754364-0-0-6c39dedb92f74785a70eecac64d1055d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/fd29b53e9a8acee189589885934d6f55.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 11:30 11/07 ⚽ Devonport City vs South East United FC (BLV BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=21217675143aaf203b37bddfbd3a9d06&txTime=6a523274
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=797eb3ffa7e903a0160db41ba59657e0&txTime=6a5234cc
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1448.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 12:00 11/07 ⚽ Canberra FC vs Brindabella (BLV Max) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/b19c23e4b5fb2e3a1336e6f20d06b1f8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 12:00 11/07 ⚽ Canberra FC vs Brindabella Blues FC (BLV BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=96e571e12b7cbe25689cccf8f118e7be&txTime=6a523274
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=b99f593450a8d505d3768134ff03281f&txTime=6a5234cc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/9cbf937e8261917f8ba9fd05d10515c6.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 12:00 11/07 ⚽ Canberra Juventus vs OConnor Knights (BLV XUÂN TÓC ĐỎ)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=6bb3544e89ab630233a937dcde08cc1b&txTime=6a5231ea
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=6aac9f61918377af28929451a464fb21&txTime=6a5234cc
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbh5f8FduedqP_fNHXJVCPKeI2hbG2TCo-902PSNTQfw&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 13:30 11/07 ⚽ Thái Lan vs Brazil (BLV Tiểu Mèo) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
