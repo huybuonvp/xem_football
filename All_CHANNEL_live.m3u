@@ -29,6 +29,9 @@ https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250715_194710_e484b2d5.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 12/07 ⚽ Norway vs England (Trốc Tru) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250715_194710_e484b2d5.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 12/07 ⚽ Norway vs England (Trốc Tru) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250715_194710_e484b2d5.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 12/07 ⚽ Norway vs England (Trốc Tru) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
@@ -116,15 +119,9 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 08:00 12/07 ⚽ Argentina vs Switzerland (BLV PHAN QUẨY) [HD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 08:00 12/07 ⚽ Argentina vs Switzerland (BLV PHAN QUẨY) [SD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 08:00 12/07 ⚽ Argentina vs Switzerland (Bệu) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 08:00 12/07 ⚽ Argentina vs Switzerland (Bệu) [HD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-beu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 08:00 12/07 ⚽ Argentina vs Switzerland (Siêu Gáy) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
@@ -137,22 +134,20 @@ https://hls.streamhub.media/hls/thesport-api-7c3c00b66dec74151eff/master.m3u8
 https://hls.streamhub.media/hls/thesport-api-7c3c00b66dec74151eff/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3ff1ac900767b91c0f1a7f041e2ed0d.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:10 12/07 ⚽ Bath Estate vs Point Michel FC (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-ead88d17e34e9fa7ee6c/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f3ff1ac900767b91c0f1a7f041e2ed0d.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:10 12/07 ⚽ Bath Estate vs Point Michel FC (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-ead88d17e34e9fa7ee6c/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260706/0d18e40cbf66c395bd7eea531a138d89.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 12/07 ⚽ Norway vs England (BLV DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783808964-0-0-86e47b460375fea643820fb23c7bf75d
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783809564-0-0-7fd8f954f1fc7800cab9b07b7512cea2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260706/0d18e40cbf66c395bd7eea531a138d89.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 12/07 ⚽ Norway vs England (BLV BLV ĐỐM)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1783808964-0-0-dfa7381145ccbdd08dfa1f16ef834ddf
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1783809564-0-0-9b07dd1e2aa25038c259b107224016d0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260706/0d18e40cbf66c395bd7eea531a138d89.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 12/07 ⚽ Norway vs England (BLV BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1783808964-0-0-89b60be84759c2b4c4a9aec42b43c01e
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1783809564-0-0-6af73f837b64c15bcb50f976ce820233
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260706/0d18e40cbf66c395bd7eea531a138d89.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 12/07 ⚽ Norway vs England (BLV TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1783808964-0-0-31e135152754a397fed5e2cd3a025805
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1783809564-0-0-fa55992d82fb2533540fdeb07d945bea
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260706/0d18e40cbf66c395bd7eea531a138d89.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 12/07 ⚽ Norway vs England (BLV BLV TOMMY)
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783808964-0-0-e3270bce4765e5ab1ca2cef8cde3e749
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783809564-0-0-c983716d74a6c838b39002ce5d7722f5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260706/0d18e40cbf66c395bd7eea531a138d89.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 12/07 ⚽ Norway vs England (BLV BLV TAP)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=afac336eaad95739c215a4d54a79c168&txTime=6a530a14
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260706/0d18e40cbf66c395bd7eea531a138d89.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 12/07 ⚽ Norway vs England (BLV BLV MESSI)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1783808964-0-0-8546695da2bd1960972756f1fb33ecbb
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260706/0d18e40cbf66c395bd7eea531a138d89.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 12/07 ⚽ Norway vs England (BLV RICKHANTER)
-https://pull.niues.live/live/stream-9912122_lhd.m3u8?auth_key=1783808964-0-0-c1816c634a8e62abb5bbe3fa6739a3cd
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=bfdeca6d36c56a240ae4f76836906353&txTime=6a530c6c
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1090.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 04:00 12/07 ⚽ Norway vs England (BLV Tiểu Trà Đá) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
