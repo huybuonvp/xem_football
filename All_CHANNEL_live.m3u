@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130142_13dc4319.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 18:30 11/07 ⚽ Vaprus vs Tammeka (Trốc Tru) [HD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130142_13dc4319.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 18:30 11/07 ⚽ Vaprus vs Tammeka (Trốc Tru) [HD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru.flv
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130142_13dc4319.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 18:30 11/07 ⚽ Vaprus vs Tammeka (Trốc Tru) [FHD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130142_13dc4319.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 18:30 11/07 ⚽ Vaprus vs Tammeka (Trốc Tru) [FHD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133508_b232aaeb.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 18:35 11/07 ⚽ Sichuan Jiuniu vs Qingdao Youth Island (Chuối Chao) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
@@ -96,25 +84,23 @@ https://pull.asynccdn.com/live/e251ca01426f434793b408b208333f88/index.m3u8
 https://hls.streamhub.media/hls/thesport-api-3cbb80d201136b487e54/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3298be0b2e46847e0f094aa7ac07b8c1.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 18:30 11/07 ⚽ Beihai Hepu Goldwind Technology vs Rongshui Haoyu (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-3cbb80d201136b487e54/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e04aed68a6a0aca88617bbd97eb7d1ff.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 18:30 11/07 ⚽ FK Orsha vs Smorgon FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-5c77b3e5830b8472412e/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/5a47b4272392ce5a330e1e4845fe8b2b.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:35 11/07 ⚽ Shenzhen Peng City vs Qingdao West Coast (BLV BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=9686b3ccb73b5079a87d89afcc8d9e36&txTime=6a5294e4
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=a69be8e088a70ef938deb37f48b7c131&txTime=6a52973c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/5a47b4272392ce5a330e1e4845fe8b2b.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:35 11/07 ⚽ Shenzhen Peng City vs Qingdao West Coast (BLV BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=68ad4da420f6598db223491a21882a30&txTime=6a5294e4
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=2afb43bd8f0aecc115f23ddc21ad1c42&txTime=6a52973c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/5a47b4272392ce5a330e1e4845fe8b2b.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:35 11/07 ⚽ Shenzhen Peng City vs Qingdao West Coast (BLV BLV GÔN)
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1783778964-0-0-5553e09f4eb85ca244cdce81ae11bac5
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1783779564-0-0-af88ade4d2d95c7a3b718b79d6b43b85
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/5a47b4272392ce5a330e1e4845fe8b2b.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:35 11/07 ⚽ Shenzhen Peng City vs Qingdao West Coast (BLV BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1783778964-0-0-55d47aa626752e566936c9078bce14bb
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1783779564-0-0-47d88089862c0611a188854b88136788
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/5a47b4272392ce5a330e1e4845fe8b2b.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:35 11/07 ⚽ Shenzhen Peng City vs Qingdao West Coast (BLV BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1783778964-0-0-f694bd0740cc72b64654ea82f8a219b1
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1783779564-0-0-c9699164d1db0cd017d952114de9146b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/5a47b4272392ce5a330e1e4845fe8b2b.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:35 11/07 ⚽ Shenzhen Peng City vs Qingdao West Coast (BLV BLV LONG)
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=18064e52745f7de4080f42b8724e7a49&txTime=6a5294e4
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=58e50dc5f33da4386191f7b30378d097&txTime=6a52973c
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5648.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 19:00 11/07 ⚽ Chengdu Better City vs Chongqing Tongliang Long (BLV Tiểu Trà Đá) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/ed349fa2a8a20aa884a9be4c218bb283.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 11/07 ⚽ Chengdu Rongcheng vs Chongqing Tonglianglong (BLV DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783778964-0-0-752bb5297f0704bbda9786793becd20d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/ed349fa2a8a20aa884a9be4c218bb283.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 11/07 ⚽ Chengdu Rongcheng vs Chongqing Tonglianglong (BLV SAO LA)
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=4ba25850c686bfc09f64c7fd4fc2ab78&txTime=6a52973c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3k0D9-4anl3-N7HUq1SHJvS0mGhnD79U1NBH0PygUw&s=10" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 19:00 11/07 ⚽ Trung Quốc vs Cộng hòa Dominica (BLV Chim Nhỏ) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
