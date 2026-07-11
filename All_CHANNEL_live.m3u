@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132733_0c622c23.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:30 11/07 ⚽ Stirling Albion vs Dundee Utd (A Ngao) [HD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132733_0c622c23.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:30 11/07 ⚽ Stirling Albion vs Dundee Utd (A Ngao) [HD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angao.flv
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132733_0c622c23.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:30 11/07 ⚽ Stirling Albion vs Dundee Utd (A Ngao) [FHD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132733_0c622c23.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:30 11/07 ⚽ Stirling Albion vs Dundee Utd (A Ngao) [FHD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/1f7f382b783668720ee7aba6de9cc6a3.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 00:45 12/07 ⚽ FC Gomel vs Neman Grodno (BLV TRẠNG BÉO)
 #EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
 https://pull.asynccdn.com/live/7ed5c5e70ab14f088e68842b5e01a31c/index.m3u8
@@ -62,19 +50,18 @@ https://pull.asynccdn.com/live/eaf3098da20c4cd4bcd5f1bdc172d27b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 04:00 12/07 ⚽ Norway vs England (Bệu) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/c4544916c6d081717f84bfa50029e899.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 23:30 11/07 ⚽ Stirling Albion vs Dundee United (BLV ĐỖ TÚ TÀI)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1783797564-0-0-bf78e99ff5c713115965c21329f32cee
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b4133b420796cac9a09a3b72c8c9c0af.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 00:00 12/07 ⚽ Central Cordoba De Rosario vs CA Atlas (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-3580a94c89bcc0a08cbe/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b4133b420796cac9a09a3b72c8c9c0af.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 00:00 12/07 ⚽ Central Cordoba De Rosario vs CA Atlas (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-3580a94c89bcc0a08cbe/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/72cc12ad6bb42a77a9b30f0c03cd9725.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 00:00 12/07 ⚽ Deportivo Paraguayo vs Berazategui (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-398bc2c4d36c55b24f3a/master.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/af40ffdef2cf5a99963f8cf010dc0488.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:00 12/07 ⚽ Minnesota Lynx W vs New York Liberty W (BLV HUNTER)
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1783798164-0-0-2016157833fa293e4fe6d8b5b1160546
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/3d724591fd04c72949c49f700b1f46a2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:30 12/07 ⚽ Fenerbahce vs Pogon Szczecin (BLV BLV KAN)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=490ebca496d7d384ce7c65f0afef2e90&txTime=6a52dd8c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/3d724591fd04c72949c49f700b1f46a2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:30 12/07 ⚽ Fenerbahce vs Pogon Szczecin (BLV BLV LONG)
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=ae2bf7112f73560ce408f23278c60680&txTime=6a52dd8c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/3d724591fd04c72949c49f700b1f46a2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:30 12/07 ⚽ Fenerbahce vs Pogon Szczecin (BLV XUÂN TÓC ĐỎ)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=8fefc012ebe1ab9f5f0e1a5d7ab3e87d&txTime=6a52dd8c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/3d724591fd04c72949c49f700b1f46a2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:30 12/07 ⚽ Fenerbahce vs Pogon Szczecin (BLV BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=79ab3b3aca6b72742f392ee01ef8b463&txTime=6a52dd8c
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260710/fbb8797c7a8d08637f02f85a31481a64.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 12/07 ⚽ Spain U19 vs Germany U19 (BLV BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=13cdee24a9f4858b1bb70acee7b5c300&txTime=6a52dd8c
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=c28518dc274d6785907074ab9e4505fe&txTime=6a52dfe4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/3d724591fd04c72949c49f700b1f46a2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:30 12/07 ⚽ Fenerbahce vs Pogon Szczecin (BLV BLV XO)
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1783798164-0-0-eacbd0f761da1492ffe4d78a5b450d99
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/836.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 18:35 12/07 ⚽ SHANGHAI SIPG vs Dalian Zhixing (BLV TÁO GIÀ) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
