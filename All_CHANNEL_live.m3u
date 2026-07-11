@@ -77,9 +77,12 @@ https://pull.asynccdn.com/live/e251ca01426f434793b408b208333f88/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVndHuap8KFAxEzV9q8f6sVWefr052gi_2xQ&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 22:00 11/07 ⚽ Karolina Muchova vs Linda Noskova (BLV PHAN BỐNG) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130558_e740ba93.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 22:00 11/07 ⚽ Kaspiy vs Ordabasy (Chuối Nhỏ) [HD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVndHuap8KFAxEzV9q8f6sVWefr052gi_2xQ&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 22:00 11/07 ⚽ Karolina Muchova vs Linda Noskova (BLV PHAN BỐNG) [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVndHuap8KFAxEzV9q8f6sVWefr052gi_2xQ&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 22:00 11/07 ⚽ Karolina Muchova vs Linda Noskova (BLV PHAN BỐNG) [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130558_e740ba93.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 22:00 11/07 ⚽ Kaspiy vs Ordabasy (Chuối Nhỏ) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
@@ -94,23 +97,30 @@ https://hls.streamhub.media/hls/thesport-api-81b1613877743f3ecc17/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/928b41b8c6f948cf8b1f515d4b301b80.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 11/07 ⚽ CA Juventud vs Montevideo City Torque (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-81b1613877743f3ecc17/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/ec502b7254203a7f51dad29cd0937ef8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:00 11/07 ⚽ FC Haka vs Ekenas IF (BLV GRAP)
-https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1783783764-0-0-e6456a4dfb8dfd89a4a52cbaac70f326
+https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1783784364-0-0-b92ef73b46a8605be135a2a156849fd2
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6792393a7bfaff902eafa5043dd89d40.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 11/07 ⚽ FC Haka vs Ekenas IF Fotboll (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-1df5433108e2dc9e98d1/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6792393a7bfaff902eafa5043dd89d40.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 11/07 ⚽ FC Haka vs Ekenas IF Fotboll (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-1df5433108e2dc9e98d1/master.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/4ecfccf2ca130eb8ce0e9a7f0e631187.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:00 11/07 ⚽ Mjallby AIF vs AIK (BLV BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1783783764-0-0-d0b2dc9cb7d6a3fbb19fe4b8376af7d6
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/54812d2f352811c4c535de102658c149.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 11/07 ⚽ FC Schoningen08 vs VfL Wolfsburg (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-d604c81035c59a8818b5/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/54812d2f352811c4c535de102658c149.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 11/07 ⚽ FC Schoningen08 vs VfL Wolfsburg (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-d604c81035c59a8818b5/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d170d88f6e60eeee57486405474e1f9f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 11/07 ⚽ FC Zhetysu Taldykorgan vs Altay FK (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-fda812af194bc9cadcfa/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/4ecfccf2ca130eb8ce0e9a7f0e631187.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:00 11/07 ⚽ Mjallby AIF vs AIK (BLV BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1783783764-0-0-168a9b1f519a236309e3a8329c3acd82
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1783784364-0-0-f86af4938756aff8dac80dd09b139903
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/4ecfccf2ca130eb8ce0e9a7f0e631187.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:00 11/07 ⚽ Mjallby AIF vs AIK (BLV HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1783783764-0-0-9b77e014cc54732e8dace6f8fbf6578d
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1783784364-0-0-4b773744ac73a6a45c19256aed70e06f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/4ecfccf2ca130eb8ce0e9a7f0e631187.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:00 11/07 ⚽ Mjallby AIF vs AIK (BLV BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=fbb457a90269f38067a5969aeae62b8b&txTime=6a52a7a4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/be7febd72447317aef9021bbe8f7afe9.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 11/07 ⚽ Aalesund FK vs Molde (BLV CR Bưởi)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=2f379e64156050513f3bf57cb9cc36d2&txTime=6a52a7a4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/87aad015e11e564ef79a005c6e3067ff.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 11/07 ⚽ FC Nomme United vs FC Kuressaare (BLV QUỐC KHÁNH)
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=3f594994f94da3313ab7fdfde4dc96ad&txTime=6a52a7a4
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/836.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 18:35 12/07 ⚽ SHANGHAI SIPG vs Dalian Zhixing (BLV TÁO GIÀ) [FHD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4d01da97e3adeb3946d06076a8d8fe45&txTime=6a52a9fc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/4ecfccf2ca130eb8ce0e9a7f0e631187.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:00 11/07 ⚽ Mjallby AIF vs AIK (BLV BLV PEWPEW)
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1783784364-0-0-8f0331a245d0b14c6bb7b2612f6e5305
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/4ecfccf2ca130eb8ce0e9a7f0e631187.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:00 11/07 ⚽ Mjallby AIF vs AIK (BLV BLV ROBBEN)
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1783784364-0-0-1079bfac02d05670244b5c7c5804051c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/215e07fb5cffea011ffe08d0948d9b4c.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:00 11/07 ⚽ SJK Akatemia vs Mikkelin Palloilijat (BLV BLV FOX)
+https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1783784364-0-0-22d8e536a14f6471134f51a795470fdf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/215e07fb5cffea011ffe08d0948d9b4c.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:00 11/07 ⚽ SJK Akatemia vs Mikkelin Palloilijat (BLV CÔNG CHẤT)
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1783784364-0-0-2e884e1d17eaa1a53411aab11b97bce5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260707/bed64f6039cfabe6b6abfea21f328ce3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:00 11/07 ⚽ Volga Ulyanovsk vs Yenisey Krasnoyarsk (BLV BLV CÁP)
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1783784364-0-0-a37e0313a44ba5ccdf714bac7df80225
