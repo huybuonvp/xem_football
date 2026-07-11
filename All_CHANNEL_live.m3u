@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/1f7f382b783668720ee7aba6de9cc6a3.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 00:45 12/07 ⚽ FC Gomel vs Neman Grodno (BLV TRẠNG BÉO)
-#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
-https://pull.asynccdn.com/live/7ed5c5e70ab14f088e68842b5e01a31c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 01:00 12/07 🏐 Serbia vs Đức (Bệu) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
@@ -11,21 +8,6 @@ https://alive.yarncdn.live/kda-blv-beu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 01:00 12/07 🏐 Serbia vs Đức (Bệu) [SD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://alive.yarncdn.live/kda-blv-beu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080458_8929e0d7.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 12/07 🏐 Serbia W vs Germany W (Chuối Già) [HD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080458_8929e0d7.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 12/07 🏐 Serbia W vs Germany W (Chuối Già) [HD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia.flv
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080458_8929e0d7.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 12/07 🏐 Serbia W vs Germany W (Chuối Già) [FHD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080458_8929e0d7.gif" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 12/07 🏐 Serbia W vs Germany W (Chuối Già) [FHD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd.flv
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/x4FgDryB-zLx3xGjj.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 01:00 12/07 🏐 Serbia W vs Germany W (BLV TRẠNG BỊP)
-#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
-https://pull.asynccdn.com/live/19401388871e438282a989da41e53432/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10349.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 01:00 12/07 ⚽ Spain U19 vs Germany U19 (BLV TÁO GIÀ) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
@@ -65,10 +47,14 @@ https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/250px-Flag_of_Norway.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 04:00 12/07 ⚽ Norway vs England (Bệu) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1f7f382b783668720ee7aba6de9cc6a3.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 00:45 12/07 ⚽ FC Gomel vs Neman Grodno (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-76f8ae0fbd3ee47d1b6a/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1f7f382b783668720ee7aba6de9cc6a3.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 00:45 12/07 ⚽ FC Gomel vs Neman Grodno (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-76f8ae0fbd3ee47d1b6a/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/398fe0a0ed3c0dfb6a4afdfb8bc6cb7a.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 12/07 ⚽ All Boys vs Almirante Brown (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-5d4d60e4e8b561cef5b7/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/398fe0a0ed3c0dfb6a4afdfb8bc6cb7a.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 12/07 ⚽ All Boys vs Almirante Brown (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-5d4d60e4e8b561cef5b7/master.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260710/fbb8797c7a8d08637f02f85a31481a64.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 12/07 ⚽ Spain U19 vs Germany U19 (BLV BLV BÉO)
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=6f23422ee4279fe37fc976c7437d2e2a&txTime=6a52f04c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260710/fbb8797c7a8d08637f02f85a31481a64.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 12/07 ⚽ Spain U19 vs Germany U19 (BLV VƯƠNG ANH)
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=814ee26de4559a247427b7ef96347d2f&txTime=6a52f04c
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/836.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 18:35 12/07 ⚽ SHANGHAI SIPG vs Dalian Zhixing (BLV TÁO GIÀ) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
