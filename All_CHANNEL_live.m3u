@@ -1,20 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/df9dd3fe0380ba8a54627b617ddc1da3.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:30 13/07 ⚽ AC Colina vs Real Juventud San Joaquin (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-e95eacbee2c902ab160e/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/df9dd3fe0380ba8a54627b617ddc1da3.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:30 13/07 ⚽ AC Colina vs Real Juventud San Joaquin (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-e95eacbee2c902ab160e/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/37869351904578ff964a25ce93b800fd.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:30 13/07 ⚽ Godoy Cruz Antonio Tomba vs Defensores de Belgrano (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-f76f8cb1b1c1a3a1f425/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/37869351904578ff964a25ce93b800fd.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:30 13/07 ⚽ Godoy Cruz Antonio Tomba vs Defensores de Belgrano (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-f76f8cb1b1c1a3a1f425/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/43cd1f956ec7fb822a5147f66ccbb188.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:30 13/07 ⚽ Malleco Unido vs Municipal Puente Alto (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-ace35b525e383c8f9ae4/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/43cd1f956ec7fb822a5147f66ccbb188.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:30 13/07 ⚽ Malleco Unido vs Municipal Puente Alto (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-ace35b525e383c8f9ae4/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cb677b93e03123e51e7729c48a819649.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:30 13/07 ⚽ Universidad Catolica del Ecuador Women vs CD Espuce Women (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-654f1e646d1076650575/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cb677b93e03123e51e7729c48a819649.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:30 13/07 ⚽ Universidad Catolica del Ecuador Women vs CD Espuce Women (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-654f1e646d1076650575/master.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134654_acf86f4a.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:30 13/07 ⚽ Concepción vs D. Puerto Montt (A Ngao) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134654_acf86f4a.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:30 13/07 ⚽ Concepción vs D. Puerto Montt (A Ngao) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134654_acf86f4a.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:30 13/07 ⚽ Concepción vs D. Puerto Montt (A Ngao) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134654_acf86f4a.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:30 13/07 ⚽ Concepción vs D. Puerto Montt (A Ngao) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4040.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 03:00 13/07 ⚽ Chicago Fire II vs New York RB II (BLV Max) [HD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://alive.yarncdn.live/bgtv_blv_max/tracks-v2a1/mono.m3u8
@@ -26,24 +22,28 @@ https://hls.streamhub.media/hls/thesport-api-1fdd50cf056b597b7c5d/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/5d3d6622bf84c648d439e68dd075e9fa.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 13/07 ⚽ Chicago flame B vs New York Red Bulls B (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-1fdd50cf056b597b7c5d/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/f2b2f96cea028fc3362c26acf07b29e5.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 13/07 ⚽ Forge FC vs Saint Lauren (BLV TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1783894764-0-0-80257f0d9231344ed8f16c57cd0ae25b
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1783895364-0-0-2c8d52eccd00bb0a6680ee190de24642
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/f2b2f96cea028fc3362c26acf07b29e5.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 13/07 ⚽ Forge FC vs Saint Lauren (BLV KÉP)
-https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1783894764-0-0-eabecfdbbb4aeb83b30d8911de13a4ea
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1783895364-0-0-77223d800db83378508953a05d32f7ee
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/eef8932afd66a66daa76d47cf7503957.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 13/07 ⚽ Forge FC vs Saint Lauren (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-1b366e4ddd4d4a1b399e/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/eef8932afd66a66daa76d47cf7503957.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 13/07 ⚽ Forge FC vs Saint Lauren (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-1b366e4ddd4d4a1b399e/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1dcae0ff1f13a4eacf57b5095080fea1.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 13/07 ⚽ Gimnasia yTiro vs Patronato Parana (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-5aa8425e52c137e30845/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1dcae0ff1f13a4eacf57b5095080fea1.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 13/07 ⚽ Gimnasia yTiro vs Patronato Parana (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-5aa8425e52c137e30845/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e4829e77c7ffd77b0e27cb12347c6292.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 13/07 ⚽ Nacao vs Fluminense SC (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-572300b5c2b5a3ab9c4a/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e4829e77c7ffd77b0e27cb12347c6292.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 13/07 ⚽ Nacao vs Fluminense SC (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-572300b5c2b5a3ab9c4a/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/70b560569faf40e74b54670f8b1ef6da.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:05 13/07 ⚽ Hafnarfjordur vs Valur Reykjavik (BLV BLV GÔN)
-https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1783894764-0-0-f569fe581df2acd69acaf28627ab2b4d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/70b560569faf40e74b54670f8b1ef6da.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:05 13/07 ⚽ Hafnarfjordur vs Valur Reykjavik (BLV BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1783894764-0-0-ca0d07cfaeb079b92b0547f127b9b040
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/51099654cc3c18c40a98ae3cba890a1a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 13/07 ⚽ Atletico Clube Goianiense vs Fortaleza (BLV BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1783894764-0-0-58b669d54d6023f1b35c477d981d7341
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/51099654cc3c18c40a98ae3cba890a1a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 13/07 ⚽ Atletico Clube Goianiense vs Fortaleza (BLV KENCHU)
-https://pull.niues.live/live/stream-622602_lhd.m3u8?auth_key=1783894764-0-0-e8c1c27c67a3676f46981a117d379abe
+https://pull.niues.live/live/stream-445260_lhd.m3u8?auth_key=1783895364-0-0-fd8406a10d7b79416be1ad12b2843c0c
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/496e10acaf5e0d53cced9c84ec17da73.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:05 13/07 ⚽ Hafnarfjordur vs Valur Reykjavik (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-0b0dc3adc7f8bc458104/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/496e10acaf5e0d53cced9c84ec17da73.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:05 13/07 ⚽ Hafnarfjordur vs Valur Reykjavik (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-0b0dc3adc7f8bc458104/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/51099654cc3c18c40a98ae3cba890a1a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 13/07 ⚽ Atletico Clube Goianiense vs Fortaleza (BLV BLV CHIVAS)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=c894e9cf570528663eebfd82e03c6a1e&txTime=6a54593c
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=4ca73283a6f4b4cf4a8893a2026982b9&txTime=6a545b94
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/51099654cc3c18c40a98ae3cba890a1a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 13/07 ⚽ Atletico Clube Goianiense vs Fortaleza (BLV BLV LONG)
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=af38ae1755033577012d1a981b2d2c35&txTime=6a54593c
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=2a1327d1066e5ef88ea3bf3e6a5e3b5c&txTime=6a545b94
