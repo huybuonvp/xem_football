@@ -113,9 +113,6 @@ https://alive.yarncdn.live/kda-blv-mo/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/23265.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 18:00 12/07 ⚽ Shenzhen Juniors vs Heilongjiang Lava Spring (Mơ) [SD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://alive.yarncdn.live/kda-blv-mo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/c1786665c81e5dba734d5a8c2346d69e.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 18:00 12/07 ⚽ Tianjin Jinmen Tiger vs Liaoning Tieren (BLV TRẠNG TÈO)
-#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
-https://pull.asynccdn.com/live/dcc819b98de8434a906aeedfb4032248/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/836.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 18:35 12/07 ⚽ SHANGHAI SIPG vs Dalian Zhixing (BLV TÁO GIÀ) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
@@ -128,26 +125,32 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/836.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 18:35 12/07 ⚽ SHANGHAI SIPG vs Dalian Zhixing (Tày) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-tay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/836.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 18:35 12/07 ⚽ SHANGHAI SIPG vs Dalian Zhixing (Tày) [HD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-tay/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/836.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 18:35 12/07 ⚽ SHANGHAI SIPG vs Dalian Zhixing (Tày) [SD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-tay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/volley/teams/2218.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 19:00 12/07 🏐 China W vs Italy W (Chuối Tím) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/volley/teams/2218.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 19:00 12/07 🏐 China W vs Italy W (Chuối Tím) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/volley/teams/2218.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 19:00 12/07 🏐 China W vs Italy W (Chuối Tím) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/volley/teams/2218.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 19:00 12/07 🏐 China W vs Italy W (Chuối Tím) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitimhd.flv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZQOuJBhheUKikHwopx5J3hD7olyljs3suGQ&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 19:00 12/07 🏐 Trung Quốc vs Bulgaria (BLV TÁO GIÀ) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4564.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 21:00 12/07 ⚽ Atyrau vs Yelimay Semey (Mơ) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-mo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4564.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 21:00 12/07 ⚽ Atyrau vs Yelimay Semey (Mơ) [HD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-mo/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4564.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 21:00 12/07 ⚽ Atyrau vs Yelimay Semey (Mơ) [SD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-mo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1223.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 21:00 12/07 ⚽ Operario-PR vs Novorizontino (Isco) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 21:30 12/07 🏐 Bulgaria vs Đức (Tày) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-tay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260710/2bb1b5e81f0ab1763ab493a6583f64e7.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:15 12/07 ⚽ NLEX Road Warriors vs Terrafirma Dyip (BLV BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783857564-0-0-09e76212c0d949b353830914e4e577a7
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783858164-0-0-630bf3b5a1a88c8b67439211356a09e6
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/525040ac90be352fc2d1e1a4720510fd.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 12/07 ⚽ Alxa League Team vs Wuhai Team (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-055b8bec60867e7a496a/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/525040ac90be352fc2d1e1a4720510fd.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 12/07 ⚽ Alxa League Team vs Wuhai Team (Nhà Đài 2)
@@ -161,54 +164,39 @@ https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2332.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 23:30 12/07 ⚽ Cobreloa vs D. La Serena (BLV PHAN CA) [SD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2332.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 23:30 12/07 ⚽ Cobreloa vs D. La Serena (Mơ) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-mo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f35049a8706d6eaaeb708a3c80a992d0.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 12/07 ⚽ Dalian Kewei vs Shanghai Second (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-ae41addcc446085f6172/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/f35049a8706d6eaaeb708a3c80a992d0.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 12/07 ⚽ Dalian Kewei vs Shanghai Second (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-ae41addcc446085f6172/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/55c5fbdd1685ba5c407be898f7c20928.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 17:00 12/07 ⚽ Artilheiros vs Macau University (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-2fc52c23142b1aac543b/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/55c5fbdd1685ba5c407be898f7c20928.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 17:00 12/07 ⚽ Artilheiros vs Macau University (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-2fc52c23142b1aac543b/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3466ec3855405f63da99ce7013d3444b.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 17:00 12/07 ⚽ Pyeongtaek Citizen vs Seosan Pioneer FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-a3ecbcf47d3693dc65cb/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3466ec3855405f63da99ce7013d3444b.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 17:00 12/07 ⚽ Pyeongtaek Citizen vs Seosan Pioneer FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-a3ecbcf47d3693dc65cb/master.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/333.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 00:15 13/07 ⚽ Sarpsborg 08 FF vs Viking (Tày) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-tay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/1d2f2c7b445f40da585ea6b35c0905df.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Busan I Park vs Gimpo FC (BLV BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1783857564-0-0-af1561a059f8ae1264df6f8a49d7c3af
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1783858164-0-0-422800353a06a65176b0577f9508441d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/1d2f2c7b445f40da585ea6b35c0905df.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Busan I Park vs Gimpo FC (BLV BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1783857564-0-0-56dfebe5a00272a1efc190b5b3e05017
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1783858164-0-0-b729cfeb7c7ec039ef488add64da099f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/f8179284cd325a02a088d1b099b76088.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Chungnam Asan vs Gyeongnam FC (BLV VƯƠNG ANH)
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=08e25745d82c8c9b05d38da8433afc1f&txTime=6a53ca44
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/5718ec1bba356a7053a526c4cf10bc71.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ FC Seoul vs Gangwon FC (BLV BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=40811ee90ea56d1ca4db5552bc846ba9&txTime=6a53c7ec
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=fcdf2e03b2ecf2da2f4e515fe9a7bba8&txTime=6a53ca44
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/5718ec1bba356a7053a526c4cf10bc71.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ FC Seoul vs Gangwon FC (BLV BLV CHIVAS)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=2a9b72f85ed587916cdcdf0820a7f3ca&txTime=6a53c7ec
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=96da3dbf0732a286496b58c71bf20055&txTime=6a53ca44
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/5718ec1bba356a7053a526c4cf10bc71.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ FC Seoul vs Gangwon FC (BLV TUẤN CÙI)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1783857564-0-0-dba516c47a8cbb256fb1d4d3ce76f6b5
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1783858164-0-0-e65b4f2919c442d9ac1f9f9f0c7436f5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/5718ec1bba356a7053a526c4cf10bc71.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ FC Seoul vs Gangwon FC (BLV BLV THÓC)
-https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=f053d1015a3a4c97e4ab5603211adf82&txTime=6a53c7ec
+https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=3017d7e7b1f01d2fbba532a20087085a&txTime=6a53ca44
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/fa193c854a7583db4339acf8ef3950b0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Incheon United Club vs FC Anyang (BLV BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1783857564-0-0-9f9b0f5fafe909c3cdee6cb41366916d
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1783858164-0-0-4095c5a59eecbc9c369c533a714c69c8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/fa193c854a7583db4339acf8ef3950b0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Incheon United Club vs FC Anyang (BLV BLV PEWPEW)
-https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1783857564-0-0-b08946b9ac27a9eebd2e66c80040d402
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/fa193c854a7583db4339acf8ef3950b0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Incheon United Club vs FC Anyang (BLV CÔNG CHẤT)
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1783857564-0-0-6ee30fb329ef9e61fdcbbb88e60055fe
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/fa193c854a7583db4339acf8ef3950b0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Incheon United Club vs FC Anyang (BLV BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1783857564-0-0-f0c2824d2d8f800cc1c11c8af8f62f8b
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1783858164-0-0-cdba212a9fb70d10e4b97a6ed0496455
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/fa193c854a7583db4339acf8ef3950b0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Incheon United Club vs FC Anyang (BLV BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=44287acad45a9852e76a6a017fae3131&txTime=6a53c7ec
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/fa193c854a7583db4339acf8ef3950b0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Incheon United Club vs FC Anyang (BLV HẢI THANH)
-https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1783857564-0-0-7ebf5b43047ede0d2705233f3140beea
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/e02890db12ec2a45a80536afbfd6ae47.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Jeju SK FC vs Daejeon Citizen (BLV LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1783857564-0-0-ce8deec3c39aa4ad38a1c4d2b25fcf2d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/e02890db12ec2a45a80536afbfd6ae47.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Jeju SK FC vs Daejeon Citizen (BLV A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1783857564-0-0-ab1071a15638f5415a6903b804c0eb45
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/e02890db12ec2a45a80536afbfd6ae47.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Jeju SK FC vs Daejeon Citizen (BLV BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1783857564-0-0-76331b411a1610975d9accdf4c79a5a3
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=8d6cc15842f32ac10490438c80387592&txTime=6a53ca44
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/e02890db12ec2a45a80536afbfd6ae47.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 12/07 ⚽ Jeju SK FC vs Daejeon Citizen (BLV BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=96399cb4e4bd609d20c17632b9d6d8ac&txTime=6a53c7ec
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/a1897e09a595dd092e14321d71bfa837.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:00 12/07 ⚽ Shenzhen Juniors vs Dingnan United (BLV BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=f46545f880a78e4d5b9de430ea0e0aeb&txTime=6a53c7ec
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/a1897e09a595dd092e14321d71bfa837.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:00 12/07 ⚽ Shenzhen Juniors vs Dingnan United (BLV XUÂN TÓC ĐỎ)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=06cdd78d6d97024bbebdc88b3a24b592&txTime=6a53c7ec
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=5822d47c730e4d22b912a4c84b3c2c80&txTime=6a53ca44
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1614.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 06:30 13/07 ⚽ CF Montreal vs Vancouver FC (Isco) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Ugyen_Academy_FC.png/250px-Ugyen_Academy_FC.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 19:00 13/07 ⚽ Ugyen Academy vs Transport United (BLV TÁO GIÀ) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
