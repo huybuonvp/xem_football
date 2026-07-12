@@ -26,6 +26,9 @@ https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_150109_ca02d37d.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:00 12/07 ⚽ Nõmme United II vs Flora II (Chuối Tiêu) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20260711_185830_c4a86ee0.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:30 12/07 ⚽ Cobreloa vs D. La Serena (Chuối Nhỏ) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20260711_185830_c4a86ee0.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:30 12/07 ⚽ Cobreloa vs D. La Serena (Chuối Nhỏ) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
@@ -45,11 +48,16 @@ https://alive.yarncdn.live/kda-blv-mo/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://alive.yarncdn.live/kda-blv-mo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/5213069613db59f9466b387c507aa6f6.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 12/07 ⚽ Operario Ferroviario PR vs Gremio Novorizontino (BLV BLV CÁO)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1783877364-0-0-3a6943ff64563874b5d2de5a58abe973
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1783877964-0-0-cd3bf65b4a605088ca762aea44a5ac8c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/45910570e20b62eb5e4b3153023d6bf2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 12/07 ⚽ Shinnik Yaroslavl vs FC Sochi (BLV BLV THÓC)
-https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=e2d800e36c88c4003017c018716a5352&txTime=6a541544
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/b380b276cec3579515ba94bfaf986310.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:30 12/07 ⚽ Brommapojkarna vs IK Sirius FK (BLV BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=2f066074c3573bf22649e57d64d99b49&txTime=6a541544
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 21:00 13/07 ⚽ Chelyabinsk vs Ska-khabarovsk (Mơ) [FHD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://kdalive.yarncdn.live/live/kda-blv-mo/playlist.m3u8
+https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=7fc4ad667e5644b2f0f94ed8dc6c8cbd&txTime=6a54179c
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/75877cb75154206c4e65e76b88a12712.jpg" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 22:00 12/07 ⚽ Aland United Women vs PK-35 Vantaa Women (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-b490a1c66f4870cef751/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/75877cb75154206c4e65e76b88a12712.jpg" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 22:00 12/07 ⚽ Aland United Women vs PK-35 Vantaa Women (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-b490a1c66f4870cef751/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/448b88beb6cdaf0accf126b280b177d9.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 22:00 12/07 ⚽ Brann vs Start Kristiansand (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-3abbebd5c7986b4ff0da/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/448b88beb6cdaf0accf126b280b177d9.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 22:00 12/07 ⚽ Brann vs Start Kristiansand (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-3abbebd5c7986b4ff0da/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d0ec9aec73fef71a60d9e28dbd9bada0.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 22:00 12/07 ⚽ FK Valmiera vs Ogre United (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-7d932e4f38ef490348f2/master.m3u8
