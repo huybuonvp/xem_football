@@ -29,10 +29,13 @@ https://hls.streamhub.media/hls/thesport-api-9b444c13f67025220026/master.m3u8
 https://hls.streamhub.media/hls/thesport-api-9b444c13f67025220026/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d742f865ae96b88cefac22fd7eee2185.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 14/07 ⚽ Gimnasia LP Women vs Huracan Women (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-1337f1d4fde08e41c7d8/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d742f865ae96b88cefac22fd7eee2185.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 14/07 ⚽ Gimnasia LP Women vs Huracan Women (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-1337f1d4fde08e41c7d8/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/5bc3cdfa7c0758645f8259ccb4170295.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 14/07 ⚽ Breidablik vs Keflavik (BLV A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1783973964-0-0-6152420304c6c28cfa3bf13864a99eba
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1783974564-0-0-96631daea7c20bd5b3eb38aba31710d1
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/5bc3cdfa7c0758645f8259ccb4170295.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 14/07 ⚽ Breidablik vs Keflavik (BLV A BỆU)
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1783974564-0-0-29e0c7c436c58653e105b8b4a01e11f9
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/276.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (BLV Max) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img0.aiscore.com/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w60" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 16:00 14/07 ⚽ Nữ Phong Phú Hà Nam vs Nữ TP.Hồ Chí Minh 2 (BLV Max) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
