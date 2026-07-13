@@ -47,6 +47,12 @@ https://pull.asynccdn.com/live/5439f9b9100245719d5087624ee9ff2c/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1077.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 23:30 13/07 ⚽ Arsenal Tula vs Tekstilshchik (BLV THẦN THÔNG) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1077.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 23:30 13/07 ⚽ Arsenal Tula vs Tekstilshchik (BLV THẦN THÔNG) [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1077.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 23:30 13/07 ⚽ Arsenal Tula vs Tekstilshchik (BLV THẦN THÔNG) [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 18:00 13/07 ⚽ Ningbo Professional Football Club vs Foshan Nanshi (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-f71f48407cf7b9a678f8/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/219f58fd1493f10ab5d3dd7c5b3b88c5.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 18:00 13/07 ⚽ Ningbo Professional Football Club vs Foshan Nanshi (Nhà Đài 2)
@@ -55,21 +61,24 @@ https://hls.streamhub.media/hls/thesport-api-f71f48407cf7b9a678f8/master.m3u8
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/505dbf347527a28c89a691665f4dc2c1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:00 13/07 ⚽ Ningbo Professional vs Foshan Nanshi (BLV XUÂN TÓC ĐỎ)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=1d639dd5f555697df42d2e228e395154&txTime=6a5530dc
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=e2d3a3078601fd8434a4b931098098a5&txTime=6a553334
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/505dbf347527a28c89a691665f4dc2c1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:00 13/07 ⚽ Ningbo Professional vs Foshan Nanshi (BLV BLV TAP)
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1783949964-0-0-2e73caa85d8aa78cfb8f18416a01178e
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1783950564-0-0-96e1958d6659aa48313d447a936757b3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/505dbf347527a28c89a691665f4dc2c1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:00 13/07 ⚽ Ningbo Professional vs Foshan Nanshi (BLV BLV YONE)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1783949964-0-0-42931e466f8a65d3fcb15da2b195899d
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/505dbf347527a28c89a691665f4dc2c1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:00 13/07 ⚽ Ningbo Professional vs Foshan Nanshi (BLV QUỐC KHÁNH)
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=ef4c46bcebf83c530060fc537c2f1794&txTime=6a5530dc
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1783950564-0-0-3cc6609458d90082bd4e29e0693184d7
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/505dbf347527a28c89a691665f4dc2c1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:00 13/07 ⚽ Ningbo Professional vs Foshan Nanshi (BLV BLV FOX)
+https://pull.niues.live/live/stream-620003_lhd.m3u8?auth_key=1783950564-0-0-ceca47dede11713c603b6f45ad64a781
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260708/505dbf347527a28c89a691665f4dc2c1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 18:00 13/07 ⚽ Ningbo Professional vs Foshan Nanshi (BLV HẢI THANH)
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1783950564-0-0-31e26fb8719385fee9995ded6b1b8fbf
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/7c1284d58a8c769ab359b32b271c95ee.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 18:35 13/07 ⚽ Putian Team vs Sanming Team (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-b2a0b91a4106c583ce0a/master.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/9368bea936e0d1f3798c02fbabc469d8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 13/07 ⚽ Imus Braderhood vs Batang Kankaloo (BLV KING)
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783950564-0-0-5fd1099d6f1c0833be2697abc48009b1
 #EXTINF:-1 tvg-logo="https://mediares.thethao247.vn/res/image/data/YJN4hmHG-Qq89lvZJ.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 19:45 13/07 ⚽ Nữ Singapore  vs Nữ Lào (BLV Phi MC) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3527.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 23:00 13/07 ⚽ Maardu vs Tartu Welco (BLV Phi MC) [FHD]
-#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
-https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/55f1c84923acc1daabf0bef6a440e876.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:45 13/07 ⚽ Singapore Women vs Laos Women (BLV BLV ROBBEN)
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1783950564-0-0-557d71fc19b5ea42d0669f6cf97da4bb
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5433.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 19:00 14/07 ⚽ Bhutan U19 vs Drukpa (BLV THẦN THÔNG) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
