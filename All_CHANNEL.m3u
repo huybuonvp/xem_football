@@ -53,6 +53,9 @@ https://alive.yarncdn.live/kda-blv-beu/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/364.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 00:00 14/07 ⚽ Djurgardens IF vs Halmstad (Bệu) [SD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://alive.yarncdn.live/kda-blv-beu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/5d15445b5ebaaad062065f158f1d1fd8.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 00:00 14/07 ⚽ Djurgardens vs Halmstads (BLV TRẠNG BÉO)
+#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
+https://pull.asynccdn.com/live/e7869b9314d6438186f58e6abcb42bb6/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133502_1d6d1a3e.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (Trốc Tru) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
@@ -65,11 +68,8 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133502_1d6d1a3e.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (Trốc Tru) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/631e4cfa5f1d5bee45618fb97fc3f0b4.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (BLV TRẠNG BÉO)
-#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
-https://pull.asynccdn.com/live/78d568a2e886404e8310a5bc9ddbb0ec/index.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/80673aba5a816857465265044c44a56d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 13/07 ⚽ FK Chelyabinsk vs SKA Khabarovsk (BLV PEANUT)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1783961717-0-0-437948babff2095859e199da4043ec88
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1783962816-0-0-6f263017293ea063d6c6e93cc7e36dbf
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/80673aba5a816857465265044c44a56d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 13/07 ⚽ FK Chelyabinsk vs SKA Khabarovsk (BLV BLV YONE)
 https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1783961656-0-0-fcd44ed1cdc8e76967127d0d2089f486
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/80673aba5a816857465265044c44a56d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 13/07 ⚽ FK Chelyabinsk vs SKA Khabarovsk (BLV BLV COZY)
@@ -87,7 +87,7 @@ https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=4728e3c95a2ca1cd2dd5
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/0626645a5dd3aff375d36b69b0d1f837.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 13/07 ⚽ Ural Yekaterinburg vs Torpedo Moscow (BLV BLV TOMIA)
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1783961970-0-0-c85430cc6c66bfc568e836ad84b1f93c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/0626645a5dd3aff375d36b69b0d1f837.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 13/07 ⚽ Ural Yekaterinburg vs Torpedo Moscow (BLV BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=e10cf0e8c1893e2b6f427a24e2bcee52&txTime=6a556214
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=6e098f52bde2ea85a6393b5d9db19c8b&txTime=6a5562db
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/0626645a5dd3aff375d36b69b0d1f837.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 13/07 ⚽ Ural Yekaterinburg vs Torpedo Moscow (BLV BLV TAP)
 https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1783962205-0-0-682bd5059b1b2c14c2136f812b1b6028
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/0626645a5dd3aff375d36b69b0d1f837.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 13/07 ⚽ Ural Yekaterinburg vs Torpedo Moscow (BLV TẠ BIÊN GIỚI)
