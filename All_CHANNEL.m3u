@@ -1,25 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1614.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 06:30 13/07 ⚽ CF Montreal vs Vancouver FC (BLV PHAN ANH) [FHD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1614.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 06:30 13/07 ⚽ CF Montreal vs Vancouver FC (BLV PHAN ANH) [HD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1614.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 06:30 13/07 ⚽ CF Montreal vs Vancouver FC (BLV PHAN ANH) [SD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1614.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 06:30 13/07 ⚽ CF Montreal vs Vancouver FC (Isco) [FHD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1614.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 06:30 13/07 ⚽ CF Montreal vs Vancouver FC (Isco) [HD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-isco/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1614.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 06:30 13/07 ⚽ CF Montreal vs Vancouver FC (Isco) [SD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-isco/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/abd87a03b9befd43df6c45c9b17e9a79.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 06:30 13/07 ⚽ Montreal Impact vs Vancouver FC (BLV TRẠNG TÍ ( Giáo Sư ))
-#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
-https://pull.asynccdn.com/live/1adca8be101f44be9fe7266ee8273b7a/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/711b58aca949c7b98ae560b5d9f17c55.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 07:30 13/07 ⚽ Austin FC II vs MINNESOTA United B (BLV TRẠNG TÈO)
 #EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
 https://pull.asynccdn.com/live/d693f09d6fe54ca98aea9b3ce5856490/index.m3u8
@@ -52,13 +31,13 @@ https://station1-global.ebaclofen.org/live/f73b5491060e56234edff05abddf8dfe/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/5b7e2bd8e447df96759bba3e225960ea.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 07:00 13/07 ⚽ O.Higgins vs Nublense (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-6008ef71e208281ea0b3/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/cf8eee54832e70d9ad45fcf686620d3e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:00 13/07 ⚽ San Jose Earthquakes Reserve vs Tacoma Defiance (BLV RICKHANTER)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=f3ef30f0d40225fdcde55dfa07390c5b&txTime=6a5493d4
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=7ee3261582c37e7e740dde06bb2626b8&txTime=6a54962c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/cf8eee54832e70d9ad45fcf686620d3e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:00 13/07 ⚽ San Jose Earthquakes Reserve vs Tacoma Defiance (BLV NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1783909764-0-0-d11ecf90defd7707659d0e97e924f989
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1783910364-0-0-dcbffae641dc3e9090bae779e1290256
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/cf8eee54832e70d9ad45fcf686620d3e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:00 13/07 ⚽ San Jose Earthquakes Reserve vs Tacoma Defiance (BLV BLV KAN)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=9fac41fc5d5373e0010cbee319ecfb1b&txTime=6a5493d4
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=e68bf77a43dda2acbf6fdfe9d2343441&txTime=6a54962c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/cf8eee54832e70d9ad45fcf686620d3e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:00 13/07 ⚽ San Jose Earthquakes Reserve vs Tacoma Defiance (BLV BLV MESSI)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1783909764-0-0-ee4210101ab834fc7021b47dc32aecb8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1783910364-0-0-efb13933abb2efa193d9a95641967a75
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b0d99b5e163d56f84425d465e6e11343.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 07:00 13/07 ⚽ San Jose Earthquakes Reserve vs Tacoma Defiance (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/12b3e722df7cd07faaa8fb6b33e8a47c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b0d99b5e163d56f84425d465e6e11343.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 07:00 13/07 ⚽ San Jose Earthquakes Reserve vs Tacoma Defiance (Nhà Đài 2)
@@ -76,9 +55,9 @@ https://station1-global.ebaclofen.org/live/4339e631063f0af126a22fa8f4ffcb8a/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3a62e44e43073eb835df5bbfc6a00ac1.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 07:00 13/07 ⚽ Tahiti U16 vs Vanuatu U16 (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-f6387874c8890e4c681b/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/c99f75b37185a1909bcf768688b9d68f.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:00 13/07 ⚽ Washington Wizards vs Sacramento Kings (BLV KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783909764-0-0-424e3c006072d0184e46f8d47349dc96
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1783910364-0-0-1377ddadc0e231b02d5c97f8494a9e6b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/c99f75b37185a1909bcf768688b9d68f.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:00 13/07 ⚽ Washington Wizards vs Sacramento Kings (BLV BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1783909764-0-0-5402ecbbe9ac8cb9b9ec285a62ad1360
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1783910364-0-0-9da23da3c7b777a80ae698e40c60ae70
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2c63b0867b9dd5079bdb0cc2822332a1.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 07:10 13/07 ⚽ Club Sport Emelec vs Barcelona SC(ECU) (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/f4be1d041f2de9b299cc38743c30a9a7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2c63b0867b9dd5079bdb0cc2822332a1.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 07:10 13/07 ⚽ Club Sport Emelec vs Barcelona SC(ECU) (Nhà Đài 2)
@@ -88,15 +67,15 @@ https://station1-global.ebaclofen.org/live/f4be1d041f2de9b299cc38743c30a9a7/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2c63b0867b9dd5079bdb0cc2822332a1.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 07:10 13/07 ⚽ Club Sport Emelec vs Barcelona SC(ECU) (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-bd6b7cde8f8f938d9da6/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/bffb5f3c4a1a392d4db8265b2a7e1d9a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:30 13/07 ⚽ Austin FC II vs MINNESOTA United B (BLV DECO)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783909764-0-0-81345fdffc6e150926a1f7ad2e6ff67c
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783910364-0-0-933bc1c959de814f59fb6a4dd67666a8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/bffb5f3c4a1a392d4db8265b2a7e1d9a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:30 13/07 ⚽ Austin FC II vs MINNESOTA United B (BLV BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1783909764-0-0-b4dcf7c4c0dec3c6246bbe49091bf021
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1783910364-0-0-342fc1f5c85b0f45f63d32885e3d1ed8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/bffb5f3c4a1a392d4db8265b2a7e1d9a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:30 13/07 ⚽ Austin FC II vs MINNESOTA United B (BLV TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1783909764-0-0-0aa2591fa8030badd60c3fd35942739a
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1783910364-0-0-bfdb9ce03920ed5d52e920091da8011f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/bffb5f3c4a1a392d4db8265b2a7e1d9a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:30 13/07 ⚽ Austin FC II vs MINNESOTA United B (BLV BLV TOMMY)
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783909764-0-0-e02e69770aac227fd939b4638ac9955e
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783910364-0-0-6d62b1cd4f0ac8ecb0702ff49b822205
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/bffb5f3c4a1a392d4db8265b2a7e1d9a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:30 13/07 ⚽ Austin FC II vs MINNESOTA United B (BLV LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1783909764-0-0-51e1460c9a1ce4ff5a0f2754bc7b6004
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1783910364-0-0-9052bd61a6614a4520c1bcb6c4b95641
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/711b58aca949c7b98ae560b5d9f17c55.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 07:30 13/07 ⚽ Austin FC II vs MINNESOTA United B (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/0f065c2b911c61000083a2fc86d50e2a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/711b58aca949c7b98ae560b5d9f17c55.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 07:30 13/07 ⚽ Austin FC II vs MINNESOTA United B (Nhà Đài 2)
@@ -114,9 +93,9 @@ https://station1-global.ebaclofen.org/live/20f947f25294b56c71bc07e24a37519c/play
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d10f5433c1c56f8e5c20532012ea3cfc.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 08:00 13/07 ⚽ Academica SC vs San Francisco Glens SC (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-2eeb2835eb915e71f653/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/eaad229dd55f00563b55b62307f27ea1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 08:00 13/07 ⚽ Las Vegas Aces W vs Indiana Fever W (BLV CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1783909764-0-0-70a3c30be4f6cf1afba99136f33bdb52
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1783910364-0-0-06bda50b327bf8bb3f275e046f230b1b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/97c5553fd92560729b996e01a7501a53.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 08:00 13/07 ⚽ Milwaukee Bucks vs San Antonio Spurs (BLV BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783909764-0-0-e7d489504bc63eda86a9e6e00b1a642e
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783910364-0-0-a60e7317395a373e311ba86f0b42e391
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1542.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 15:00 13/07 ⚽ Vietnam vs Gangwon FC (BLV LƯƠNG BỔNG) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
@@ -148,9 +127,9 @@ https://alive.yarncdn.live/bgtv_blv_mason/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/0b2dfef0c8f0035800d4e886e534a5fe.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 13/07 ⚽ Utah Jazz vs Los Angeles Clippers (BLV A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783909764-0-0-945257d3f2e56a834fe2b7159a5eceec
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783910364-0-0-c7eeb708188329de3d8254c2ccca47a3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/0b2dfef0c8f0035800d4e886e534a5fe.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 13/07 ⚽ Utah Jazz vs Los Angeles Clippers (BLV HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1783883157-0-0-75b97c506fb94a969b6eeeacc5d981c2
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1783910364-0-0-1492fe3bc997290ebac88b3d06e299c0
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/855ef04f1461ab3c19bfdad4702d21c8.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 17:30 13/07 ⚽ FC Bulleen Lions vs Brunswick City (BLV TRẠNG TÈO)
 #EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
 https://pull.asynccdn.com/live/b3f788ef54dd4daab07b503346ac39ce/index.m3u8
@@ -434,17 +413,17 @@ https://alive.yarncdn.live/bgtv_blv_mason/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/d93566c2418cf563dfcfa8f8a314c884.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 13/07 ⚽ Ugyen Academy vs Transport United FC (BLV BLV CÒ)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1783909764-0-0-68d25a18d8419e1860da6a2b6bd2399d
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1783909944-0-0-24c1f6bf11645d23ad40fdf8cdd65c15
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/d93566c2418cf563dfcfa8f8a314c884.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 13/07 ⚽ Ugyen Academy vs Transport United FC (BLV BLV THÓC)
 https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=c9a020466ff43436cd9d42b4dbff1448&txTime=6a542952
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/d93566c2418cf563dfcfa8f8a314c884.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 13/07 ⚽ Ugyen Academy vs Transport United FC (BLV CR Bưởi)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=3e8a9b9e15eeb9d379710bb6e29e6a7f&txTime=6a5493d4
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=23799fd443feb961f4ecc9987c0dafa9&txTime=6a5494ff
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/d93566c2418cf563dfcfa8f8a314c884.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 13/07 ⚽ Ugyen Academy vs Transport United FC (BLV CÔNG CHẤT)
 https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1783889520-0-0-821474331124f0bb2849cb35aba82919
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/d93566c2418cf563dfcfa8f8a314c884.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 13/07 ⚽ Ugyen Academy vs Transport United FC (BLV BLV A TÚ)
 https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1783889321-0-0-8fe5d9b34b0b9ccdb34ddae7d099e916
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/d93566c2418cf563dfcfa8f8a314c884.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 13/07 ⚽ Ugyen Academy vs Transport United FC (BLV BLV VOI)
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1783909764-0-0-c4b8b3b0994f235a6825605a3541137d
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1783909900-0-0-d57aaabc6ca77326d8bcf9afe43509fd
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133502_1d6d1a3e.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (Trốc Tru) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
@@ -495,7 +474,7 @@ https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=b5c1c54e7cb7b13b9c36
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/0626645a5dd3aff375d36b69b0d1f837.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 13/07 ⚽ Ural Yekaterinburg vs Torpedo Moscow (BLV BLV TOMIA)
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1783876844-0-0-1e286bd3fbaf652b08a5b9788b1aa5fd
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/0626645a5dd3aff375d36b69b0d1f837.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 13/07 ⚽ Ural Yekaterinburg vs Torpedo Moscow (BLV BLV RÔSI)
-https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=6ec9f5e6f61ac1af2f6b30fbb1027108&txTime=6a5493d4
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=4e5ca0460a92c8f15a6a098240fef894&txTime=6a54962c
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c44580753ff5e1f47b7784d28b10af2f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 21:00 13/07 ⚽ Ural Yekaterinburg vs Torpedo Moscow (Phổ Nghi)
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c44580753ff5e1f47b7784d28b10af2f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 21:00 13/07 ⚽ Ural Yekaterinburg vs Torpedo Moscow (Phổ Nghi)
