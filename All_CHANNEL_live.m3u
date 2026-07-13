@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/364.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 00:00 14/07 ⚽ Djurgardens IF vs Halmstad (Bệu) [FHD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/364.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 00:00 14/07 ⚽ Djurgardens IF vs Halmstad (Bệu) [HD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-beu/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/364.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 00:00 14/07 ⚽ Djurgardens IF vs Halmstad (Bệu) [SD]
-#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
-https://alive.yarncdn.live/kda-blv-beu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133502_1d6d1a3e.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (Trốc Tru) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
@@ -41,18 +32,7 @@ https://hls.streamhub.media/hls/thesport-api-1337f1d4fde08e41c7d8/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d742f865ae96b88cefac22fd7eee2185.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 14/07 ⚽ Gimnasia LP Women vs Huracan Women (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-1337f1d4fde08e41c7d8/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/5bc3cdfa7c0758645f8259ccb4170295.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 14/07 ⚽ Breidablik vs Keflavik (BLV A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1783973364-0-0-eeff517429aef55b8994e7e360ef9aba
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/5bc3cdfa7c0758645f8259ccb4170295.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 14/07 ⚽ Breidablik vs Keflavik (BLV A BỆU)
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1783973364-0-0-cfd864ebd3022df864a682dc8fd63235
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/5bc3cdfa7c0758645f8259ccb4170295.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 14/07 ⚽ Breidablik vs Keflavik (BLV BLV KEM)
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1783973364-0-0-36c845509c50c6c8271c4879ad43a5ab
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/5bc3cdfa7c0758645f8259ccb4170295.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 14/07 ⚽ Breidablik vs Keflavik (BLV BLV NOVA)
-https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1783973364-0-0-d489378e967a76517d6fea1a480cd8d6
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/5bc3cdfa7c0758645f8259ccb4170295.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 14/07 ⚽ Breidablik vs Keflavik (BLV CHÍ PHÈO)
-https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1783973364-0-0-21df5a6d7446b2bf5bc4247cbd866b54
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/276.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (BLV Max) [HD]
-#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
-https://alive.yarncdn.live/bgtv_blv_max/tracks-v2a1/mono.m3u8
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1783973964-0-0-6152420304c6c28cfa3bf13864a99eba
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/276.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (BLV Max) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
