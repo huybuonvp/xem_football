@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133449_1800c03c.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 00:00 14/07 ⚽ Djurgardens IF vs Halmstad (Chuối Nhỏ) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133449_1800c03c.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 00:00 14/07 ⚽ Djurgardens IF vs Halmstad (Chuối Nhỏ) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
@@ -23,7 +26,37 @@ https://alive.yarncdn.live/kda-blv-beu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/5d15445b5ebaaad062065f158f1d1fd8.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 00:00 14/07 ⚽ Djurgardens vs Halmstads (BLV TRẠNG BÉO)
 #EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
 https://pull.asynccdn.com/live/e7869b9314d6438186f58e6abcb42bb6/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133502_1d6d1a3e.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (Trốc Tru) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133502_1d6d1a3e.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (Trốc Tru) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133502_1d6d1a3e.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (Trốc Tru) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133502_1d6d1a3e.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (Trốc Tru) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/661890c275b321840ec7f8faf7e2a743.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:00 14/07 ⚽ Djurgardens vs Halmstads (BLV CR Bưởi)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=d1eb72706c79cbe5be3af074e0aed5ff&txTime=6a55853c
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=a01f2666e424da5bfa823c8fd8164902&txTime=6a558794
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/661890c275b321840ec7f8faf7e2a743.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:00 14/07 ⚽ Djurgardens vs Halmstads (BLV BLV MESSI)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1783971564-0-0-4b6971af49eeb21ab952859f62da01e8
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1783972164-0-0-1aceb2164655429f46f332b56650b9da
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/661890c275b321840ec7f8faf7e2a743.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:00 14/07 ⚽ Djurgardens vs Halmstads (BLV BLV ALEX)
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1783972164-0-0-71c945c0d84f02b29fae0f8fbe9ff655
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/661890c275b321840ec7f8faf7e2a743.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:00 14/07 ⚽ Djurgardens vs Halmstads (BLV BLV COCA)
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1783972164-0-0-6ebc554a7ec6e09dafa5d9beb7a75215
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/5d15445b5ebaaad062065f158f1d1fd8.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 00:00 14/07 ⚽ Djurgardens vs Halmstads (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-ee818961446908cd8c19/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/5d15445b5ebaaad062065f158f1d1fd8.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 00:00 14/07 ⚽ Djurgardens vs Halmstads (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-ee818961446908cd8c19/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/76ab14552d63cafe1f1646f33da139b2.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 00:00 14/07 ⚽ Ferro Carril Oeste Women vs Boca Juniors Women (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-857be641d1136c940bff/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/76ab14552d63cafe1f1646f33da139b2.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 00:00 14/07 ⚽ Ferro Carril Oeste Women vs Boca Juniors Women (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-857be641d1136c940bff/master.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/276.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 02:15 14/07 ⚽ Breidablik vs Keflavik (BLV Max) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img0.aiscore.com/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w60" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 16:00 14/07 ⚽ Nữ Phong Phú Hà Nam vs Nữ TP.Hồ Chí Minh 2 (BLV Max) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
