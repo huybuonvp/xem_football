@@ -49,10 +49,6 @@ https://alive.yarncdn.live/bgtv_blv_mason/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10490.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 09:00 13/07 ⚽ Sportivo San Juan vs Marin (BLV Mao Từn) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/0b2dfef0c8f0035800d4e886e534a5fe.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 13/07 ⚽ Utah Jazz vs Los Angeles Clippers (BLV A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783918164-0-0-6c19d7e4cc0351c36cd46cd33acc03f9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/0b2dfef0c8f0035800d4e886e534a5fe.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 13/07 ⚽ Utah Jazz vs Los Angeles Clippers (BLV HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1783918164-0-0-a95efd3c03d363d4047bda650e3b7cdd
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/855ef04f1461ab3c19bfdad4702d21c8.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 17:30 13/07 ⚽ FC Bulleen Lions vs Brunswick City (BLV TRẠNG TÈO)
 #EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
 https://pull.asynccdn.com/live/b3f788ef54dd4daab07b503346ac39ce/index.m3u8
@@ -192,8 +188,12 @@ https://alive.yarncdn.live/kda-blv-mo/tracks-v1a1/mono.m3u8
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1783911692-0-0-ab3aa882ecca0f5c89ca2fbe710c4bb1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/ef8f183ab5ea0e4643765027df746746.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 14:00 13/07 ⚽ Manawatu Jets vs Nelson Giants (BLV CHAN SENA)
 https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1783915869-0-0-c32af17dd1c5f4f28ee1f709ba6fd03e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/ef8f183ab5ea0e4643765027df746746.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 14:00 13/07 ⚽ Manawatu Jets vs Nelson Giants (BLV A CHÈ)
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783918726-0-0-4b6c9bb07d90bdb656fed964386e464d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/ef8f183ab5ea0e4643765027df746746.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 14:00 13/07 ⚽ Manawatu Jets vs Nelson Giants (BLV BLV HENRY)
 https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783917865-0-0-acc90b9e0acbad94f7d06d08b97a5856
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/ef8f183ab5ea0e4643765027df746746.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 14:00 13/07 ⚽ Manawatu Jets vs Nelson Giants (BLV HUNTER)
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1783918735-0-0-e1a5f7bed39deb1a9b3119403817bae9
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133808_6b5faed9.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:00 13/07 ⚽ Ural vs Torpedo Moskva (Chuối Chao) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
@@ -282,6 +282,10 @@ https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=acf4c820651f41df6e59
 https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1783879092-0-0-c9cb41f3002db99986ce07996bbe45c0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/aa1aa85337ae47e0f1f7d8f37295e158.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 13/07 ⚽ Adelaide Blue Eagles vs Modbury Jets (BLV BLV ALEX)
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1783877035-0-0-8088692cca2f619430b1ca141dc9bcfb
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/39d952e3985cafdf623341a8413bc253.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 17:00 13/07 ⚽ Adelaide Blue Eagles vs Modbury Jets (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/f56a217c84e50d5e78dc26532f15ba0b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/39d952e3985cafdf623341a8413bc253.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 17:00 13/07 ⚽ Adelaide Blue Eagles vs Modbury Jets (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/f56a217c84e50d5e78dc26532f15ba0b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133449_1800c03c.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 00:00 14/07 ⚽ Djurgardens IF vs Halmstad (Chuối Nhỏ) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
@@ -357,8 +361,6 @@ https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1783909944-0-0-24c1f6bf11645d23ad40fdf8cdd65c15
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/d93566c2418cf563dfcfa8f8a314c884.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 13/07 ⚽ Ugyen Academy vs Transport United FC (BLV BLV THÓC)
 https://pull.niur.live/live/stream-606448_lhd.m3u8?txSecret=c9a020466ff43436cd9d42b4dbff1448&txTime=6a542952
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/d93566c2418cf563dfcfa8f8a314c884.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 13/07 ⚽ Ugyen Academy vs Transport United FC (BLV CR Bưởi)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=7707cffee0ffd51450035dba3ff22cb4&txTime=6a54966c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/d93566c2418cf563dfcfa8f8a314c884.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 13/07 ⚽ Ugyen Academy vs Transport United FC (BLV CÔNG CHẤT)
 https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1783889520-0-0-821474331124f0bb2849cb35aba82919
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260709/d93566c2418cf563dfcfa8f8a314c884.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 19:00 13/07 ⚽ Ugyen Academy vs Transport United FC (BLV BLV A TÚ)
