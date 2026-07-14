@@ -41,13 +41,25 @@ https://alive.yarncdn.live/kda-blv-isco/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/b19bd906560a2ff7e4339e37a5ce109d.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 08:30 14/07 ⚽ Cavalry FC vs Vancouver Whitecaps (BLV TRẠNG NGỐ)
 #EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
 https://pull.asynccdn.com/live/fe44166983794e8c8621834ea25856bd/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 09:30 14/07 🏐 Pakistan vs Thailand (Chuối Bơ) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 09:30 14/07 🏐 Pakistan vs Thailand (Chuối Bơ) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 09:30 14/07 🏐 Pakistan vs Thailand (Chuối Bơ) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 09:30 14/07 🏐 Pakistan vs Thailand (Chuối Bơ) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoibohd.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/3bb9eaf658780627a5e64fd91eca51f1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 08:00 14/07 ⚽ Minnesota Lynx W vs Phoenix Mercury W (BLV A CHÈ)
-https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783997964-0-0-f7c428636c385f91ecb377db44b14a4e
+https://pull.niues.live/live/stream-356042_lhd.m3u8?auth_key=1783998564-0-0-842c91ff63a39865056fdb67a6fce405
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/22e7ecae91605a7eafc55907e215fec4.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 08:00 14/07 ⚽ Utah Jazz vs Chicago Bulls (BLV BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783997964-0-0-111223119566977c2ba54365962855dc
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/22e7ecae91605a7eafc55907e215fec4.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 08:00 14/07 ⚽ Utah Jazz vs Chicago Bulls (BLV BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1783997964-0-0-218a0ebda46be7633cce3bce4c168032
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1783998564-0-0-5944b233a167e1111340ba46761cffeb
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/2a312203bcc6bff9882ab6da991cfb31.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 08:30 14/07 ⚽ Cavalry FC vs Vancouver Whitecaps (BLV RICKHANTER)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=6b662d557508328dd70e444ebda8f427&txTime=6a55ec5c
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=3fb6dcfaaf3a65738af37ae7b10018ab&txTime=6a55eeb4
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b19bd906560a2ff7e4339e37a5ce109d.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 08:30 14/07 ⚽ Cavalry FC vs Vancouver Whitecaps (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-c5f6c9584052e94be613/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b19bd906560a2ff7e4339e37a5ce109d.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 08:30 14/07 ⚽ Cavalry FC vs Vancouver Whitecaps (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-c5f6c9584052e94be613/master.m3u8
