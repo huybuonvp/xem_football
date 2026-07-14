@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 06:30 14/07 ⚽ Ceara vs Athletic Club (BLV PHAN ANH) [FHD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 06:30 14/07 ⚽ Ceara vs Athletic Club (BLV PHAN ANH) [HD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqpEq0ZDxhCpCOUtgbmrKrxUfha1DH3ajU-Q&s" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 06:30 14/07 ⚽ Ceara vs Athletic Club (BLV PHAN ANH) [SD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/1280px-Cear%C3%A1_Sporting_Club_logo.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 06:30 14/07 ⚽ Ceara vs Athletic Club (Isco) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
@@ -51,8 +42,20 @@ https://alive.yarncdn.live/kda-blv-isco/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://alive.yarncdn.live/kda-blv-isco/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/8dc9cd236cd172cccd975f841f5a8397.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:30 14/07 ⚽ Ceara vs Athletic Club (BLV BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1783994364-0-0-05e308d66fad29cf072112d1c44808ce
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/af8774ff48aa426f5516ba6d507c5381.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 06:30 14/07 ⚽ Ceara vs Athletic Club (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-6a1ef9281cc2dddfd93c/master.m3u8
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1783994964-0-0-d03f4e13339f9ac78fb199b636c63e8f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/8dc9cd236cd172cccd975f841f5a8397.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:30 14/07 ⚽ Ceara vs Athletic Club (BLV BLV TOMIA)
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1783994964-0-0-e2e48c5f9d4fb8d8692593c71971a424
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/8dc9cd236cd172cccd975f841f5a8397.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:30 14/07 ⚽ Ceara vs Athletic Club (BLV LOGAN)
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1783994964-0-0-f13c4ed1431d4602e8dcc431d282bcd9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/8dc9cd236cd172cccd975f841f5a8397.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:30 14/07 ⚽ Ceara vs Athletic Club (BLV BLV ROBBEN)
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1783994964-0-0-3d556b048e15213d65f5faacd7a95783
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/8dc9cd236cd172cccd975f841f5a8397.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:30 14/07 ⚽ Ceara vs Athletic Club (BLV BLV ENZO)
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1783994964-0-0-4c10901d2e4bbff9ae240aadff109d7d
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/cb12c904c546913b8cda41dc646c7468.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:00 14/07 ⚽ Atletico Atlanta vs Colegiales (BLV NGƯỜI CÁ)
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1783994964-0-0-05bdfe48edd114ddf5ada3c3eb8dc9c8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/cb12c904c546913b8cda41dc646c7468.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:00 14/07 ⚽ Atletico Atlanta vs Colegiales (BLV BLV KAN)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=87bd7594bc097fe4b7280a2f732fd72d&txTime=6a55de4c
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=9c49901624a92e1ae8f8379ac2e82be4&txTime=6a55e0a4
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/cb12c904c546913b8cda41dc646c7468.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 07:00 14/07 ⚽ Atletico Atlanta vs Colegiales (BLV BLV LION)
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1783994964-0-0-b52155ace7da71e28698538569d53602
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/2a312203bcc6bff9882ab6da991cfb31.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 08:30 14/07 ⚽ Cavalry FC vs Vancouver Whitecaps (BLV RICKHANTER)
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=ffd8f1c9100542d9e574aa5c6c04417b&txTime=6a55e0a4
