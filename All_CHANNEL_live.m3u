@@ -62,12 +62,12 @@ https://alive.yarncdn.live/kda-blv-beu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/354.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 00:30 15/07 ⚽ The New Saints vs Sabah FA (BLV TÁO GIÀ) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/354.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 00:30 15/07 ⚽ The New Saints vs Sabah FA (BLV TÁO GIÀ) [HD]
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 02:00 15/07 ⚽ France vs Spain (BLV PHAN QUẨY) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/354.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 00:30 15/07 ⚽ The New Saints vs Sabah FA (BLV TÁO GIÀ) [SD]
-#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
-https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 02:00 15/07 ⚽ France vs Spain (Bệu) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0ce251c69198e9526c443a668db2674f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 14/07 ⚽ Al Akhaa Al Ahli SC Aley vs Risaleh Toura (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-e1d4e0bbbe0cdbaf22ac/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0ce251c69198e9526c443a668db2674f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 14/07 ⚽ Al Akhaa Al Ahli SC Aley vs Risaleh Toura (Nhà Đài 2)
@@ -78,19 +78,22 @@ https://hls.streamhub.media/hls/thesport-api-7a498bf6aedc8ef4dda9/master.m3u8
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/70c01a4a847da2cf74ab4dc29d9af03e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:00 14/07 ⚽ Connecticut Sun W vs Portland Fire W (BLV HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784044164-0-0-cd81d6cc059e0c89f5c592c4ac3f8852
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784044764-0-0-4ecf375d555af55c79fe4b9c578831d8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/ab391b15eabb1e69ae62af26964d4b44.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:00 14/07 ⚽ KuPs vs FC Vardar Skopje (BLV LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1784044164-0-0-e463116ddedaf8f1afe09a812783af08
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1784044764-0-0-ec18375d53a8ff19ecb44c08e9a7a9b2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/ab391b15eabb1e69ae62af26964d4b44.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:00 14/07 ⚽ KuPs vs FC Vardar Skopje (BLV BLV A TÚ)
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784044764-0-0-a95c3398d9877118eea6263705fe8986
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/ab391b15eabb1e69ae62af26964d4b44.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:00 14/07 ⚽ KuPs vs FC Vardar Skopje (BLV BLV VOI)
+https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1784044764-0-0-ea570588d39f6c77310ac93cd23c6533
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/ab391b15eabb1e69ae62af26964d4b44.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:00 14/07 ⚽ KuPs vs FC Vardar Skopje (BLV VƯƠNG ANH)
-https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=ca08aa6eaa4aa30d3f7b79f6ee097339&txTime=6a56a0d4
+https://pull.niur.live/live/stream-548860_lhd.m3u8?txSecret=ac62862ee61a2c8b57639d155cb51f0e&txTime=6a56a32c
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/ab391b15eabb1e69ae62af26964d4b44.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:00 14/07 ⚽ KuPs vs FC Vardar Skopje (BLV BLV CUỘI)
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1784044764-0-0-fb613d68e1ed1470ee2c9cc62b671236
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260711/ab391b15eabb1e69ae62af26964d4b44.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:00 14/07 ⚽ KuPs vs FC Vardar Skopje (BLV SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=4b3b8e82073a4e5b4ed237723bfa96a8&txTime=6a56a0d4
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=b28de13e2b8caa1a91e1cbb19b7d7fc7&txTime=6a56a32c
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3342.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 23:00 14/07 ⚽ Inter Club d'Escaldes vs Lincoln Red Imps FC (BLV Kevin) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3502.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 23:00 14/07 ⚽ Saburtalo vs Flora Tallinn (BLV Max) [FHD]
-#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
-https://bglive.yarncdn.live/live/bgtv_blv_max/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/250px-Flag_of_Belgium.svg.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 13:30 15/07 🏐 Bỉ vs Cuba (BLV TÁO GIÀ) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
