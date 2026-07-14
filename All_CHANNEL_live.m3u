@@ -1,27 +1,38 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132251_1b2e3def.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:30 15/07 ⚽ Macara vs Mushuc Runa SC (A Ngao) [HD1] [hls]
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132254_268c845b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 07:00 15/07 ⚽ Manta FC vs Delfin SC (Chuối To) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132251_1b2e3def.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:30 15/07 ⚽ Macara vs Mushuc Runa SC (A Ngao) [HD2] [flv]
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132254_268c845b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 07:00 15/07 ⚽ Manta FC vs Delfin SC (Chuối To) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angao.flv
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132251_1b2e3def.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:30 15/07 ⚽ Macara vs Mushuc Runa SC (A Ngao) [FHD1] [hls]
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132254_268c845b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 07:00 15/07 ⚽ Manta FC vs Delfin SC (Chuối To) [FHD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132251_1b2e3def.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:30 15/07 ⚽ Macara vs Mushuc Runa SC (A Ngao) [FHD2] [flv]
+https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132254_268c845b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 07:00 15/07 ⚽ Manta FC vs Delfin SC (Chuối To) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angaohd.flv
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d138a4d0829205be8e477b43d95b138d.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:30 15/07 ⚽ Macara vs Mushuc Runa (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-67480c818668596623bc/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d138a4d0829205be8e477b43d95b138d.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:30 15/07 ⚽ Macara vs Mushuc Runa (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-67480c818668596623bc/master.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3701.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 07:30 15/07 ⚽ Blooming vs Gualberto Villarroel SJ (Isco) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3701.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 07:30 15/07 ⚽ Blooming vs Gualberto Villarroel SJ (Isco) [HD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-isco/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/3701.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 07:30 15/07 ⚽ Blooming vs Gualberto Villarroel SJ (Isco) [SD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-isco/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fc616842475a2d4badbe81ad69bf4625.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 15/07 ⚽ CA Brown Adrogue vs Deportivo Laferrere (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-4d4ca5beb089ff20f116/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fc616842475a2d4badbe81ad69bf4625.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 15/07 ⚽ CA Brown Adrogue vs Deportivo Laferrere (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-4d4ca5beb089ff20f116/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/27471fce495bec5e33bc83b508eba608.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 15/07 ⚽ Comunicaciones BsAs vs Villa Dalmine (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-d9d6ac46193074e854e9/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/27471fce495bec5e33bc83b508eba608.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 15/07 ⚽ Comunicaciones BsAs vs Villa Dalmine (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-d9d6ac46193074e854e9/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c6fa97c2f3d3cdbadd3ef73dcf881301.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 15/07 ⚽ Deportivo Merlo vs Real Pilar (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-a78eba08d4383ed8b1d3/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c6fa97c2f3d3cdbadd3ef73dcf881301.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 15/07 ⚽ Deportivo Merlo vs Real Pilar (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-a78eba08d4383ed8b1d3/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/0ae31add83c5659c9e056109af8acc97.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 15/07 ⚽ Real Oruro vs Always Ready (BLV BLV KAN)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=1af0fe8800904e1b304f58a21b33dd06&txTime=6a571ab4
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=9611be769a9639954c82f6d01d4c918c&txTime=6a571d0c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/0ae31add83c5659c9e056109af8acc97.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 15/07 ⚽ Real Oruro vs Always Ready (BLV TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1784075364-0-0-4c3c1932cd6d1f45b9af8ea6b41fd678
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/0ae31add83c5659c9e056109af8acc97.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 15/07 ⚽ Real Oruro vs Always Ready (BLV BLV LUCAS)
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1784075364-0-0-fd991a397a574852df84dbc8ef66c261
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1784075964-0-0-4f39ec34ee44a5dd65e2bdab97d1f15b
