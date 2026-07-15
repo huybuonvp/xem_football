@@ -72,15 +72,35 @@ https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
 https://hls.streamhub.media/hls/thesport-api-7e80a3cd8f8ee45c9e47/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/09efc63754f0ca0f075ce4afc8e40ac4.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 13:00 15/07 ⚽ Samoa U16 vs Fiji U16 (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-7e80a3cd8f8ee45c9e47/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/nsORfhdM-AeUnl0mG.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 13:00 15/07 ⚽ Việt Nam vs Thái Lan (BLV Pháo) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img0.aiscore.com/volleyball/team/30c146391ed01570c94d91039480d18d.png!w60" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 13:30 15/07 ⚽ Bỉ  vs Cuba (BLV Tiểu Mèo) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/53b99d7e60b56262b9140c317c8c84d8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 14:00 15/07 ⚽ Taranaki Airs vs Nelson Giants (BLV CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1784102964-0-0-f8382711e1d4018d8e2b79e94c1fcd54
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/53b99d7e60b56262b9140c317c8c84d8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 14:00 15/07 ⚽ Taranaki Airs vs Nelson Giants (BLV BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1784102964-0-0-5a4e086df9c28b9d89da1ca6feae0eba
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/53b99d7e60b56262b9140c317c8c84d8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 14:00 15/07 ⚽ Taranaki Airs vs Nelson Giants (BLV KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1784102964-0-0-3a3ddb74c40151ead4d52c2a632eee33
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1784103564-0-0-63fbb2a4b7a92a306d21034878987e65
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9172.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 22:30 15/07 ⚽ JIPPO vs MP (BLV PHAN CA) [HD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9172.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 22:30 15/07 ⚽ JIPPO vs MP (BLV PHAN CA) [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/250px-Flag_of_Bulgaria.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 00:00 16/07 🏐 Bulgaria vs Ba Lan (Kaka) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img0.aiscore.com/football/team/871d73474b2d6b307fe3862403e9c77d.png!w60" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 17:20 15/07 ⚽ Nhật Bản vs Ý (BLV Pháo) [FHD]
+#EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
+https://bglive.yarncdn.live/live/bgtv_blv_phaothan/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/250px-Flag_of_Serbia.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 01:00 16/07 🏐 Serbia vs Thổ Nhĩ Kỳ (Tày) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-tay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 04:00 16/07 🏐 Pháp vs Brazil (Tày) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-tay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/18835.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 17:00 19/07 ⚽ Riga FC II vs Super Nova 2 (BLV PHAN CA) [HD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/18835.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 17:00 19/07 ⚽ Riga FC II vs Super Nova 2 (BLV PHAN CA) [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
