@@ -14,6 +14,9 @@ https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141426_df6e4713.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:30 15/07 ⚽ Malisheva vs Vllaznia Shkodër (A Ngao) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angao.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141426_df6e4713.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:30 15/07 ⚽ Malisheva vs Vllaznia Shkodër (A Ngao) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141426_df6e4713.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:30 15/07 ⚽ Malisheva vs Vllaznia Shkodër (A Ngao) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angaohd.flv
@@ -44,12 +47,69 @@ https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/194.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 22:00 15/07 ⚽ Ajax vs VfL Bochum (BLV TÁO GIÀ) [SD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/692.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 22:00 15/07 ⚽ Ordabasy vs Altay (BLV PHAN ANH) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/692.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 22:00 15/07 ⚽ Ordabasy vs Altay (BLV PHAN ANH) [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/692.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 22:00 15/07 ⚽ Ordabasy vs Altay (BLV PHAN ANH) [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/692.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 22:00 15/07 ⚽ Ordabasy vs Altay (Mơ) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-mo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/692.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 22:00 15/07 ⚽ Ordabasy vs Altay (Mơ) [HD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-mo/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/692.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 22:00 15/07 ⚽ Ordabasy vs Altay (Mơ) [SD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://alive.yarncdn.live/kda-blv-mo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/632.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 00:30 16/07 ⚽ Universitatea Craiova vs ML Vitebsk (BLV TÁO GIÀ) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/632.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 00:30 16/07 ⚽ Universitatea Craiova vs ML Vitebsk (Mơ) [FHD]
+#EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
+https://kdalive.yarncdn.live/live/kda-blv-mo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3a46c375d3b2b5ae280d50965ccfc7e4.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 15/07 ⚽ Nueva Chicago Reserves vs Chacarita Juniors Reserves (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-9ad84a2ec15df998f2d9/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3a46c375d3b2b5ae280d50965ccfc7e4.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 15/07 ⚽ Nueva Chicago Reserves vs Chacarita Juniors Reserves (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-9ad84a2ec15df998f2d9/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4e07d3ac5c7d1f02fba7fa4c14c8ee76.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 15/07 ⚽ Red Bull Salzburg vs Gamba Osaka (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-2122a296782a7d6e177c/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4e07d3ac5c7d1f02fba7fa4c14c8ee76.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 15/07 ⚽ Red Bull Salzburg vs Gamba Osaka (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-2122a296782a7d6e177c/master.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/66f2e8126ea08bca1a31dc425841d2f2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:30 15/07 ⚽ Malisheva vs Vllaznia Shkoder (BLV BLV CUỘI)
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1784129964-0-0-25f5e4b4c3c07f1c0170600131ed38c5
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/66f2e8126ea08bca1a31dc425841d2f2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:30 15/07 ⚽ Malisheva vs Vllaznia Shkoder (BLV CÔNG CHẤT)
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1784129964-0-0-993cffd93f7f10552f5b0f72af9d3791
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/66f2e8126ea08bca1a31dc425841d2f2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:30 15/07 ⚽ Malisheva vs Vllaznia Shkoder (BLV BLV COZY)
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1784129964-0-0-7f5e88284ae9ed469f48d846aa55e432
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/66f2e8126ea08bca1a31dc425841d2f2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:30 15/07 ⚽ Malisheva vs Vllaznia Shkoder (BLV BLV TOMIA)
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1784129964-0-0-c53a33d2079e9d90d8bc565644fee51f
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/66f2e8126ea08bca1a31dc425841d2f2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:30 15/07 ⚽ Malisheva vs Vllaznia Shkoder (BLV TUẤN CÙI)
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1784129964-0-0-0c7483521478e8cfad686cb35ad9d9cf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/66f2e8126ea08bca1a31dc425841d2f2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:30 15/07 ⚽ Malisheva vs Vllaznia Shkoder (BLV ĐỖ TÚ TÀI)
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1784129964-0-0-ac819a933a1492b96adaa88bd07c5470
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15576.png" group-title="Vòng Cấm TV" group-logo="https://vongcam.tv/assets/images/logo.png" , 21:30 15/07 ⚽ Malisheva vs Vllaznia Shkodër (BLV Kevin) [FHD]
 #EXTVLCOPT:http-referrer=https://sv1.bugio9.live/
 https://bglive.yarncdn.live/live/bgtv_blv_phimc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/d471e34648c1fa6c1bf11ec72b6150d0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:00 15/07 ⚽ Ordabasy vs Altay FK (BLV PEANUT)
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1784129964-0-0-23d330bce9ce91368f892d16c1788473
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/d471e34648c1fa6c1bf11ec72b6150d0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:00 15/07 ⚽ Ordabasy vs Altay FK (BLV BLV LONG)
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=b20c868f65482f1fa388f7cb692e7d9b&txTime=6a57effc
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1157.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 05:00 16/07 ⚽ Universidad Catolica vs LDU de Quito (BLV PHAN ANH) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.englisch-hilfen.de/images/flags/248.gif" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 08:00 16/07 🏐 Mỹ vs Trung Quốc (BLV TÁO GIÀ) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5591.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 19:00 16/07 ⚽ Thimphu vs Paro (BLV TÁO GIÀ) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/670.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 00:30 17/07 ⚽ Derry City vs CSKA Sofia (BLV TÁO GIÀ) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 18:00 17/07 ⚽ Qingdao Youth Island vs Chengdu Better City (BLV TÁO GIÀ) [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
