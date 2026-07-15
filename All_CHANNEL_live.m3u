@@ -1,7 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/e731daef830fadf0adaa6be047d6dabe.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 16:30 15/07 ⚽ Marlin Coast Rangers vs Brunswick Juventus (BLV TRẠNG BÉO)
+#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
+https://pull.asynccdn.com/live/218ca400256449da8826c0995885b31a/index.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27884.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 16:30 15/07 ⚽ Marlin Coast vs Brunswick Juventus FC (Chuối Tiêu) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27884.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 16:30 15/07 ⚽ Marlin Coast vs Brunswick Juventus FC (Chuối Tiêu) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27884.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 16:30 15/07 ⚽ Marlin Coast vs Brunswick Juventus FC (Chuối Tiêu) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27884.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 16:30 15/07 ⚽ Marlin Coast vs Brunswick Juventus FC (Chuối Tiêu) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
 #EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27884.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 16:30 15/07 ⚽ Marlin Coast vs Brunswick Juventus FC (BLV PHAN QUẨY) [FHD]
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
 https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27884.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 16:30 15/07 ⚽ Marlin Coast vs Brunswick Juventus FC (BLV PHAN QUẨY) [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27884.png" group-title="Hội Quán TV" group-logo="https://hoiquantv.xyz/assets/images/logo.png" , 16:30 15/07 ⚽ Marlin Coast vs Brunswick Juventus FC (BLV PHAN QUẨY) [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan4.live/
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/330px-Flag_of_the_Philippines.svg.png" group-title="Khán Đài A" group-logo="https://khandai.tv/assets/images/logo.png" , 16:30 15/07 🏐 Philippines vs Campuchia (Bệu) [FHD]
 #EXTVLCOPT:http-referrer=https://tructiep.khandaia4.link/
 https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
@@ -13,5 +34,13 @@ https://alive.yarncdn.live/kda-blv-beu/tracks-v2a1/mono.m3u8
 https://alive.yarncdn.live/kda-blv-beu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c57ca00f2e19f21fc7673153e7636353.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 15/07 ⚽ Fencibles United W vs Western Springs Women (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-6d4630222fcc9089adcf/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c57ca00f2e19f21fc7673153e7636353.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 14:30 15/07 ⚽ Fencibles United W vs Western Springs Women (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-6d4630222fcc9089adcf/master.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/439e2ccb972dbcf214ef14da333c57f9.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:30 15/07 ⚽ Cong An Ha Noi U21 vs Dong Nai U21 (BLV A BỆU)
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1784110764-0-0-e3fea34250b856a7f6dd18b501ba6a92
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/439e2ccb972dbcf214ef14da333c57f9.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:30 15/07 ⚽ Cong An Ha Noi U21 vs Dong Nai U21 (BLV BLV BÉO)
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=8cadb7dc2db34479f7dabb5126722614&txTime=6a57a4fc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/5ba09cfaa32d6dbf73cec4436e07e8a1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:30 15/07 ⚽ PVF U21 vs SHB Da Nang U21 (BLV CR Bưởi)
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=24701be8e929ac7d67239cb04ee91df7&txTime=6a57a4fc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/8b1ebf67bf6b10cbed696cdbb7358e71.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 15/07 ⚽ Marlin Coast Rangers vs Brunswick Juventus (BLV SAO LA)
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=c3db71b48a96f524203ddbf425a6f757&txTime=6a57a4fc
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260712/b47007091b77e123b07c00601b105c71.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 15/07 ⚽ White City Woodville vs North Sunshine Eagles (BLV BLV KAN)
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=6ee5fda6db197023bf41851c8f13cf62&txTime=6a57a4fc
