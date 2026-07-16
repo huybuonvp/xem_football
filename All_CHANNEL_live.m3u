@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img.sports-data.online/football/team/1fdb25b1b1cf8b92138ba7c5c9fff621.png" group-title="Tiếu Lâm TV" group-logo="https://static.asynccdn.xyz/images/local/DM9qSV6_2048x682.png" , 00:30 17/07 ⚽ Derry City vs CSKA Sofia (BLV TRẠNG BÉO)
-#EXTVLCOPT:http-referrer=https://sv2.tieulam2.info/
-https://pull.asynccdn.com/live/bde7ce9700d74c7b95cf413be8d0b55c/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133915_9fee4393.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 00:30 17/07 ⚽ Universitatea Cluj vs Dynamo Kyiv (A Ngao) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angao.flv
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133915_9fee4393.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 00:30 17/07 ⚽ Universitatea Cluj vs Dynamo Kyiv (A Ngao) [FHD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133915_9fee4393.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 00:30 17/07 ⚽ Universitatea Cluj vs Dynamo Kyiv (A Ngao) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angaohd.flv
@@ -26,6 +20,9 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133503_53a46785.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 03:00 17/07 ⚽ Vestri vs Qarabag (Chuối Nhỏ) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133503_53a46785.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 03:00 17/07 ⚽ Vestri vs Qarabag (Chuối Nhỏ) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133503_53a46785.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 03:00 17/07 ⚽ Vestri vs Qarabag (Chuối Nhỏ) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
@@ -60,20 +57,17 @@ https://hls.streamhub.media/hls/thesport-api-4a8f178ea748435dc236/master.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250920_011102_024ecd13.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 08:00 17/07 ⚽ Necaxa vs Atlante FC (A Ngao) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angao.flv
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250920_011102_024ecd13.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 08:00 17/07 ⚽ Necaxa vs Atlante FC (A Ngao) [FHD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250920_011102_024ecd13.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 08:00 17/07 ⚽ Necaxa vs Atlante FC (A Ngao) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/4941ec854b16ba1b2c7c0b6d1e0a3b0f.gif" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 17/07 ⚽ NK Aluminij vs Sheriff Tiraspol (BLV KENCHU)
-https://pull.niues.live/live/stream-622602_lhd.m3u8?auth_key=1784234364-0-0-40e95848fc4806013eb029089fee23c6
+https://pull.niues.live/live/stream-622602_lhd.m3u8?auth_key=1784234964-0-0-5bd082f4923710f3cb81032240b8b2d0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/4941ec854b16ba1b2c7c0b6d1e0a3b0f.gif" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 17/07 ⚽ NK Aluminij vs Sheriff Tiraspol (BLV BLV CÁO)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1784234364-0-0-67218242ce3a373455be1d9d545a55ba
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1784234964-0-0-9edac94b2471f08300cd7b71490897ea
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/4941ec854b16ba1b2c7c0b6d1e0a3b0f.gif" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 17/07 ⚽ NK Aluminij vs Sheriff Tiraspol (BLV BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=0ba1c9b823c24e53c04f8315e2386d87&txTime=6a5987cc
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=f9a4420d6f6f35356c5c857a1c1667e5&txTime=6a598a24
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/4941ec854b16ba1b2c7c0b6d1e0a3b0f.gif" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 17/07 ⚽ NK Aluminij vs Sheriff Tiraspol (BLV BLV RYO)
-https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1784234364-0-0-a3b37760d8c88daf5d8d76cae2c4ce21
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1784234964-0-0-8448e63ae12b097e4f31c0dc3598f49f
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/8e61634a08ce4e22f54cfef1c6b48b6a.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 17/07 ⚽ NK Aluminij vs Sheriff Tiraspol (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-f691f7b506839e498557/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/8e61634a08ce4e22f54cfef1c6b48b6a.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 17/07 ⚽ NK Aluminij vs Sheriff Tiraspol (Nhà Đài 2)
@@ -82,22 +76,18 @@ https://hls.streamhub.media/hls/thesport-api-f691f7b506839e498557/master.m3u8
 https://hls.streamhub.media/hls/thesport-api-19d0e51113eaa0748aec/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/325308c9d9a59760c05c4f5e06bb1a07.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 17/07 ⚽ Platense Reserves vs San Martin de San Juan Reserves (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-19d0e51113eaa0748aec/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/932090784a693acf21c043cd96b56740.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 17/07 ⚽ Shkendija Tetovo vs Europa FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-8f685b533327936fdc31/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/932090784a693acf21c043cd96b56740.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 17/07 ⚽ Shkendija Tetovo vs Europa FC (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-8f685b533327936fdc31/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b3dabcc55cb6e8d387dd75376e2464e3.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 17/07 ⚽ Tigre Reserves vs Instituto AC Cordoba II (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-d9e2d733f15c3991f6b3/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b3dabcc55cb6e8d387dd75376e2464e3.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 17/07 ⚽ Tigre Reserves vs Instituto AC Cordoba II (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-d9e2d733f15c3991f6b3/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/7fdb8dfe0a51adb5bad03f5f47e5692d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:15 17/07 ⚽ Ferencvarosi TC vs Vojvodina Novi Sad (BLV LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1784234364-0-0-0f967113857bb20384ac8f51c57f9712
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1784234964-0-0-e7cac16eb592b405f22e19a1ee7c8d8f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/7fdb8dfe0a51adb5bad03f5f47e5692d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:15 17/07 ⚽ Ferencvarosi TC vs Vojvodina Novi Sad (BLV BLV A WIN)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1784234364-0-0-9f1101b6e74537606076bf1e00c7f1e5
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1784234964-0-0-16b6af8967ed41b6e72fe21313723d71
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/7fdb8dfe0a51adb5bad03f5f47e5692d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:15 17/07 ⚽ Ferencvarosi TC vs Vojvodina Novi Sad (BLV BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=6aa75e429fb996f147a70e6b5946d08c&txTime=6a5987cc
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=236ab22d6a47fb5eb2340b9eee9660aa&txTime=6a598a24
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/7fdb8dfe0a51adb5bad03f5f47e5692d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:15 17/07 ⚽ Ferencvarosi TC vs Vojvodina Novi Sad (BLV XUÂN TÓC ĐỎ)
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=c0516d66247fd12655a37378d74be6cc&txTime=6a5987cc
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=a9bc62ed3cbc5d60c86bc79ee50ebb35&txTime=6a598a24
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/202e45f30a94193466ba2ae8a96e7685.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:15 17/07 ⚽ Ferencvarosi TC vs Vojvodina Novi Sad (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-52ed9a35abc59580dd5d/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/202e45f30a94193466ba2ae8a96e7685.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:15 17/07 ⚽ Ferencvarosi TC vs Vojvodina Novi Sad (Nhà Đài 2)
@@ -119,13 +109,13 @@ https://hls.streamhub.media/hls/thesport-api-f8a556086a42650f533f/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/8a3565a3732646c32f39fa222fdc4cd1.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:30 17/07 ⚽ Glenavon Lurgan vs Doncaster Rovers (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-f8a556086a42650f533f/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/c404943d7eeb2e5c4b5c9e3595733c87.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:30 17/07 ⚽ MSK Zilina vs Hajduk Split (BLV BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1784234364-0-0-502c703931d36cb829795744e45a713c
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1784234964-0-0-6280e6bda6260eaf5577af6a6d94462a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/c404943d7eeb2e5c4b5c9e3595733c87.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:30 17/07 ⚽ MSK Zilina vs Hajduk Split (BLV BLV LONG)
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=1631b1a41fce973df8aebc3551fa34c5&txTime=6a5987cc
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=c2e588a751ef6c4d3d2f00afa82d2e21&txTime=6a598a24
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/c404943d7eeb2e5c4b5c9e3595733c87.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:30 17/07 ⚽ MSK Zilina vs Hajduk Split (BLV BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1784234364-0-0-d7ac1d71c1ad80cd35873ce91326253c
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1784234964-0-0-308a125c3e3fff7327e57abdbad182dc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/c404943d7eeb2e5c4b5c9e3595733c87.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:30 17/07 ⚽ MSK Zilina vs Hajduk Split (BLV PEANUT)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1784234364-0-0-49b95b9d8f2dc539e4e6340d11ae0bae
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1784234964-0-0-47f1a515e1bcc5b2eb406c6b26a686b8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/818b4d75f99723aea6d04340664f7e72.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:30 17/07 ⚽ MSK Zilina vs Hajduk Split (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-63ccca5ceda539d0cc30/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/818b4d75f99723aea6d04340664f7e72.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:30 17/07 ⚽ MSK Zilina vs Hajduk Split (Nhà Đài 2)
@@ -173,12 +163,16 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/1595ec641d69c1f44dd02e6bc2cd61aa.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 17/07 ⚽ Vestri vs Qarabag (BLV TUẤN CÙI)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1784234364-0-0-9b3e15e5f965d908c2465596e5d23514
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1784234964-0-0-065857d649f642e6a8e89f307bf11cfe
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/1595ec641d69c1f44dd02e6bc2cd61aa.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 17/07 ⚽ Vestri vs Qarabag (BLV VINFAST)
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1784234364-0-0-36bc41d1f2642d00ded8d1fe38116707
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1784234964-0-0-2cb484b1b6129755601ecdca13dc581b
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/1595ec641d69c1f44dd02e6bc2cd61aa.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 17/07 ⚽ Vestri vs Qarabag (BLV GRAP)
+https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1784234964-0-0-629043ab5589b8e8a2d9370f5d60bf21
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjMpbvTRbyStnn_KHen7hLTMbCanrUMuyMo-illRlOQg&s" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 03:30 17/07/2026 🏀 Houston Rockets vs Brooklyn Nets (BLV Tôm) [PC] [hls]
+https://eqr2hdarxfliv.vcdn.cloud/1784216101_hd/1784216101_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/bdab9c936bb7f30c1595c485394f93ee.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:00 17/07 ⚽ Forge FC vs Pacific FC (BLV BLV CÒ)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1784234364-0-0-04232f7fd1f31b21ce6f023827e2b4dd
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1784234964-0-0-8f2a8b97c75316af6ca1a33d37589455
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/bdf35b3b8139af00b706ab737eb204e5.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 17/07 ⚽ Bentleigh greens vs Dandenong City SC (BLV BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1784234364-0-0-8f10fa52ed5ae53b49b6ef9b19f14548
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1784234964-0-0-0126de61e3259f33e320ac39680272f6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260713/85e0ae0187d73a206cb37cbf6e6fc90e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 17/07 ⚽ Sydney FC Youth vs Manly United (BLV XUÂN SON)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=646f573e1c30f27f7367149f6fdbcb64&txTime=6a5987cc
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=cd139454fe6bfdd87f07f17f2668c749&txTime=6a598a24
