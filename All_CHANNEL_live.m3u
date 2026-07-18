@@ -1,16 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130344_ea63e113.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 19/07 ⚽ Argentino de Merlo vs Deportivo Armenio (A Ngao) [HD1] [hls]
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_ab7df89d.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:15 19/07 ⚽ Ludogorets vs Lokomotiv Plovdiv (Chuối Chao) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130344_ea63e113.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 19/07 ⚽ Argentino de Merlo vs Deportivo Armenio (A Ngao) [HD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angao.flv
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130344_ea63e113.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:00 19/07 ⚽ Argentino de Merlo vs Deportivo Armenio (A Ngao) [FHD2] [flv]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angaohd.flv
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_ab7df89d.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:15 19/07 ⚽ Ludogorets vs Lokomotiv Plovdiv (Chuối Chao) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_ab7df89d.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:15 19/07 ⚽ Ludogorets vs Lokomotiv Plovdiv (Chuối Chao) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125648_ab7df89d.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:15 19/07 ⚽ Ludogorets vs Lokomotiv Plovdiv (Chuối Chao) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
@@ -20,15 +17,18 @@ https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133911_16224ec2.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:15 19/07 ⚽ Universitatea Craiova vs Uta Arad (Chuối Tiêu) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133911_16224ec2.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:15 19/07 ⚽ Universitatea Craiova vs Uta Arad (Chuối Tiêu) [FHD1] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133911_16224ec2.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:15 19/07 ⚽ Universitatea Craiova vs Uta Arad (Chuối Tiêu) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 19/07 ⚽ France vs England (Chuối Chao) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 19/07 ⚽ France vs England (Chuối Chao) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 19/07 ⚽ France vs England (Chuối Chao) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 19/07 ⚽ France vs England (Chuối Chao) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
@@ -38,55 +38,14 @@ https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 19/07 ⚽ France vs England (A Ngao) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angao.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 19/07 ⚽ France vs England (A Ngao) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 19/07 ⚽ France vs England (A Ngao) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/2NUY9fYA-h6SRz2xL.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 01:00 19/07/2026 🏐 Serbia  vs Germany (Số 8) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1784385808_hd/1784385808_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b2ee53e39bbdf078593cd905208fefa7.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Alianza Universidad de Huánuco vs Ayacucho Futbol Club (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-62615b6f528dbf9cb5bf/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b2ee53e39bbdf078593cd905208fefa7.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Alianza Universidad de Huánuco vs Ayacucho Futbol Club (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-62615b6f528dbf9cb5bf/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3b3a47b934324994afcd3e61dd116339.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Argentino de Merlo vs Deportivo Armenio (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-8aebb67bbe6818a62f47/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3b3a47b934324994afcd3e61dd116339.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Argentino de Merlo vs Deportivo Armenio (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-8aebb67bbe6818a62f47/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0d06a8e07875ff6d7308bc38c4d28de0.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Arsenal de Sarandi vs Flandria (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-3855710e87cc10101346/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0d06a8e07875ff6d7308bc38c4d28de0.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Arsenal de Sarandi vs Flandria (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-3855710e87cc10101346/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/39a72341d47b12221f9f959e52725d63.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Dundee United vs Arbroath (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-1388ad61063a0ceb758b/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/39a72341d47b12221f9f959e52725d63.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Dundee United vs Arbroath (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-1388ad61063a0ceb758b/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a4398d528117594332d3827a4ef53f7f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Ferroviaria SP Youth vs Santos Youth (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-9f5ee37214f8652347f1/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a4398d528117594332d3827a4ef53f7f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Ferroviaria SP Youth vs Santos Youth (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-9f5ee37214f8652347f1/master.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/e4f43c053ddb4094a248606e7b0f0ca7.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 19/07 ⚽ Novi Pazar vs Radnicki 1923 Kragujevac (BLV TUẤN CÙI)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1784407765-0-0-5da793bb595fdcbc8b9349e9f5368dca
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/e4f43c053ddb4094a248606e7b0f0ca7.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 19/07 ⚽ Novi Pazar vs Radnicki 1923 Kragujevac (BLV BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ecea3ead86a9a900ea3767aff99a6dae&txTime=6a5c2d25
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/993a9b2e250b69aabc350618ada0b139.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Novi Pazar vs Radnicki 1923 Kragujevac (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-27042e7e8c26d5e61863/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/993a9b2e250b69aabc350618ada0b139.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Novi Pazar vs Radnicki 1923 Kragujevac (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-27042e7e8c26d5e61863/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/346b441f46ebe0b2a8be355ddf01843b.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Paulista(SP) vs Primavera (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-475d703acafcda158f54/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/346b441f46ebe0b2a8be355ddf01843b.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Paulista(SP) vs Primavera (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-475d703acafcda158f54/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cfb638408dc0735d4fe5ac6eed038dda.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Velo Clube Youth vs Sao Paulo Youth (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-5cd8793173834955f014/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cfb638408dc0735d4fe5ac6eed038dda.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Velo Clube Youth vs Sao Paulo Youth (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-5cd8793173834955f014/master.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/6177720e89b1ecd3855bd7f59ea4de60.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 19/07 ⚽ Zemun vs Partizan Belgrade (BLV PEANUT)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1784407765-0-0-5f153367afd327056213a1190ef2b2f9
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/6177720e89b1ecd3855bd7f59ea4de60.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 19/07 ⚽ Zemun vs Partizan Belgrade (BLV BEN 10)
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1784407765-0-0-b4b44c4e28e6d23f636720ee644783d9
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/810c5df2cb25ece4a24b43a927508810.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Zemun vs Partizan Belgrade (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-28e1b286915e5924c50f/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/810c5df2cb25ece4a24b43a927508810.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:00 19/07 ⚽ Zemun vs Partizan Belgrade (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-28e1b286915e5924c50f/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fe6d074d58b77b5cebda8d7d5f8be345.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:10 19/07 ⚽ Denver Summit W vs Portland Thorns FC Women (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-372923b7d2912bf55d1d/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fe6d074d58b77b5cebda8d7d5f8be345.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:10 19/07 ⚽ Denver Summit W vs Portland Thorns FC Women (Nhà Đài 2)
@@ -96,17 +55,17 @@ https://hls.streamhub.media/hls/thesport-api-4d7eedb49de189428aaf/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/99a341d00ad5eb1ace5cf21e080d7653.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:15 19/07 ⚽ AD Tarma vs Universitario De Deportes (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-4d7eedb49de189428aaf/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/f2089e4b10787766900e0163fb2645b3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:15 19/07 ⚽ CS Universitatea Craiova vs UTA Arad (BLV BLV A WIN)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1784407765-0-0-e095c6e4796f027e13223e86398e7880
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1784408365-0-0-0a69c78be1e449184fe3d1aa475bf28b
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/f2089e4b10787766900e0163fb2645b3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:15 19/07 ⚽ CS Universitatea Craiova vs UTA Arad (BLV BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784407765-0-0-08c4bc24aa1d8bc077360735dadd96e1
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784408365-0-0-020d4dfb05edb15dc65bc9b6e1f61002
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d8fef73043961d11ed61a37476a54568.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:15 19/07 ⚽ CS Universitatea Craiova vs UTA Arad (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-cb36d94ae8aaa76b0072/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/d8fef73043961d11ed61a37476a54568.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:15 19/07 ⚽ CS Universitatea Craiova vs UTA Arad (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-cb36d94ae8aaa76b0072/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/f94db7a526500fa3496a6b8ec859c380.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:15 19/07 ⚽ Ludogorets Razgrad vs Lokomotiv Plovdiv (BLV BLV XO)
-https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1784407765-0-0-3a3ce76285feb4f60b331929a6c8d0e7
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1784408365-0-0-a6502024c2fd4c7df170cfba1b51e458
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/f94db7a526500fa3496a6b8ec859c380.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:15 19/07 ⚽ Ludogorets Razgrad vs Lokomotiv Plovdiv (BLV BLV LONG)
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=dcb2ee2befedfb41a3202315a6c436a4&txTime=6a5c2d25
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=7afafbc5f641b5c2d03dfbf9b45a8448&txTime=6a5c2da2
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3cd0dc57966a8b1f8536dd0016179664.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:15 19/07 ⚽ Ludogorets Razgrad vs Lokomotiv Plovdiv (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-6754a5b505e8216546ae/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3cd0dc57966a8b1f8536dd0016179664.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:15 19/07 ⚽ Ludogorets Razgrad vs Lokomotiv Plovdiv (Nhà Đài 2)
@@ -116,11 +75,11 @@ https://hls.streamhub.media/hls/thesport-api-054eb974a7036913051e/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/016486307fcd47800a3b166cb5523f07.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:15 19/07 ⚽ NK Olimpija Ljubljana vs NK Bravo (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-054eb974a7036913051e/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260717/b64bd9df7cb66f0e508a425338f0f104.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:30 19/07 ⚽ Latvia U20 vs Israel U20 (BLV HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784407765-0-0-26cfcda360478fa37a6dd823c548b832
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784408365-0-0-0fa275148f72fafc3332064a9737a653
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/7e4ddcecf00b9d37d43982b303a9ab03.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:30 19/07 ⚽ Sporting Braga vs RC Celta (BLV NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1784407765-0-0-514f223dfeba2b61b39e452af70f0e51
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1784408365-0-0-f039be7677ac86115f48b734ce04e541
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/7e4ddcecf00b9d37d43982b303a9ab03.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:30 19/07 ⚽ Sporting Braga vs RC Celta (BLV ĐỖ TÚ TÀI)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1784407765-0-0-6f935873a75527cae8b876c48797fa58
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1784408365-0-0-c9d5209c44eac2aa8b2d03f899de90c2
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1fe75f826dab40e6e89cbe961c7e9116.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:30 19/07 ⚽ Sporting Braga vs RC Celta (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-b3c99fa5ff629347785c/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1fe75f826dab40e6e89cbe961c7e9116.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:30 19/07 ⚽ Sporting Braga vs RC Celta (Nhà Đài 2)
@@ -140,9 +99,9 @@ https://hls.streamhub.media/hls/thesport-api-7efa5f9e3b5ffbc4d64b/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2e1e29f5fc4f906c2145acc6840b29ff.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:00 19/07 ⚽ Comercial-SP vs Noroeste (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-7efa5f9e3b5ffbc4d64b/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/b22f851dd1ff5a23e68c6ebf3753a29c.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 19/07 ⚽ Criciuma vs Vila Nova (BLV BLV ANH TÀI)
-https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1784407765-0-0-2d5770652cb6718d6fd97385a88f7000
+https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1784408365-0-0-3018b0149e66f16c8559eb5113878383
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/b22f851dd1ff5a23e68c6ebf3753a29c.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 19/07 ⚽ Criciuma vs Vila Nova (BLV VINFAST)
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1784407765-0-0-05efe4868483e16e8bd671bb26c54ef0
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1784408365-0-0-d3c0e65225cca0e001f0b90d1959fcbe
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1105c0c62d761d64b6f4c3e34f460278.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:00 19/07 ⚽ Criciuma vs Vila Nova (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-20eeb8b97da19d8c1388/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1105c0c62d761d64b6f4c3e34f460278.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:00 19/07 ⚽ Criciuma vs Vila Nova (Nhà Đài 2)
@@ -152,17 +111,17 @@ https://hls.streamhub.media/hls/thesport-api-9e6d045e11c8e0930461/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/af5d08bcd181c66a5ff7724086d6c933.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:00 19/07 ⚽ Deportivo Cuenca vs CD Universidad Católica (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-9e6d045e11c8e0930461/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/26b880aeac0cd215df32d36438ccd671.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 19/07 ⚽ Ponte Preta vs Goiás EC (BLV GRAP)
-https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1784407765-0-0-291b45aced7190299f13eccbf82d1a6b
+https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1784408365-0-0-94e7be4d1b04a6679e4820bd5fc9dd32
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/26b880aeac0cd215df32d36438ccd671.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 19/07 ⚽ Ponte Preta vs Goiás EC (BLV BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=8b493eb2b00a327727a97d5bcec7bdd0&txTime=6a5c2d25
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=9dead0b9b52a7490a1359b8181197761&txTime=6a5c2f7d
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fb735adffa94a7306c7f68b9609d929f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:00 19/07 ⚽ Ponte Preta vs Goiás EC (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-932e898f0089f79befeb/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/fb735adffa94a7306c7f68b9609d929f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:00 19/07 ⚽ Ponte Preta vs Goiás EC (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-932e898f0089f79befeb/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/1e9be7234d2ce0748528a124e73028d9.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 19/07 ⚽ Sport Club do Recife vs Operario Ferroviario PR (BLV BLV WUKONG)
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1784407765-0-0-23ad17039d379377710510e986d50cc9
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1784408365-0-0-93a56e5507e723877df1e52fce8bd51f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260715/1e9be7234d2ce0748528a124e73028d9.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 19/07 ⚽ Sport Club do Recife vs Operario Ferroviario PR (BLV SEVEN)
-https://pull.niues.live/live/stream-618546_lhd.m3u8?auth_key=1784407765-0-0-28ba3ca8f0735f564988699aa0e8ff1f
+https://pull.niues.live/live/stream-618546_lhd.m3u8?auth_key=1784408365-0-0-11c341fd8446fd69ea653fa64722035c
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:00 19/07 ⚽ Sport Club do Recife vs Operario Ferroviario PR (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-db6ca919e29655641f93/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/442e515a4bc76ea3b5dcc5b22cae2fc3.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:00 19/07 ⚽ Sport Club do Recife vs Operario Ferroviario PR (Nhà Đài 2)
@@ -171,3 +130,15 @@ https://hls.streamhub.media/hls/thesport-api-db6ca919e29655641f93/master.m3u8
 https://hls.streamhub.media/hls/thesport-api-9ce1a711ef391641da2c/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b95bc960b3da7a0823037c9f0ad86329.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:15 19/07 ⚽ Valur Reykjavik vs Fram Reykjavik (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-9ce1a711ef391641da2c/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e8b8743abaf65aa4fd506a21f31dac4f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 19/07 ⚽ Alianza Lima Reserves vs Centro Social Pariacoto (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-d2e089aa3f5edea767e4/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e8b8743abaf65aa4fd506a21f31dac4f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 19/07 ⚽ Alianza Lima Reserves vs Centro Social Pariacoto (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-d2e089aa3f5edea767e4/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/391b516f93a307a4d8ebcc52c7f95d3c.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 19/07 ⚽ Bay FC (w) vs North Carolina Courage Women (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-75efe1950bddf6a3a9c8/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/391b516f93a307a4d8ebcc52c7f95d3c.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 19/07 ⚽ Bay FC (w) vs North Carolina Courage Women (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-75efe1950bddf6a3a9c8/master.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260716/a29eb4191c7eb45ee84f7568ba34df9f.jpg" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 19/07 ⚽ France vs England (BLV DECO)
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1784408402-0-0-398334cc8998b284861b235434b6ae07
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260716/a29eb4191c7eb45ee84f7568ba34df9f.jpg" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 19/07 ⚽ France vs England (BLV BLV TOMMY)
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1784408365-0-0-e2f65f3232643605462530ac1deee635
