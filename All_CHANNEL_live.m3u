@@ -8,6 +8,9 @@ https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_655291c7.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 16:30 22/07 ⚽ Sydney United vs Central Coast Mariners (Chuối Tây) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_655291c7.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 16:30 22/07 ⚽ Sydney United vs Central Coast Mariners (Chuối Tây) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_655291c7.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 16:30 22/07 ⚽ Sydney United vs Central Coast Mariners (Chuối Tây) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
@@ -38,6 +41,9 @@ https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140621_2831c14f.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 19:00 22/07 ⚽ Rizhao Yuqi vs Shaanxi Union (Chuối Tây) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140621_2831c14f.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 19:00 22/07 ⚽ Rizhao Yuqi vs Shaanxi Union (Chuối Tây) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140621_2831c14f.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 19:00 22/07 ⚽ Rizhao Yuqi vs Shaanxi Union (Chuối Tây) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv
@@ -51,12 +57,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
 https://hls.streamhub.media/hls/thesport-api-f31341ce16d4cb6d3bd4/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3194a6970a26a063ec9bf5330670e970.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 22/07 ⚽ Neftchi Baku Women vs Buducnost Podgorica Women (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-f31341ce16d4cb6d3bd4/master.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/ad0bf833f61dcabcb02e7e888df36b8c.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:00 22/07 ⚽ Negros Hacienderos vs Pasay Voyagers (BLV KING)
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1784717395-0-0-8155ef42bef6108fc80a626bf4d27974
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/248ce300d8e5f531d8a42d1e8d743f0e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:45 22/07 ⚽ Cambodia Women vs Singapore Women (BLV BLV PICK)
-https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1784717395-0-0-a91c82158eaa57ae1ea7832c95a0aa25
+https://pull.niues.live/live/stream-598549_lhd.m3u8?auth_key=1784717995-0-0-7a5754a770476b238d9d359d3898e0a3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/248ce300d8e5f531d8a42d1e8d743f0e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:45 22/07 ⚽ Cambodia Women vs Singapore Women (BLV XUÂN SON)
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=4ae52f18cb5eba1b3227dfe8ae5e6d2a&txTime=6a60e6a3
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=90adeb6059562ed2747a8d8f2c35bba0&txTime=6a60e8fb
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/31d64389a45aaeb7a61c9b76b72be555.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:45 22/07 ⚽ Cambodia Women vs Singapore Women (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-e88902bd9b88b40d8909/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/31d64389a45aaeb7a61c9b76b72be555.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:45 22/07 ⚽ Cambodia Women vs Singapore Women (Nhà Đài 2)
@@ -80,25 +84,25 @@ https://hls.streamhub.media/hls/thesport-api-fa6bf4b57fa001c5285e/master.m3u8
 #EXTINF:-1 tvg-logo="https://nba.titan007.com/files/team/1k76hc0vfy1r.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 16:15 22/07/2026 🏀 Talk N Text Tropang Texters vs Titan Ultra Giant Risers (Số 12) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1784520995_hd/1784520995_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/e9bd3cabeff8d5f38bbbffb2315cdea9.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:15 22/07 ⚽ TNT Tropang 5G vs Titan Ultra Giant Risers (BLV HUNTER)
-https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784717395-0-0-a71b5818c9d151c383cd1df254d0bd28
+https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1784717995-0-0-9f5b25db9d21f29afa55e5b281275900
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/e9bd3cabeff8d5f38bbbffb2315cdea9.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:15 22/07 ⚽ TNT Tropang 5G vs Titan Ultra Giant Risers (BLV BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1784717395-0-0-0b36a3f31453dbfeaa9e5d4b14d6af8b
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1784717995-0-0-18901429c9b131d187d333d2d31b1f87
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/b7129df80a88c4cac94c52ff8b9cda75.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 22/07 ⚽ Cooma Tigers vs Western Sydney (BLV GRAP)
-https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1784717395-0-0-19870cb0c7f4e7520b1571700078540d
+https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1784717995-0-0-37daee8005d01932f2677dabddefdebf
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/b7129df80a88c4cac94c52ff8b9cda75.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 22/07 ⚽ Cooma Tigers vs Western Sydney (BLV BÒ TƯƠI)
-https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1784717395-0-0-17051939c57fe367dc34a46c5ef9096f
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1784717995-0-0-1bb426711f12a4f3065891a0470fc4a8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/b7129df80a88c4cac94c52ff8b9cda75.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 22/07 ⚽ Cooma Tigers vs Western Sydney (BLV NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1784717395-0-0-fe96de89babd258b2313e4faa5bc7df7
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1784717995-0-0-3bddc63308998dedc89821133a544226
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/b7129df80a88c4cac94c52ff8b9cda75.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 22/07 ⚽ Cooma Tigers vs Western Sydney (BLV BLV CÁP)
-https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1784717395-0-0-194396823b19a27681bdedec885f8b0a
+https://pull.niues.live/live/stream-610677_lhd.m3u8?auth_key=1784717995-0-0-a843c495c17a52185fda0febb4f555cd
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e929e8c047ce3b503112d3132c1aa88f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 22/07 ⚽ Cooma Tigers vs Western Sydney (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-162e5d3a55cfbfc70660/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/e929e8c047ce3b503112d3132c1aa88f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 22/07 ⚽ Cooma Tigers vs Western Sydney (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-162e5d3a55cfbfc70660/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/641085423e3708549d7de96f78e757b0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 22/07 ⚽ Maitland vs Fremantle City (BLV BEN 10)
-https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1784717395-0-0-597092a41a64ee1d6389212674d9f2db
+https://pull.niues.live/live/stream-612098_lhd.m3u8?auth_key=1784717995-0-0-2b594af373cfc384cfcdd3581997553d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/641085423e3708549d7de96f78e757b0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 22/07 ⚽ Maitland vs Fremantle City (BLV BLV KAN)
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=533630c0a6bbc0c9ef98829e9497a9f0&txTime=6a60e6a3
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=39bf05901a97e90f46b2707385e2683c&txTime=6a60e8fb
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4d44d0661cc1d382c732bc98d8535354.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 22/07 ⚽ Maitland vs Fremantle City (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-09a7e56efdae9734da89/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4d44d0661cc1d382c732bc98d8535354.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 22/07 ⚽ Maitland vs Fremantle City (Nhà Đài 2)
@@ -107,22 +111,20 @@ https://hls.streamhub.media/hls/thesport-api-09a7e56efdae9734da89/master.m3u8
 https://hls.streamhub.media/hls/thesport-api-dd694846ee875f6d17a4/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3e0cb4a1171e1be5a03dbd5d46c09ac1.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 22/07 ⚽ Papua New Guinea U16 vs New Zealand U16 (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-dd694846ee875f6d17a4/master.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/93c64a22b9821a139d9e420a03c37b3e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 22/07 ⚽ Sydney United 58 FC vs Central Coast Mariners (BLV TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1784717395-0-0-bca44cb3286e7b39ac690013f5160fd0
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/93c64a22b9821a139d9e420a03c37b3e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 22/07 ⚽ Sydney United 58 FC vs Central Coast Mariners (BLV BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1784717395-0-0-c27060ceaf8daefe15dd02bd5d8a8c21
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1784717995-0-0-e836abbc5f8cdfd0545788c9eccdaf25
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/93c64a22b9821a139d9e420a03c37b3e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 22/07 ⚽ Sydney United 58 FC vs Central Coast Mariners (BLV BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=db5012ce7487e21a429f8ad6c8e0d90c&txTime=6a60e6a3
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=b0dd6b95b21bbf8678e2b43ffa494fc9&txTime=6a60e8fb
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/93c64a22b9821a139d9e420a03c37b3e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 22/07 ⚽ Sydney United 58 FC vs Central Coast Mariners (BLV BLV NOVA)
-https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1784717395-0-0-84a02f27cbd0cdc9129a57bdf82087e3
+https://pull.niues.live/live/stream-619108_lhd.m3u8?auth_key=1784717995-0-0-a59764785ee58f25e309b9d97b6af1ce
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a2f47271892fb491ffab880158419ca0.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 22/07 ⚽ Sydney United 58 FC vs Central Coast Mariners (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-a2eca1a916a0bc669fe6/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a2f47271892fb491ffab880158419ca0.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 22/07 ⚽ Sydney United 58 FC vs Central Coast Mariners (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-a2eca1a916a0bc669fe6/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/79db5f2d8cd6ecf29a692ac2a3f8d09a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 22/07 ⚽ Tuggeranong United vs Canberra White Eagles (BLV A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1784717395-0-0-d13a907e0d7294697e35ebccba4e47d5
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1784717995-0-0-f95321ad36e29f2c70dd49ae642c11b7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/79db5f2d8cd6ecf29a692ac2a3f8d09a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:30 22/07 ⚽ Tuggeranong United vs Canberra White Eagles (BLV BLV VIP)
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=56903704c4e7dc5f734d50cff709b59b&txTime=6a60e6a3
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=61cad5a57a1ea78d7a78c6664ea26e1a&txTime=6a60e8fb
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/725b21909119a9d48e0328b1c0da11aa.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 22/07 ⚽ Tuggeranong United vs Canberra White Eagles (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-5d4a9e2a2d31b0302c01/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/725b21909119a9d48e0328b1c0da11aa.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 16:30 22/07 ⚽ Tuggeranong United vs Canberra White Eagles (Nhà Đài 2)
@@ -132,17 +134,19 @@ https://eqr2hdarxfliv.vcdn.cloud/1784521013_hd/1784521013_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/riXYYRwS-jR5Xl2rl.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 17:00 22/07/2026 🎮 EYEBALLERS vs FaZe Clan (Số 14) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1784599025_hd/1784599025_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/1253c937ee35ff488fccba163950e35f.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 22/07 ⚽ Meycauayan vs Pasig City (BLV CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1784717395-0-0-068f915b840659afd615dc8a5aaa6735
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1784717995-0-0-2a0cc76a528e30b5a55571dd43c8cd31
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/1253c937ee35ff488fccba163950e35f.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 22/07 ⚽ Meycauayan vs Pasig City (BLV KING)
+https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1784717995-0-0-c9f868a8e5acb87dfc985eb9a5cf5732
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/17e4cad5932be83f9efb85ac18919e6d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 22/07 ⚽ Nottingham Forest vs Blackburn Rovers (BLV LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1784717395-0-0-bf086771e1204a691cef94af41314272
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1784717995-0-0-126511e8acf8f339fe11ce787df442b6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/17e4cad5932be83f9efb85ac18919e6d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 22/07 ⚽ Nottingham Forest vs Blackburn Rovers (BLV BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1784717395-0-0-64cab605039724a671af6f4d958cd3c7
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1784717995-0-0-767b4adab7011a32a888296f48409388
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/17e4cad5932be83f9efb85ac18919e6d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 22/07 ⚽ Nottingham Forest vs Blackburn Rovers (BLV TẠ BIÊN GIỚI)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1784717395-0-0-778ef415dec63569eda1604e347ca7a7
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1784717995-0-0-da5233ead4c86aa693e8c20e3482b63e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/17e4cad5932be83f9efb85ac18919e6d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 22/07 ⚽ Nottingham Forest vs Blackburn Rovers (BLV THOMAS)
-https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1784717395-0-0-a8f89ad19ca0aaf407b650336d2f2480
+https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1784717995-0-0-0c0bfd06f2fa51612874314dedbb5e90
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/17e4cad5932be83f9efb85ac18919e6d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 22/07 ⚽ Nottingham Forest vs Blackburn Rovers (BLV BLV TAP)
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1784717395-0-0-859509c36ba7222d5852363476cb72cd
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1784717995-0-0-9d3c008aa479a0bd10305f8e888c221a
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134705_48a34322.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 00:00 23/07 ⚽ Omonia Nicosia vs Kairat Almaty (Chuối Chao) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
@@ -156,13 +160,35 @@ https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/7d8156123693a9380a5b52cbbb587978.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 22/07 ⚽ University Azzurri FC vs Macarthur FC (BLV BLV LION)
-https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1784717395-0-0-84c87d274dc1b603c8a36729b9f64fac
+https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1784717995-0-0-36e58446504669c73e2fcd781eff1455
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/7d8156123693a9380a5b52cbbb587978.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:00 22/07 ⚽ University Azzurri FC vs Macarthur FC (BLV BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784717395-0-0-21e143a925d92d40031bc702615fe7b3
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1784717995-0-0-60429dc796cadd81c96d277435e8cef9
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/fc-seoul.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 17:30 22/07/2026 ⚽ FC Seoul vs Pohang Steelers (Số 6) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1784520891_hd/1784520891_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/gwangju-football-club.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 17:30 22/07/2026 ⚽ Gwangju FC vs Gimcheon Sangmu (Số 17) [PC] [hls]
+https://eqr2hdarxfliv.vcdn.cloud/1784713904_hd/1784713904_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/4e4cb3c644bd9c5635c50004ac62ee61.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 22/07 ⚽ Bucheon FC 1995 vs FC Anyang (BLV BLV CÒ)
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1784717995-0-0-6be8009a285c5fd870bafd9b1dd90459
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/4e4cb3c644bd9c5635c50004ac62ee61.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 22/07 ⚽ Bucheon FC 1995 vs FC Anyang (BLV BLV RAMBO)
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=b056e6c165cb7d1f06344fd3b272d569&txTime=6a60e8fb
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/4e4cb3c644bd9c5635c50004ac62ee61.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 22/07 ⚽ Bucheon FC 1995 vs FC Anyang (BLV PEANUT)
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1784717995-0-0-ce9ee65848843363676e478da1c67fc0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/4e4cb3c644bd9c5635c50004ac62ee61.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 22/07 ⚽ Bucheon FC 1995 vs FC Anyang (BLV BLV XO)
+https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1784717995-0-0-348a5b358cd277cc3866219538d3bd8a
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/130d9055807d23cf51e2220353dd0726.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 22/07 ⚽ FC Seoul vs Pohang Steelers (BLV A BỆU)
+https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1784717995-0-0-da8e55a46eedcdcb336a7babb24576c9
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/130d9055807d23cf51e2220353dd0726.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 22/07 ⚽ FC Seoul vs Pohang Steelers (BLV LOGAN)
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1784717395-0-0-9bcf21be32f1290cd6a1162bec09eec3
+https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1784717995-0-0-3d63de96a269083f8ac3c5108dc6c0d0
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/130d9055807d23cf51e2220353dd0726.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 22/07 ⚽ FC Seoul vs Pohang Steelers (BLV CÔNG CHẤT)
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1784717995-0-0-df8c4f412bbe37dea6b0111099265752
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/130d9055807d23cf51e2220353dd0726.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 22/07 ⚽ FC Seoul vs Pohang Steelers (BLV BLV ENZO)
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1784717995-0-0-89e515da070539cf6e78b1e9a4278280
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/3bcd5255a4da82af3833fb86b8460426.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 22/07 ⚽ Gwangju FC vs Gimcheon Sangmu FC (BLV CHÍ PHÈO)
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1784717995-0-0-f651ece03bc06d1d1aae675cd4fda5ab
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/3bcd5255a4da82af3833fb86b8460426.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 22/07 ⚽ Gwangju FC vs Gimcheon Sangmu FC (BLV BLV RYO)
+https://pull.niues.live/live/stream-602019_lhd.m3u8?auth_key=1784717995-0-0-f7f2f02bff9bb3630a7c480c899ffeb9
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260719/3bcd5255a4da82af3833fb86b8460426.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 17:30 22/07 ⚽ Gwangju FC vs Gimcheon Sangmu FC (BLV KÉP)
+https://pull.niues.live/live/stream-560690_lhd.m3u8?auth_key=1784717995-0-0-988040f9c2076b10144d38908f99f3e3
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125658_38759a1c.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 02:00 23/07 ⚽ Egnatia Rrogozhinë vs Celje (Chuối Nhỏ) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
