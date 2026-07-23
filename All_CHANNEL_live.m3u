@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/st-gallen.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 01:00 24/07/2026 ⚽ St. Gallen vs SL Benfica (Số 11) [PC] [hls]
-https://eqr2hdarxfliv.vcdn.cloud/1784789215_hd/1784789215_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134810_97ec5e8b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 24/07 ⚽ Bolívar vs Gremio (Chuối Tiêu) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134810_97ec5e8b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 24/07 ⚽ Bolívar vs Gremio (Chuối Tiêu) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134810_97ec5e8b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 24/07 ⚽ Bolívar vs Gremio (Chuối Tiêu) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134810_97ec5e8b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 24/07 ⚽ Bolívar vs Gremio (Chuối Tiêu) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/6aee0e3c4adf0a133ff26dd20c7ea29f.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 04:30 24/07 ⚽ CLB Orense vs CLB Aucas (BLV FANTA) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/16226575.m3u8
@@ -18,8 +28,23 @@ https://hls.streamhub.media/hls/thesport-api-11786ee88ac564cc2009/master.m3u8
 https://hls.streamhub.media/hls/thesport-api-d383f96b6e38a1db3a9d/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6aee0e3c4adf0a133ff26dd20c7ea29f.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:30 24/07 ⚽ Orense SC vs Sociedad Deportiva Aucas (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-d383f96b6e38a1db3a9d/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/bolivar.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 05:00 24/07/2026 ⚽ Bolivar vs Gremio (RS) (Số 11) [PC] [hls]
+https://eqr2hdarxfliv.vcdn.cloud/1784789543_hd/1784789543_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/97b953630af2877305a6bcb90444dc72.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:00 24/07 ⚽ Bolivar (Bol) vs CLB Gremio (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/97b953630af2877305a6bcb90444dc72.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:00 24/07 ⚽ Bolivar (Bol) vs CLB Gremio (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/97b953630af2877305a6bcb90444dc72.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:00 24/07 ⚽ Bolivar (Bol) vs CLB Gremio (BLV MOUNTAIN DEW) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/74f9f6f0ba78f93a3505205c0c22a52c.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 24/07 ⚽ Bolivar vs Grêmio - RS (BLV HÀ DUY KIÊN)
+https://pull.niues.live/live/stream-607400_lhd.m3u8?auth_key=1784846395-0-0-020b3a8dc7db00c7c61fe7dc7c777d05
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/74f9f6f0ba78f93a3505205c0c22a52c.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 24/07 ⚽ Bolivar vs Grêmio - RS (BLV BLV YONE)
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1784846395-0-0-e3c7b63c649689d9c7154f6fef189fbf
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260720/74f9f6f0ba78f93a3505205c0c22a52c.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 24/07 ⚽ Bolivar vs Grêmio - RS (BLV BLV COZY)
-https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1784845795-0-0-56786c74f5261909983a5f5cd9ba99a9
+https://pull.niues.live/live/stream-531989_lhd.m3u8?auth_key=1784846395-0-0-475d0630ae2e9f89fddb974fa9c7b7fe
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:30 24/07 ⚽ CLB Santa Fe vs Caracas FC (BLV FANTA) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/16226575.m3u8
@@ -29,6 +54,27 @@ https://live05.miekgo.app/live/16226575.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3e5d2a8571f005656c62c1b0bdbaae03.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:30 24/07 ⚽ CLB Santa Fe vs Caracas FC (BLV FANTA) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/49a35dd00c51fc958ebf44054bce4c48.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:45 24/07 ⚽ Defensa y Justicia vs CLB Aldosivi (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/49a35dd00c51fc958ebf44054bce4c48.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:45 24/07 ⚽ Defensa y Justicia vs CLB Aldosivi (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/49a35dd00c51fc958ebf44054bce4c48.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:45 24/07 ⚽ Defensa y Justicia vs CLB Aldosivi (BLV MOUNTAIN DEW) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_78168141.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 24/07 ⚽ Seoul E-Land FC vs Cheonan City (Chuối Tiêu) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_78168141.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 24/07 ⚽ Seoul E-Land FC vs Cheonan City (Chuối Tiêu) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_78168141.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 24/07 ⚽ Seoul E-Land FC vs Cheonan City (Chuối Tiêu) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_78168141.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 24/07 ⚽ Seoul E-Land FC vs Cheonan City (Chuối Tiêu) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:30 24/07 ⚽ Đông Timor vs ĐTQG Việt Nam (BLV FANTA) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/16226575.m3u8
@@ -38,6 +84,18 @@ https://live05.miekgo.app/live/16226575.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/96a83c96abbe6d0b40c72b279ebdf76e.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:30 24/07 ⚽ Đông Timor vs ĐTQG Việt Nam (BLV FANTA) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132718_b8de955c.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 25/07 ⚽ Velez Sarsfield vs Instituto Cordoba (Chuối Tiêu) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132718_b8de955c.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 25/07 ⚽ Velez Sarsfield vs Instituto Cordoba (Chuối Tiêu) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132718_b8de955c.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 25/07 ⚽ Velez Sarsfield vs Instituto Cordoba (Chuối Tiêu) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132718_b8de955c.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 25/07 ⚽ Velez Sarsfield vs Instituto Cordoba (Chuối Tiêu) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:00 24/07 ⚽ Jaro vs SJK (BLV FANTA) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/16226575.m3u8
@@ -47,6 +105,15 @@ https://live05.miekgo.app/live/16226575.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3cb5e2d3b6f734ff2f10e4b47e50d380.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:00 24/07 ⚽ Jaro vs SJK (BLV FANTA) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/79e72fe2ebbfdf6d205e91d321e04bca.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:00 24/07 ⚽ Vejle vs CLB AB Gladsaxe (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/79e72fe2ebbfdf6d205e91d321e04bca.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:00 24/07 ⚽ Vejle vs CLB AB Gladsaxe (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/79e72fe2ebbfdf6d205e91d321e04bca.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:00 24/07 ⚽ Vejle vs CLB AB Gladsaxe (BLV MOUNTAIN DEW) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 02:45 25/07 ⚽ Gimnasia Mendoza vs Central Cordoba SDE (BLV FANTA) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/16226575.m3u8
@@ -65,6 +132,15 @@ https://live05.miekgo.app/live/16226575.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:00 25/07 ⚽ CLB Velez Sarsfield vs Instituto (BLV FANTA) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/918216791a55f9785f385c94c34cda51.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 08:00 25/07 ⚽ Tepatitlan de Morelos vs Alacranes de Durango (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/918216791a55f9785f385c94c34cda51.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 08:00 25/07 ⚽ Tepatitlan de Morelos vs Alacranes de Durango (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/918216791a55f9785f385c94c34cda51.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 08:00 25/07 ⚽ Tepatitlan de Morelos vs Alacranes de Durango (BLV MOUNTAIN DEW) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:00 25/07 ⚽ Myanmar vs Malaysia (BLV FANTA) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/16226575.m3u8
@@ -74,3 +150,21 @@ https://live05.miekgo.app/live/16226575.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:00 25/07 ⚽ Myanmar vs Malaysia (BLV FANTA) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/16226575.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:30 25/07 ⚽ Gimcheon Sangmu FC vs Daejeon (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:30 25/07 ⚽ Gimcheon Sangmu FC vs Daejeon (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:30 25/07 ⚽ Gimcheon Sangmu FC vs Daejeon (BLV MOUNTAIN DEW) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:15 25/07 ⚽ Akron Togliatti vs Zenit (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:15 25/07 ⚽ Akron Togliatti vs Zenit (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:15 25/07 ⚽ Akron Togliatti vs Zenit (BLV MOUNTAIN DEW) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.flv
