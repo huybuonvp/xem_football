@@ -1,9 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145411_d7b2cf85.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 01/08 ⚽ El Salvador U20 vs Haiti U20 (Chuối Nhỏ) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145411_d7b2cf85.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 01/08 ⚽ El Salvador U20 vs Haiti U20 (Chuối Nhỏ) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145411_d7b2cf85.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 01/08 ⚽ El Salvador U20 vs Haiti U20 (Chuối Nhỏ) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145411_d7b2cf85.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 04:00 01/08 ⚽ El Salvador U20 vs Haiti U20 (Chuối Nhỏ) [FHD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260728/e07e5aeb1fde8b595e1a6d524baeae49.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 01/08 ⚽ Bodo Glimt vs Lillestrom (BLV CR Bưởi)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=02d3052aa9867475717a27fbfe2dad83&txTime=6a6d612e
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/vDLwcnCa-8AMTtzu5.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 02:30 01/08/2026 ⚽ Taylor Fritz  vs Alex Michelsen  (Số 3) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1785480822_hd/1785480822_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2e667fca5e24ac13dcee94ddc4aa751a.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 01/08 ⚽ Burkina Faso Women vs Tanzania Women (Nhà Đài 2)
@@ -11,11 +18,9 @@ https://hls.streamhub.media/hls/thesport-api-881db2e39db3da78a7ef/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/2e667fca5e24ac13dcee94ddc4aa751a.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 01/08 ⚽ Burkina Faso Women vs Tanzania Women (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-881db2e39db3da78a7ef/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260728/6f7f78ea7a9aa786b71bf933647b99bf.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 01/08 ⚽ Los Chankas vs Comerciantes Unidos (BLV BLV RYO)
-https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=0b8f1cfe7df34b954202f1f48ea89f52&txTime=6a6d612e
+https://pull.niur.live/live/stream-602019_lhd.m3u8?txSecret=09c7f04074e09c2499039a543474e7c6&txTime=6a6d6386
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260728/6f7f78ea7a9aa786b71bf933647b99bf.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 03:00 01/08 ⚽ Los Chankas vs Comerciantes Unidos (BLV BLV COZY)
-https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=3f897bc637a74e5715670388ad2b9046&txTime=6a6d612e
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/8677ea6ab6a6dcd8ac9a1c3b86c66bd7.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 01/08 ⚽ Los Chankas vs Comerciantes Unidos (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-56a40f9d0496b0cf44b9/master.m3u8
+https://pull.niur.live/live/stream-531989_lhd.m3u8?txSecret=6cfa7d28cb7f3322a15ce43d708bc5af&txTime=6a6d6386
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/8677ea6ab6a6dcd8ac9a1c3b86c66bd7.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 03:00 01/08 ⚽ Los Chankas vs Comerciantes Unidos (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-56a40f9d0496b0cf44b9/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/8677ea6ab6a6dcd8ac9a1c3b86c66bd7.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 03:00 01/08 ⚽ người Chanka vs Comerciantes Unidos (BLV PEPSI) [hls]
@@ -41,10 +46,14 @@ https://hls.streamhub.media/hls/thesport-api-f3c61218be6a3294120c/master.m3u8
 https://hls.streamhub.media/hls/thesport-api-1c8050d56eaaa6b06f82/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/cc1c87c38c9abb7af5a63a9704fd8d91.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:00 01/08 ⚽ AD Rosario vs ADR Jicaral (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-1c8050d56eaaa6b06f82/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a9b3eea718a9c4bbe3bfcb64b0b0f548.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:00 01/08 ⚽ Defensores de Cambaceres vs CA Lugano (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-630081ce78f336267dbc/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a9b3eea718a9c4bbe3bfcb64b0b0f548.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:00 01/08 ⚽ Defensores de Cambaceres vs CA Lugano (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-630081ce78f336267dbc/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260728/53e237cddc32c1128e3c95f7cc118938.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 01/08 ⚽ El Salvador U20 vs Haiti U20 (BLV TUẤN CÙI)
-https://pull.niur.live/live/stream-400722_lhd.m3u8?txSecret=a43b65a5ee23f5ea516419f8f25284e4&txTime=6a6d612e
+https://pull.niur.live/live/stream-400722_lhd.m3u8?txSecret=a52822aa5cf0b8f4d24dc421f6d1817f&txTime=6a6d6386
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260728/53e237cddc32c1128e3c95f7cc118938.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:00 01/08 ⚽ El Salvador U20 vs Haiti U20 (BLV BLV CHIVAS)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=ad166920f153ae74a4abc53c67e223e7&txTime=6a6d612e
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=3693e971f05433eed8027ffb769386f2&txTime=6a6d6386
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3c7f7c2dae5b4e1dd398cffb26391a58.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:00 01/08 ⚽ El Salvador U20 vs Haiti U20 (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-56ff2a3ce1bf3658eaa9/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3c7f7c2dae5b4e1dd398cffb26391a58.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:00 01/08 ⚽ El Salvador U20 vs Haiti U20 (Nhà Đài 2)
@@ -53,6 +62,10 @@ https://hls.streamhub.media/hls/thesport-api-56ff2a3ce1bf3658eaa9/master.m3u8
 https://hls.streamhub.media/hls/thesport-api-da4157b56b1721a1d349/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/8fbc742f43887294db63c7063486c82b.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:00 01/08 ⚽ Portuguesa FC vs Carabobo (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-da4157b56b1721a1d349/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/224fc1a1876493fa1b072cf9eb4d5eb3.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:00 01/08 ⚽ Real Santander vs Patriotas FC (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-15615fa5f8d3f0331e40/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/224fc1a1876493fa1b072cf9eb4d5eb3.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:00 01/08 ⚽ Real Santander vs Patriotas FC (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-15615fa5f8d3f0331e40/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f3aa37eff0023279c42b6e99eecc31d0.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 01/08 ⚽ TPS vs IFK Mariehamn (BLV PEPSI) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/59444581.m3u8
@@ -62,6 +75,8 @@ https://live05.miekgo.app/live/59444581.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f3aa37eff0023279c42b6e99eecc31d0.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 01/08 ⚽ TPS vs IFK Mariehamn (BLV PEPSI) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/59444581.flv
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260728/3068c20455d8311a234a430c12f54a36.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:00 01/08 ⚽ Thailand vs Malaysia (BLV CR Bưởi)
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=bde61a7fbe872909773eb466be5c4d1a&txTime=6a6d6386
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a19ee4a4454087b98d1f2bb9058a337e.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:00 01/08 ⚽ CLB Gnistan Helsinki vs CLB KuPs (BLV PEPSI) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/59444581.m3u8
@@ -83,6 +98,9 @@ https://live05.meung.app/live/59444581.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/870815ca7c7545f7dc8c0716eecdb708.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 02/08 ⚽ Midtjylland vs Horsens (BLV PEPSI) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/59444581.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/870815ca7c7545f7dc8c0716eecdb708.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 02/08 ⚽ Midtjylland vs Horsens (BLV PEPSI) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.miekgo.app/live/59444581.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/870815ca7c7545f7dc8c0716eecdb708.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 02/08 ⚽ Midtjylland vs Horsens (BLV PEPSI) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/59444581.flv
