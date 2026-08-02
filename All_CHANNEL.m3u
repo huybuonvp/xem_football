@@ -299,10 +299,6 @@ https://hls.streamhub.media/hls/thesport-api-6b49fb95c6323c13aec2/master.m3u8
 https://station1-global.ebaclofen.org/live/e910c7bce1d8138f5dfab46904e96752/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/8fc41e2f4e777a844c468371be429a7b.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 02/08 ⚽ Dinamo Vladivostok vs Dinamo Briansk (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-6b49fb95c6323c13aec2/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a2324c377a142d82de9b710308cca602.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 02/08 ⚽ FC Victoria Mykolaivka vs Kolos Kovalivka II (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/10e54666d4a2e80be206600d01b0ef9c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a2324c377a142d82de9b710308cca602.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 02/08 ⚽ FC Victoria Mykolaivka vs Kolos Kovalivka II (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/10e54666d4a2e80be206600d01b0ef9c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/701385b4b1040319b0b736a6129cb805.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 02/08 ⚽ FK Ural-2 vs Akron Togliatti-2 (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/cac0327aa31e507e29f0153e668a7e57/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/701385b4b1040319b0b736a6129cb805.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 02/08 ⚽ FK Ural-2 vs Akron Togliatti-2 (Nhà Đài 2)
@@ -311,14 +307,20 @@ https://hls.streamhub.media/hls/thesport-api-91048fb90dd1e316b31f/master.m3u8
 https://station1-global.ebaclofen.org/live/cac0327aa31e507e29f0153e668a7e57/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/701385b4b1040319b0b736a6129cb805.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 02/08 ⚽ FK Ural-2 vs Akron Togliatti-2 (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-91048fb90dd1e316b31f/master.m3u8
+#EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/abb0e9db-669b-4262-b82e-2da60b61d670" group-title="S8TV" group-logo="https://s8tv.social/favicon.ico" , 15:00 02/08 ⚽ Shanghai Second vs Changchun Xidu (BLV NGƯỜI BẠC) [hls]
+#EXTVLCOPT:http-referrer=https://s8tv.social/
+https://hls.lauthaitv.cc/live/shanghai-changchun-chnl2/index.m3u8
+#EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/abb0e9db-669b-4262-b82e-2da60b61d670" group-title="S8TV" group-logo="https://s8tv.social/favicon.ico" , 15:00 02/08 ⚽ Shanghai Second vs Changchun Xidu (BLV NGƯỜI BẠC) [flv]
+#EXTVLCOPT:http-referrer=https://s8tv.social/
+https://flv.lauthaitv.cc/live/shanghai-changchun-chnl2.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260730/20ec55855b1bdbdb4636d782f9fbefb4.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:00 02/08 ⚽ Shanghai Second vs Changchun Xidu (BLV SAO LA)
-https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=7c449fff0c20a5a2556272063b10de91&txTime=6a6f4fb6
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=41af836056b6af23ea1953ca65a2f20b&txTime=6a6f520e
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260730/20ec55855b1bdbdb4636d782f9fbefb4.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:00 02/08 ⚽ Shanghai Second vs Changchun Xidu (BLV A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1785661798-0-0-b0b863cedfa18146c92828c3144a31c3
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1785662398-0-0-2a324507a75dd324f8314b5814bf9d8d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260730/20ec55855b1bdbdb4636d782f9fbefb4.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:00 02/08 ⚽ Shanghai Second vs Changchun Xidu (BLV BLV COCA)
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1785661798-0-0-9f5d1e0824b06aa9dc2d5e84d5d2805b
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1785662398-0-0-12ebabb50a902c5382818564e657b436
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260730/20ec55855b1bdbdb4636d782f9fbefb4.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:00 02/08 ⚽ Shanghai Second vs Changchun Xidu (BLV BÁ PHÚ)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1785661798-0-0-cb22a4905c99945b18776a060366e37a
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1785662398-0-0-71423f3da8e9bd75a2c2ed01c49657b4
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1cd1f47b6c94e8f7f222f09ac29e9873.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 02/08 ⚽ Shanghai Second vs Changchun Xidu (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/56d9b52cb16fe7d7304cf6f589b1cc43/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/1cd1f47b6c94e8f7f222f09ac29e9873.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 02/08 ⚽ Shanghai Second vs Changchun Xidu (Nhà Đài 2)
@@ -337,13 +339,13 @@ https://live05.miekgo.app/live/07808742.m3u8
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/07808742.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260730/e2ca2d2823977f01bc762ae7d4d7b412.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:00 02/08 ⚽ SKA Khabarovsk vs Ural Yekaterinburg (BLV BÚN ĐẬU)
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1785661798-0-0-70f48ccf8c69bfd2505c7a75bcd9a266
+https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1785662398-0-0-1c0feadf8b3ce0ffa7ae03a891f38575
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260730/e2ca2d2823977f01bc762ae7d4d7b412.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:00 02/08 ⚽ SKA Khabarovsk vs Ural Yekaterinburg (BLV NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1785661798-0-0-60e0f494b592cc205f71269978ec3627
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1785662398-0-0-d37c6dff403c846a24f95d2ad15cc733
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260730/e2ca2d2823977f01bc762ae7d4d7b412.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:00 02/08 ⚽ SKA Khabarovsk vs Ural Yekaterinburg (BLV BLV ALEX)
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1785661798-0-0-c35f4b80985c0e2e2505dfaaad504b7e
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1785662398-0-0-c802d0a6feb35c92e679cbeaab008ce3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260730/e2ca2d2823977f01bc762ae7d4d7b412.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:00 02/08 ⚽ SKA Khabarovsk vs Ural Yekaterinburg (BLV QUỐC KHÁNH)
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=dfec5bf089568caf193b9b4e458c5081&txTime=6a6f4fb6
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=351609e5cb9a84b8bdde3a901498d29f&txTime=6a6f520e
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/987b18be72d918583f9dd5b1a17f130e.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 02/08 ⚽ SKA Khabarovsk vs Ural Yekaterinburg (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/7fcd6d99b87b67aaff65a15bb02d07a9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/987b18be72d918583f9dd5b1a17f130e.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 02/08 ⚽ SKA Khabarovsk vs Ural Yekaterinburg (Nhà Đài 2)
@@ -352,16 +354,14 @@ https://hls.streamhub.media/hls/thesport-api-6feb66e155eee0eb0de3/master.m3u8
 https://station1-global.ebaclofen.org/live/7fcd6d99b87b67aaff65a15bb02d07a9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/987b18be72d918583f9dd5b1a17f130e.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 02/08 ⚽ SKA Khabarovsk vs Ural Yekaterinburg (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-6feb66e155eee0eb0de3/master.m3u8
-#EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/cbf34cb8-bd31-425c-8c8b-dc6741debb54" group-title="S8TV" group-logo="https://s8tv.social/favicon.ico" , 15:00 02/08 ⚽ Viktoria vs Kolos Kovalivka 2 (BLV NGƯỜI BẠC) [hls]
-#EXTVLCOPT:http-referrer=https://s8tv.social/
-https://hls.lauthaitv.cc/live/shanghai-changchun-chnl2/index.m3u8
-#EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/cbf34cb8-bd31-425c-8c8b-dc6741debb54" group-title="S8TV" group-logo="https://s8tv.social/favicon.ico" , 15:00 02/08 ⚽ Viktoria vs Kolos Kovalivka 2 (BLV NGƯỜI BẠC) [flv]
-#EXTVLCOPT:http-referrer=https://s8tv.social/
-https://flv.lauthaitv.cc/live/shanghai-changchun-chnl2.flv
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/997c720a963d335ce3cf38229160abd4.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:15 02/08 ⚽ MFK Havirov vs Zlin B (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-3aa90689300d63f85d05/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/997c720a963d335ce3cf38229160abd4.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:15 02/08 ⚽ MFK Havirov vs Zlin B (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-3aa90689300d63f85d05/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260730/d9b3d69a1dd661ab5905c42458c60042.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:30 02/08 ⚽ FC HOGO Hertha Wels vs SV Austria Salzburg (BLV TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1785661798-0-0-c6c087f6500937bf992d67f9ddd69907
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1785662398-0-0-9f63059b60aae613579b57e9dbf77828
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260730/d9b3d69a1dd661ab5905c42458c60042.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:30 02/08 ⚽ FC HOGO Hertha Wels vs SV Austria Salzburg (BLV BLV LUCAS)
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1785641801-0-0-245a74cc1c7103b35fea77a4d2f9dd36
+https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1785662398-0-0-4005bdc6ff7717feb4e40722ad0971fe
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_njudfFz.jpg" group-title="PHAO HOA TV" group-logo="https://phaohoa1.live/favicon.ico" , 16:00 02/08 🏐 Philippines vs Indonesia (BLV Ken) [hls]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
@@ -774,6 +774,10 @@ https://station1-global.ebaclofen.org/live/1448ba9cbfa26ca9daafd7d8099de628/play
 https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/0f5f64c52541a333596d8892b25aa310.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 02/08 ⚽ Gazovik Orenburg vs Zenit St. Petersburg (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/1448ba9cbfa26ca9daafd7d8099de628/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a5f5fbbb263b0c60189c2e6afb75e56d.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 02/08 ⚽ Grei Women vs Start Kristiansand Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/0fc8d116176f29938d4cb95c15d0e72a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a5f5fbbb263b0c60189c2e6afb75e56d.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 02/08 ⚽ Grei Women vs Start Kristiansand Women (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/0fc8d116176f29938d4cb95c15d0e72a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/95f8d9901ca8878e291552f001f67692.jpg" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 02/08 ⚽ Kjelsas vs Levanger FK (Nhà Đài 1)
 https://station1-global.ebaclofen.org/live/6fd1d9385aa65c237d6e5b9405468821/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/95f8d9901ca8878e291552f001f67692.jpg" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 02/08 ⚽ Kjelsas vs Levanger FK (Nhà Đài 1)
@@ -792,14 +796,12 @@ https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/troctruhd.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260730/09660c586be9cbb930ca3a0d20ff06e3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:00 02/08 ⚽ Saint Johnstone vs Kilmarnock (BLV GRAP)
 https://pull.niues.live/live/stream-622093_lhd.m3u8?auth_key=1785591113-0-0-7e2221b08fa290503073fbfbc14e81c1
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/3103443ceef99c41b14ecbbb31f14261.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 02/08 ⚽ Saint Johnstone vs Kilmarnock (Nhà Đài 1)
+https://station1-global.ebaclofen.org/live/41ba694751d251f498a2b7f302ea8871/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4005660f040d79145af8536b11d25a00.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 02/08 ⚽ Sigma Olomouc vs Mlada Boleslav (Tào Duệ)
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/4005660f040d79145af8536b11d25a00.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 02/08 ⚽ Sigma Olomouc vs Mlada Boleslav (Tào Duệ)
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/81b70b4f4179ca979f173ceae24222c4.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 02/08 ⚽ Tukums-2000 vs FK Liepaja (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/bc01d89ae66cea9ed22b95f605fcda2b/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/81b70b4f4179ca979f173ceae24222c4.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 02/08 ⚽ Tukums-2000 vs FK Liepaja (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/bc01d89ae66cea9ed22b95f605fcda2b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/ac-oulu.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 21:00 02/08/2026 ⚽ AC Oulu vs Ilves Tampere (Số 1) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1785587592_hd/1785587592_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/348fa7d49029584354427690fe88f874.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 21:00 02/08 ⚽ AC Oulu vs Ilves (BLV STING) [hls]
