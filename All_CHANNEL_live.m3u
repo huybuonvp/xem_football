@@ -1,12 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b0dfd4742d8fbfdea4f654b20ecf7692.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 06/08 ⚽ Shanghai U17 vs River Plate U17 (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-708e5dcfa2e446bc8576/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/b0dfd4742d8fbfdea4f654b20ecf7692.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 06/08 ⚽ Shanghai U17 vs River Plate U17 (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-708e5dcfa2e446bc8576/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/8f45c57b7fb17491004839191c989c7c.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 06/08 ⚽ Tottenham Hotspur U17 vs Sporting CP U17 (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-856ab80ac0e47dc0b524/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/8f45c57b7fb17491004839191c989c7c.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:00 06/08 ⚽ Tottenham Hotspur U17 vs Sporting CP U17 (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-856ab80ac0e47dc0b524/master.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20260806_010314_90ff6730.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 06/08 ⚽ Bodoland FC vs FC 1 (A Ngao) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20260806_010314_90ff6730.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 06/08 ⚽ Bodoland FC vs FC 1 (A Ngao) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20260806_010314_90ff6730.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 06/08 ⚽ Bodoland FC vs FC 1 (A Ngao) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20260806_010314_90ff6730.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 06/08 ⚽ Bodoland FC vs FC 1 (A Ngao) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/2Ta8kUjl-WEOPiMZr.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 15:30 06/08/2026 🏐 Chen Yi vs Miwa Harimoto (Số 69) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1785956929_hd/1785956929_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/10db29eabad13994d9729d8983f8d21a.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:30 06/08 ⚽ Persatuan Sepakbola Indonesia Jakarta vs Arema FC (Nhà Đài 2)
@@ -14,17 +18,17 @@ https://hls.streamhub.media/hls/thesport-api-118b4cfc3951288078c6/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/10db29eabad13994d9729d8983f8d21a.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 15:30 06/08 ⚽ Persatuan Sepakbola Indonesia Jakarta vs Arema FC (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-118b4cfc3951288078c6/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260805/ad3c59b18a058d78d1642733bab66fb3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:30 06/08 ⚽ Persija Jakarta vs Arema FC (BLV BLV FIREMAN)
-https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=d9499dddbff2b8cba1947801e21ec405&txTime=6a74ad27
+https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=00a521d2c18f1726823e409df7ec2435&txTime=6a74af7f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260805/ad3c59b18a058d78d1642733bab66fb3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:30 06/08 ⚽ Persija Jakarta vs Arema FC (BLV BLV PEWPEW)
-https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=52bde98d16a515bd60e245edfd28d2d5&txTime=6a74ad27
+https://pull.niur.live/live/stream-9912015_lhd.m3u8?txSecret=e15a7315add9167fded3cf7df2b67620&txTime=6a74af7f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260805/ad3c59b18a058d78d1642733bab66fb3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:30 06/08 ⚽ Persija Jakarta vs Arema FC (BLV ZIDANE)
-https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1786013399-0-0-997e583894e423ee8acfa8a763cad47c
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1786013999-0-0-7291ff8352bfe3fa39d3271de2c0f2d1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260805/ad3c59b18a058d78d1642733bab66fb3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:30 06/08 ⚽ Persija Jakarta vs Arema FC (BLV BLV A TÚ)
-https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1786013399-0-0-5ee37119af0e100958ebe82471e90590
+https://pull.niues.live/live/stream-557845_lhd.m3u8?auth_key=1786013999-0-0-a81f5d46ea314162fc5d148c4522f006
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260805/ad3c59b18a058d78d1642733bab66fb3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:30 06/08 ⚽ Persija Jakarta vs Arema FC (BLV BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=4510e91bdec3683e010458d916599f24&txTime=6a74ad27
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=a7c093abaa199605eae6e05c5217b162&txTime=6a74af7f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260805/ad3c59b18a058d78d1642733bab66fb3.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 15:30 06/08 ⚽ Persija Jakarta vs Arema FC (BLV BLV CÒ)
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1786013399-0-0-df2bbd05029cfe2404d81c4ac0758ef9
+https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1786013999-0-0-18e4b6be81d5a84630f4db2774099f50
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/10db29eabad13994d9729d8983f8d21a.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 15:30 06/08 ⚽ Persija Jakarta vs Arema Malang (BLV SPRITE) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/75748097.m3u8
@@ -39,9 +43,33 @@ https://eqr2hdarxfliv.vcdn.cloud/1785955010_hd/1785955010_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/I3B2NChl-Cxferg9G.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 16:00 06/08/2026 🎮 IG vs NIP (Số 9) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1785956050_hd/1785956050_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260804/556ed6f1e76b5b62f3653ac17f26611d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 16:00 06/08 ⚽ Abra Weavers vs Bataan Risers (BLV BRIAN)
-https://pull.niur.live/live/stream-9912106_lhd.m3u8?txSecret=b81d633b5edfbc0ea6416a5fb9631fa3&txTime=6a74ad27
+https://pull.niur.live/live/stream-9912106_lhd.m3u8?txSecret=fb3c903e5dcefde772dd3e0e4fe6869d&txTime=6a74af7f
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125644_4bdf4123.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:00 06/08 ⚽ Jagiellonia vs Rangers (A Ngao) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125644_4bdf4123.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:00 06/08 ⚽ Jagiellonia vs Rangers (A Ngao) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125644_4bdf4123.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:00 06/08 ⚽ Jagiellonia vs Rangers (A Ngao) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125644_4bdf4123.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:00 06/08 ⚽ Jagiellonia vs Rangers (A Ngao) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/IcRWRrAr-lAg5zKZ6.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 17:00 06/08/2026 🎮 DK vs T1 (Số 7) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1785956259_hd/1785956259_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132720_f05360cf.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 07/08 ⚽ Union Santa Fe vs Lanus (A Ngao) [HD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132720_f05360cf.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 07/08 ⚽ Union Santa Fe vs Lanus (A Ngao) [HD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angao.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132720_f05360cf.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 07/08 ⚽ Union Santa Fe vs Lanus (A Ngao) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132720_f05360cf.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 07/08 ⚽ Union Santa Fe vs Lanus (A Ngao) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/angaohd.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:10 07/08 ⚽ Cruz Azul vs Philadelphia Union (BLV SPRITE) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/75748097.m3u8
@@ -98,10 +126,4 @@ https://live05.miekgo.app/live/75748097.m3u8
 https://live05.meung.app/live/75748097.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/dbad1348304545f3d121cfd3e59395ab.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 21:00 08/08 ⚽ Preston North End vs Huddersfield (BLV SPRITE) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/dbad1348304545f3d121cfd3e59395ab.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 21:00 08/08 ⚽ Preston North End vs Huddersfield (BLV SPRITE) [hls]
-#EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/75748097.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/dbad1348304545f3d121cfd3e59395ab.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 21:00 08/08 ⚽ Preston North End vs Huddersfield (BLV SPRITE) [flv]
-#EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/75748097.flv
