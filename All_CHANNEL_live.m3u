@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a82c9684d567971fb6a08d24d027892a.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:30 11/08 ⚽ Club Libertad Asunción vs Club Sportivo Trinidense (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-7ba2eada593d1f550d52/master.m3u8
+#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a82c9684d567971fb6a08d24d027892a.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:30 11/08 ⚽ Club Libertad Asunción vs Club Sportivo Trinidense (Nhà Đài 2)
+https://hls.streamhub.media/hls/thesport-api-7ba2eada593d1f550d52/master.m3u8
 #EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/8e3382e5-a1b8-4809-aea0-cc4491490297" group-title="S8TV" group-logo="https://s8tv.social/favicon.ico" , 04:30 11/08 ⚽ Libertad FC vs CD Universidad Catolica (BLV NGƯỜI SÓI) [hls]
 #EXTVLCOPT:http-referrer=https://s8tv.social/
 https://hls.lauthaitv.cc/live/libertad-ucatolica-ligaprosa/index.m3u8
@@ -29,31 +31,28 @@ https://hls.streamhub.media/hls/thesport-api-99d46bbb0801d60ae306/master.m3u8
 #EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/fd410c63-cf5a-422a-bf10-9dfc702f7b56" group-title="S8TV" group-logo="https://s8tv.social/favicon.ico" , 05:00 11/08 ⚽ CA Banfield vs Belgrano (BLV NGƯỜI CHÈ) [hls]
 #EXTVLCOPT:http-referrer=https://s8tv.social/
 https://hls.lauthaitv.cc/live/banfield-belgrano-argdiv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/fd410c63-cf5a-422a-bf10-9dfc702f7b56" group-title="S8TV" group-logo="https://s8tv.social/favicon.ico" , 05:00 11/08 ⚽ CA Banfield vs Belgrano (BLV NGƯỜI CHÈ) [flv]
-#EXTVLCOPT:http-referrer=https://s8tv.social/
-https://flv.lauthaitv.cc/live/banfield-belgrano-argdiv1.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/6ad08163134b2c2d1ae2758aa6b18321.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/08 ⚽ CA Banfield vs Belgrano (BLV NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1786403999-0-0-9d70d226d51d89bca5d540e2c7af4554
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1786404599-0-0-22ed96704187a55f693cc19fcb2ec048
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/6ad08163134b2c2d1ae2758aa6b18321.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/08 ⚽ CA Banfield vs Belgrano (BLV HÀ DUY KIÊN)
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=2367d24cf11ac659b57d61fda17c546f&txTime=6a7aa2ef
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=ff37a450dc88ada74ec71031723689da&txTime=6a7aa547
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/6ad08163134b2c2d1ae2758aa6b18321.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/08 ⚽ CA Banfield vs Belgrano (BLV LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1786403999-0-0-90f6620a0e8471fef6ac31dacf171848
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1786404599-0-0-708d77f16d7c06d2402a6b4d35592122
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/6ad08163134b2c2d1ae2758aa6b18321.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/08 ⚽ CA Banfield vs Belgrano (BLV BLV LUCAS)
-https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=1fa5972342985122afcdec7063c3c5c1&txTime=6a7aa2ef
+https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=cb7b9fbab7acb3e881d05f2b6b971f1b&txTime=6a7aa547
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/6ad08163134b2c2d1ae2758aa6b18321.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/08 ⚽ CA Banfield vs Belgrano (BLV BLV CHIVAS)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=059ecc626b7df63c4810db7d9321bb77&txTime=6a7aa2ef
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=78fb0469b6f75c2c21d715667d59796a&txTime=6a7aa547
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/6ad08163134b2c2d1ae2758aa6b18321.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 11/08 ⚽ CA Banfield vs Belgrano (BLV BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=842af1df5f99ccca8606a8e3370a0127&txTime=6a7aa2ef
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=640af3f4494c07fd969833bae3a492bf&txTime=6a7aa547
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/932f3790a25e5c4f40ae328ad9060055.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 11/08 ⚽ Deportivo Maldonado vs Racing Club Montevideo (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-ba0b7606e9d22ba088f8/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/932f3790a25e5c4f40ae328ad9060055.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 05:00 11/08 ⚽ Deportivo Maldonado vs Racing Club Montevideo (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-ba0b7606e9d22ba088f8/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/4de1a7f14d5aead95e29e27e2bffae9c.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 11/08 ⚽ Goias Esporte Clube vs Londrina PR (BLV BLV TOMIA)
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1786403999-0-0-6cfd8bf1538aede48374c6f3a75b9fc3
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1786404599-0-0-509d2c156e2a27a3dd9303e352ef6d13
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/4de1a7f14d5aead95e29e27e2bffae9c.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 11/08 ⚽ Goias Esporte Clube vs Londrina PR (BLV CƠM NẾP)
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1786403999-0-0-4a16d2b6dc0c7950b6daf5b2114f5ba8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/5b45726e45f96cc99f2223d341b3b7ff.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 06:00 11/08 ⚽ Dep.Independiente Medellin vs Millonarios (BLV LOGAN)
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=167631706f551bb05af956558b9f8fb3&txTime=6a7aa2ef
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1786404599-0-0-e73a6a47b59ac6e09e88d7c7013d5df3
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/jFFbLhZg-8jUzGsE1.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 06:00 11/08/2026 ⚽ Diana Shnaider vs Iga Swiatek (Số 8) [PC] [hls]
+https://eqr2hdarxfliv.vcdn.cloud/1786347546_hd/1786347546_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/21275a59516956d98aedc00b97faadc4.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 09:00 11/08 🏀 Seattle Storm vs Chicago Sky (BLV POCARI) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/19919577.m3u8
