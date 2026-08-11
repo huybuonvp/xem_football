@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134017_4667714b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:00 11/08 ⚽ Dordoi Bishkek vs Wathba (Chuối Tiêu) [HD] [hls]
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134017_4667714b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:00 11/08 ⚽ Dordoi Bishkek vs Wathba (Chuối Tiêu) [HD1] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitieu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134017_4667714b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:00 11/08 ⚽ Dordoi Bishkek vs Wathba (Chuối Tiêu) [FHD] [hls]
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134017_4667714b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:00 11/08 ⚽ Dordoi Bishkek vs Wathba (Chuối Tiêu) [HD2] [flv]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitieuhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134017_4667714b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:00 11/08 ⚽ Dordoi Bishkek vs Wathba (Chuối Tiêu) [FHD1] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134017_4667714b.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 21:00 11/08 ⚽ Dordoi Bishkek vs Wathba (Chuối Tiêu) [FHD2] [flv]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131727_f566ad07.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 22:00 11/08 ⚽ Pakhtakor vs Al Hussein (Chuối Đá) [HD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoida/playlist.m3u8
@@ -59,13 +65,13 @@ https://hls.lauthaitv.cc/live/dordoi-wathbath-afc3/index.m3u8
 #EXTVLCOPT:http-referrer=https://s8tv.social/
 https://flv.lauthaitv.cc/live/dordoi-wathbath-afc3.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/fad93719a9098527b45af770f35af86e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 11/08 ⚽ FK Dordoi Bishkek vs Al Wathbah (BLV ĐỖ TÚ TÀI)
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1786460999-0-0-2dea798b0d39c234b04aaf3117e1305a
+https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1786461599-0-0-0b768cee90c01ce6ece4aff9259bf229
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/fad93719a9098527b45af770f35af86e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 11/08 ⚽ FK Dordoi Bishkek vs Al Wathbah (BLV RỒNG ĐẤT)
-https://pull.niues.live/live/stream-620649_lhd.m3u8?auth_key=1786460999-0-0-0a3913d4ec25a912289a293686c89b32
+https://pull.niues.live/live/stream-620649_lhd.m3u8?auth_key=1786461599-0-0-45b59808cae86273b26736270c8aadaf
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/fad93719a9098527b45af770f35af86e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 11/08 ⚽ FK Dordoi Bishkek vs Al Wathbah (BLV TUẤN CÙI)
-https://pull.niur.live/live/stream-400722_lhd.m3u8?txSecret=bb330bdc2e19f4d614925e16ca3fb487&txTime=6a7b8197
+https://pull.niur.live/live/stream-400722_lhd.m3u8?txSecret=90d36f2b752bf504a0f0061b0ed07e62&txTime=6a7b83ef
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/fad93719a9098527b45af770f35af86e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 11/08 ⚽ FK Dordoi Bishkek vs Al Wathbah (BLV CACAO)
-https://pull.niues.live/live/stream-620661_lhd.m3u8?auth_key=1786460999-0-0-6038024ff67c43a0127eca2b2f15868a
+https://pull.niues.live/live/stream-620661_lhd.m3u8?auth_key=1786461599-0-0-b673cc6022175c81d614b979220d72e4
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c58ee97599eea13286530be4b9b28b25.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 21:00 11/08 ⚽ FK Dordoi Bishkek vs Al Wathbah (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-d63e67de0a898b407544/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c58ee97599eea13286530be4b9b28b25.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 21:00 11/08 ⚽ FK Dordoi Bishkek vs Al Wathbah (Nhà Đài 2)
@@ -74,14 +80,24 @@ https://hls.streamhub.media/hls/thesport-api-d63e67de0a898b407544/master.m3u8
 https://hls.streamhub.media/hls/thesport-api-f7612f09210fe21597d6/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/40eb8c464e761c42042ff3dbca191687.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 21:00 11/08 ⚽ Huracan Women vs Social Atletico Television Women (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-f7612f09210fe21597d6/master.m3u8
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/31b9bf2317d85054cd48ea4d929282f2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:00 11/08 ⚽ FC Kairat Almaty vs Levski Sofia (BLV RICKHANTER)
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=5408be362a150fa577182f808196b573&txTime=6a7b83ef
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/31b9bf2317d85054cd48ea4d929282f2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:00 11/08 ⚽ FC Kairat Almaty vs Levski Sofia (BLV ZIDANE)
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=561b1a479b8ad563477d75e07af2e6ff&txTime=6a7b8197
+https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=159378420e03ee202921180aa7c3005c&txTime=6a7b83ef
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 12/08 ⚽ Fluminense vs Independ. Rivadavia (Trốc Tru) [HD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 12/08 ⚽ Fluminense vs Independ. Rivadavia (Trốc Tru) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/2430e514-a15f-47c4-ae3a-d33ccabeb055" group-title="S8TV" group-logo="https://s8tv.social/favicon.ico" , 22:00 11/08 ⚽ Pakhtakor vs Al-Hussein SC (BLV NGƯỜI THỎ) [hls]
+#EXTVLCOPT:http-referrer=https://s8tv.social/
+https://hls.lauthaitv.cc/live/pakhtakor-alhussein-afc1/index.m3u8
+#EXTINF:-1 tvg-logo="https://2ms8tv.top/wp-json/s8-image/2430e514-a15f-47c4-ae3a-d33ccabeb055" group-title="S8TV" group-logo="https://s8tv.social/favicon.ico" , 22:00 11/08 ⚽ Pakhtakor vs Al-Hussein SC (BLV NGƯỜI THỎ) [flv]
+#EXTVLCOPT:http-referrer=https://s8tv.social/
+https://flv.lauthaitv.cc/live/pakhtakor-alhussein-afc1.flv
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260808/69cf94b3e85614b0aa955ab9e1e72fc1.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 22:00 11/08 ⚽ Pakhtakor vs Al-Hussein SC (Irbid) (BLV KENCHU)
+https://pull.niues.live/live/stream-622602_lhd.m3u8?auth_key=1786461599-0-0-82379aef780c43c4d62348e4ac31e6ef
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_7826.jpg" group-title="PHAO HOA TV" group-logo="https://phaohoa1.live/favicon.ico" , 23:00 11/08 ⚽ Al Jazira vs Al Ittihad (BLV Ken) [hls]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
