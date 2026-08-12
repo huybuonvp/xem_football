@@ -135,6 +135,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8
 https://eqr2hdarxfliv.vcdn.cloud/1786502671_hd/1786502671_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/G8vkRYiWQAA2bky?format=png&name=small" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 15:00 12/08/2026 🎮 DNS vs NS (Số 12) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1786518118_hd/1786518118_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142148_996053df.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 22:00 12/08 ⚽ Arkadag vs Goa (Chuối Nhỏ) [HD] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142148_996053df.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 22:00 12/08 ⚽ Arkadag vs Goa (Chuối Nhỏ) [FHD] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/a5c12bcd51767b84b552ebec45d5ac7b.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 16:00 12/08/2026 🏀 Ilagan Isabela Cowboys vs Cebu Classic (Số 9) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1786517751_hd/1786517751_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130611_87bcfaa1.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:00 12/08 ⚽ FC Copenhagen vs Debreceni VSC (Trốc Tru) [HD] [hls]
@@ -149,12 +155,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitieu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134630_01c40440.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:00 12/08 ⚽ GKS Katowice vs Hapoel Tel Aviv (Chuối Tiêu) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitieuhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130455_c4d54ecf.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:00 12/08 ⚽ Rapid Vienna vs Paide (Chuối Nhỏ) [HD] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130455_c4d54ecf.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:00 12/08 ⚽ Rapid Vienna vs Paide (Chuối Nhỏ) [FHD] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/fHwB9qDa-8t1lfHSc.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 16:15 12/08/2026 🏀 Titan Ultra Giant Risers vs  San Miguel Beermen (Số 1) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1786517807_hd/1786517807_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_2cdfd5d4.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 23:15 12/08 ⚽ Newcastle vs Everton (Chuối Tây) [HD] [hls]
@@ -211,28 +211,20 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/irtysh-1946-omsk.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 20:00 12/08/2026 ⚽ Irtysh 1946 Omsk vs Saturn Moscow (Số 17) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1786517307_hd/1786517307_hd@720p.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/38203c8aee248f4d129501388efcaaa9.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 12/08 ⚽ Irtysh 1946 Omsk vs FC Saturn Ramenskoe (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/3ceaa6030a720ab469a62ea4cf2b917e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/38203c8aee248f4d129501388efcaaa9.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 12/08 ⚽ Irtysh 1946 Omsk vs FC Saturn Ramenskoe (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-ba6f9834c3e9939641e2/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/38203c8aee248f4d129501388efcaaa9.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 12/08 ⚽ Irtysh 1946 Omsk vs FC Saturn Ramenskoe (Nhà Đài 1)
-https://station1-global.ebaclofen.org/live/3ceaa6030a720ab469a62ea4cf2b917e/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/38203c8aee248f4d129501388efcaaa9.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:00 12/08 ⚽ Irtysh 1946 Omsk vs FC Saturn Ramenskoe (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-ba6f9834c3e9939641e2/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/east-bengal.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 20:30 12/08/2026 ⚽ East Bengal vs Al-Arabi Club (Số 19) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1786517631_hd/1786517631_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260809/e8f43efa7f71e16f47e7cb07a1c6e482.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:30 12/08 ⚽ East Bengal FC vs Al-Arabi Club (KUW) (BLV BLV GIÓ)
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=ba29a468a1e33989d4fff75a2e517281&txTime=6a7ce127
+https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=fde83aa0f900ef1ae70e562468e11767&txTime=6a7ce37f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260809/e8f43efa7f71e16f47e7cb07a1c6e482.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:30 12/08 ⚽ East Bengal FC vs Al-Arabi Club (KUW) (BLV BLV CUỘI)
-https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1786550999-0-0-8838dfb11ee4a9cd3884537c8fbea977
+https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1786551599-0-0-07521a46ae10068f7a11058296e3f209
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260809/e8f43efa7f71e16f47e7cb07a1c6e482.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:30 12/08 ⚽ East Bengal FC vs Al-Arabi Club (KUW) (BLV CR Bưởi)
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=ef36d08a1272b07f13696680ecf215cf&txTime=6a7ce127
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=a449baea049e01a6569938345dc27d98&txTime=6a7ce37f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260809/e8f43efa7f71e16f47e7cb07a1c6e482.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:30 12/08 ⚽ East Bengal FC vs Al-Arabi Club (KUW) (BLV CÔNG CHẤT)
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=99b9e810527446cefe52aba70d13acfe&txTime=6a7ce127
+https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=8de7816df8a13bd78915b2597b662564&txTime=6a7ce37f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260809/e8f43efa7f71e16f47e7cb07a1c6e482.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:30 12/08 ⚽ East Bengal FC vs Al-Arabi Club (KUW) (BLV RICKHANTER)
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=0d7a2b2f792c7397cddba75a44b6de05&txTime=6a7ce127
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=4f39b65674eb3cd49c6c9134017ae5da&txTime=6a7ce37f
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260809/e8f43efa7f71e16f47e7cb07a1c6e482.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 20:30 12/08 ⚽ East Bengal FC vs Al-Arabi Club (KUW) (BLV QUỐC KHÁNH)
-https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=b5eb73fe34de2eb70371358d22ce7561&txTime=6a7ce127
+https://pull.niur.live/live/stream-602153_lhd.m3u8?txSecret=19cc542206153d7f1e5f7da75af423fa&txTime=6a7ce37f
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/21649c3d173c8f4ec9d526432ad9f088.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:30 12/08 ⚽ East Bengal FC vs Al-Arabi Club (KUW) (Tào Duệ)
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/21649c3d173c8f4ec9d526432ad9f088.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 20:30 12/08 ⚽ East Bengal FC vs Al-Arabi Club (KUW) (Nhà Đài 1)
