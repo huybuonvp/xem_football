@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125618_6227fe0e.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 02:15 15/08 ⚽ Sporting CP vs Guimaraes (Chuối Tây) [HD] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125618_6227fe0e.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 02:15 15/08 ⚽ Sporting CP vs Guimaraes (Chuối Tây) [FHD] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144634_1bebd282.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 03:00 15/08 ⚽ Atlanta United II vs New York RB II (Trốc Tru) [HD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8
@@ -33,29 +27,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoidahd/playlist.m3u8
 https://hls.streamhub.media/hls/thesport-api-4add54aa18bd8f127009/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/c1c11396b56924708e6f5d48fd2277e7.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 01:45 15/08 ⚽ Galway United vs Bray Wanderers (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-4add54aa18bd8f127009/master.m3u8
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260812/ea2d14c7bafd10c222b3da09a48e8b53.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 15/08 ⚽ Fiorentina vs Benevento (BLV CACAO)
-https://pull.niues.live/live/stream-620661_lhd.m3u8?auth_key=1786745399-0-0-9c70f82604516c3dcd2631dcf0c5ae3b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260812/ea2d14c7bafd10c222b3da09a48e8b53.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 15/08 ⚽ Fiorentina vs Benevento (BLV BLV BẢY)
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1786745399-0-0-c7d6a96bc958c29df6a7b617b970657e
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260812/ea2d14c7bafd10c222b3da09a48e8b53.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 15/08 ⚽ Fiorentina vs Benevento (BLV BLV A WIN)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1786745399-0-0-2a38369cc86e340f9a42054f7fada316
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/858d87ded0cce014bae0c9681af48524.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:15 15/08 ⚽ Fiorentina vs Benevento (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-19dcdde01d40e9c5342a/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/858d87ded0cce014bae0c9681af48524.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:15 15/08 ⚽ Fiorentina vs Benevento (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-19dcdde01d40e9c5342a/master.m3u8
-#EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_177.jpg" group-title="PHAO HOA TV" group-logo="https://phaohoa1.live/favicon.ico" , 02:15 15/08 ⚽ Sporting CP vs Vitoria Guimaraes (BLV Kevin) [hls]
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260811/df9702dcc84e9164e528b650056c2d7d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 15/08 ⚽ Sporting CP vs Vitoria Guimaraes (BLV BLV FOX)
-https://pull.niur.live/live/stream-620003_lhd.m3u8?txSecret=8441fb813e372e46490c55945b37d99c&txTime=6a7fd887
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260811/df9702dcc84e9164e528b650056c2d7d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 15/08 ⚽ Sporting CP vs Vitoria Guimaraes (BLV GRAP)
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=1156c98902fdecc1d72b44455dcdc183&txTime=6a7fd887
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260811/df9702dcc84e9164e528b650056c2d7d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:15 15/08 ⚽ Sporting CP vs Vitoria Guimaraes (BLV TUẤN CÙI)
-https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1786745399-0-0-dbb4b42a231b61f6d70706513ef5d182
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6a5153c73922a32013b9bc6cfbc20b26.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:15 15/08 ⚽ Sporting CP vs Vitoria Guimaraes (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-0f2218eaff0039147e18/master.m3u8
-#EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/6a5153c73922a32013b9bc6cfbc20b26.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:15 15/08 ⚽ Sporting CP vs Vitoria Guimaraes (Nhà Đài 2)
-https://hls.streamhub.media/hls/thesport-api-0f2218eaff0039147e18/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a39906de688c95b955e905d7b44ccaa6.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:30 15/08 ⚽ UD Santarem vs Oliveirense (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-bbd28e05ee750355c542/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/a39906de688c95b955e905d7b44ccaa6.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 02:30 15/08 ⚽ UD Santarem vs Oliveirense (Nhà Đài 2)
@@ -75,6 +46,8 @@ https://hls.streamhub.media/hls/thesport-api-c5d71fbac3d9fdb95fb8/master.m3u8
 #EXTINF:-1 tvg-logo="https://global-cdn.cdnx.tech/football/team/8052a3f96ae76069389e32296e4607d9.png" group-title="Vua Sân Cỏ TV" group-logo="https://vsc9.top/favicon.ico" , 04:00 15/08 ⚽ AD Carmelita vs Futbol Consultants Moravia (Nhà Đài 2)
 https://hls.streamhub.media/hls/thesport-api-c5d71fbac3d9fdb95fb8/master.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260811/4fe3547dc3528958d29d45c9e4cb484a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:30 15/08 ⚽ Real Monarchs vs MINNESOTA United B (BLV BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5d8709ef45803df383eb221503db92c8&txTime=6a7fd887
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=778c0afe9693251d78406c55d773ec34&txTime=6a7fdadf
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260811/4fe3547dc3528958d29d45c9e4cb484a.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 04:30 15/08 ⚽ Real Monarchs vs MINNESOTA United B (BLV HÀ DUY KIÊN)
-https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=6c4284c2a47423ae3b41391fd5801717&txTime=6a7fd887
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=3edb140afb7746d6f726f2099cccd67c&txTime=6a7fdadf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260811/0fef5152d88a2d484cf01911084d8ad2.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 21:00 15/08 ⚽ Tottenham Hotspur vs TSG Hoffenheim (BLV TUẤN CÙI)
+https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1786745999-0-0-58334970d0a4f3726a066cb58018991c
