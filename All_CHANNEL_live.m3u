@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125540_d7642cc2.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:30 26/08 ⚽ Juventude vs CRB (Chuối Lá) [HD] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125540_d7642cc2.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:30 26/08 ⚽ Juventude vs CRB (Chuối Lá) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
@@ -26,19 +29,21 @@ https://live05.miekgo.app/live/87547578.m3u8
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/87547578.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/8479cc71e1e624c3c4962fb27b46546d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 26/08 ⚽ Atletico Clube Goianiense vs Botafogo SP (BLV BLV RAMBO)
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=5965ddd2d86482ffe8bc7d9f6ebb0a69&txTime=6a8e6719
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=8cac2bbed1f49ae4b80326643e27bdf2&txTime=6a8e6970
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/8479cc71e1e624c3c4962fb27b46546d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 26/08 ⚽ Atletico Clube Goianiense vs Botafogo SP (BLV HÀ DUY KIÊN)
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=2605da650b65326bbf406a2b2769916f&txTime=6a8e6970
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/8479cc71e1e624c3c4962fb27b46546d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 26/08 ⚽ Atletico Clube Goianiense vs Botafogo SP (BLV BLV YONE)
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787699401-0-0-ea939fe4b4a458de888bdd2e3f71a61f
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787700000-0-0-3f45434c6e060d24c9de81fd669345c1
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/8479cc71e1e624c3c4962fb27b46546d.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 26/08 ⚽ Atletico Clube Goianiense vs Botafogo SP (BLV BLV A TÚ)
-https://pull.niues.live/live/stream-9912120_lhd.m3u8?auth_key=1787699401-0-0-4aa981214b2a8c3896663371d0ee69a6
+https://pull.niues.live/live/stream-9912120_lhd.m3u8?auth_key=1787700000-0-0-7a095ac29cf4bca378c1320548db901c
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/a79576cbc187b88c4cec91517b664a70.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 26/08 ⚽ Esporte Clube Juventude vs CRB AL (BLV CHAN ĐÊ)
-https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787699401-0-0-af203864ea2e65355691b9bb9071bf03
+https://pull.niues.live/live/stream-621887_lhd.m3u8?auth_key=1787700001-0-0-52e17c1aaf9763345d4127a247a5a193
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/a79576cbc187b88c4cec91517b664a70.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 26/08 ⚽ Esporte Clube Juventude vs CRB AL (BLV PEANUT)
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787699401-0-0-94335d54b010c777d8a4464cc05458a3
+https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1787700000-0-0-7b1a1a44625e2f35d7a0e5058cf056b2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/a79576cbc187b88c4cec91517b664a70.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 26/08 ⚽ Esporte Clube Juventude vs CRB AL (BLV BLV CHIVAS)
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=6ae12870ce2d70e6025951c41e98ba80&txTime=6a8e6719
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=45e6d1e21dede45b1c723a48c1ec074b&txTime=6a8e6970
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/a79576cbc187b88c4cec91517b664a70.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:30 26/08 ⚽ Esporte Clube Juventude vs CRB AL (BLV CƠM NẾP)
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787699401-0-0-f57ac8234c883ceae6b6f4ca8ce2bd66
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787700000-0-0-9102875ec49ddaabdf7dc0cbb1b2845f
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/cb9797fa8614b9664231a4861ed71875.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:30 26/08 ⚽ Independiente del Valle vs Deportes Tolima (BLV MOUNTAIN DEW) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/87547578.m3u8
@@ -57,6 +62,9 @@ https://live05.miekgo.app/live/87379114.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 27/08 ⚽ Câu lạc bộ bóng đá Newcastle United vs West Bromwich (BLV Cozy) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/87379114.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/086fad2b496bcf474e2df4eed691c6b2.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:15 27/08 ⚽ CLB Aldosivi vs Independiente Rivadavia (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/086fad2b496bcf474e2df4eed691c6b2.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:15 27/08 ⚽ CLB Aldosivi vs Independiente Rivadavia (BLV MOUNTAIN DEW) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/87547578.m3u8
