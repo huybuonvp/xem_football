@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142846_1ef0d541.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 09:00 25/08 🏐 Thailand W vs Kazakhstan W (Chuối Tây) [HD] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142846_1ef0d541.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 09:00 25/08 🏐 Thailand W vs Kazakhstan W (Chuối Tây) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_b96e660a.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 13:00 25/08 🏐 Iran vs Iraq (Chuối Tây) [HD] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_b96e660a.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 13:00 25/08 🏐 Iran vs Iraq (Chuối Tây) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
@@ -18,7 +12,10 @@ https://eqr2hdarxfliv.vcdn.cloud/1787586243_hd/1787586243_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/jH8flBZA-UknO2XLh.png" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 09:00 25/08/2026 🏐 Thái Lan  vs Kazakhstan  (Sún) [PC] [hls]
 https://eqr2hdarxfliv.vcdn.cloud/1787586291_hd/1787586291_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/5dcf2049c97ac7d7a72f38908f7dce24.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 25/08 ⚽ Lobos Plateados vs Fuerza Regia (BLV HUNTER)
-https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=025edaada4db772e6a705d6d8516b46c&txTime=6a8d5e40
+https://pull.niur.live/live/stream-558264_lhd.m3u8?txSecret=623e9f202f8a9b843dc888e106702a93&txTime=6a8d6098
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 09:00 25/08 🏀 Los Angeles Sparks W vs Atlanta Dream W (BLV POCARI) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 09:00 25/08 🏀 Los Angeles Sparks W vs Atlanta Dream W (BLV POCARI) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/19919577.m3u8
@@ -26,11 +23,11 @@ https://live05.miekgo.app/live/19919577.m3u8
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/19919577.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/5e22eb9373c3c28c46eee2abc229de9e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 25/08 ⚽ Los Angeles Sparks W vs Atlanta Dream W (BLV BRIAN)
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787631600-0-0-515a36ca0774ad0f897afa7719961ae4
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1787632200-0-0-c854cdf608d46ac27390bfe6c18e7a52
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/5e22eb9373c3c28c46eee2abc229de9e.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 25/08 ⚽ Los Angeles Sparks W vs Atlanta Dream W (BLV CHAN SENA)
-https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787631600-0-0-28bf01516d899a0f72457bb8ea2f8748
+https://pull.niues.live/live/stream-9912115_lhd.m3u8?auth_key=1787632200-0-0-208fc42b393c40cfd5fc36ab2ee905a6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/fdefbdad7a101c825364a3531b4a68ad.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 25/08 ⚽ Santos vs Dorados (BLV A CHÈ)
-https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=2ca8fdd0a379c2d492fc678fd9eddbcf&txTime=6a8d5e40
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=aed74aee6ecbe79668e91325919d8feb&txTime=6a8d6098
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 09:00 25/08 ⚽ Tacoma Defiance vs Sporting Kansas City 2 (BLV Cozy) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/87379114.m3u8
@@ -41,31 +38,25 @@ https://live05.miekgo.app/live/87379114.m3u8
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/87379114.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260822/efda4c90af2b13966f3c570312069868.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 25/08 ⚽ Tacoma Defiance vs Sporting Kansas City Reserves (BLV BÁ PHÚ)
-https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1787631600-0-0-29682607d9be33915da790fc84382caf
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1787632200-0-0-e562e8c9142f18e9185e9771a28ab5e2
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260822/efda4c90af2b13966f3c570312069868.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 25/08 ⚽ Tacoma Defiance vs Sporting Kansas City Reserves (BLV THOMAS)
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=295fb02ce131599511f99cb38d7f325f&txTime=6a8d5e40
+https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=68c64f71fbd5b0bd47344f7daa80ad74&txTime=6a8d6098
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260822/efda4c90af2b13966f3c570312069868.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 25/08 ⚽ Tacoma Defiance vs Sporting Kansas City Reserves (BLV BLV TAP)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=fcc5251cc40d52695d71ca49128f7e45&txTime=6a8d5e40
+https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=292955d3cfcd51a16ea5028430ceab8e&txTime=6a8d6098
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260822/efda4c90af2b13966f3c570312069868.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 25/08 ⚽ Tacoma Defiance vs Sporting Kansas City Reserves (BLV BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787631600-0-0-0fe6924fa57fa3ebbdd0488c86cc0476
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787632200-0-0-f88e1c4ac8b796be9a798b39799b4609
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260822/efda4c90af2b13966f3c570312069868.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 25/08 ⚽ Tacoma Defiance vs Sporting Kansas City Reserves (BLV BLV ZOWIE)
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787631600-0-0-95037a822cb08202551ead2ca3d87c22
+https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1787632200-0-0-acddd088f29edcf833ab2b01924e27e3
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260822/efda4c90af2b13966f3c570312069868.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:00 25/08 ⚽ Tacoma Defiance vs Sporting Kansas City Reserves (BLV BLV Củ Cải)
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787631600-0-0-fa1203a0ffa91efa1928a9f225a63799
-#EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/OIP_Q9mUTFM.jpg" group-title="PHAO HOA TV" group-logo="https://phaohoa1.live/favicon.ico" , 09:00 25/08 🏐 Thái Lan vs Kazakhstan (BLV Chim Nhỏ) [hls]
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1787632200-0-0-4fed230c381641a3819a9d3acdd34f32
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/f3acc16a2c39f95f8f367087573b5d77.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 09:05 25/08 ⚽ Mineros vs Panteras (BLV BLV HENRY)
-https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787631600-0-0-ad423a83fa5a3d8f92eed9d36135210e
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1787632200-0-0-00de89c883167c0297e1e8241db4472f
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141412_24481446.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 16:30 25/08 ⚽ Lions vs North Sunshine Eagles (A Ngao) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133956_15774ffd.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 25/08 ⚽ FC Seoul vs Bucheon FC 1995 (Chuối To) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 25/08 🏐 Japan vs Vietnam W (Chuối Tây) [HD] [hls]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 17:30 25/08 🏐 Japan vs Vietnam W (Chuối Tây) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
