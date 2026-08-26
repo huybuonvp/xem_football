@@ -1,7 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_2cdfd5d4.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:45 27/08 ⚽ Newcastle vs West Brom (Trốc Tru) [HD] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_2cdfd5d4.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:45 27/08 ⚽ Newcastle vs West Brom (Trốc Tru) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125548_a24442be.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:45 27/08 ⚽ Tottenham vs Charlton (Chuối Nhỏ) [HD] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125548_a24442be.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 01:45 27/08 ⚽ Tottenham vs Charlton (Chuối Nhỏ) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
@@ -27,9 +33,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
 https://eqr2hdarxfliv.vcdn.cloud/1787752272_hd/1787752272_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649f785bd0a18824c53867bd056990e4.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:45 26/08 ⚽ Rapid Wien vs Hearts (BLV PEPSI) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/59444581.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649f785bd0a18824c53867bd056990e4.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:45 26/08 ⚽ Rapid Wien vs Hearts (BLV PEPSI) [hls]
-#EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/59444581.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/649f785bd0a18824c53867bd056990e4.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:45 26/08 ⚽ Rapid Wien vs Hearts (BLV PEPSI) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
@@ -38,55 +41,49 @@ https://live05.meung.app/live/59444581.flv
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/3e09cefc02977a9247a8de90439ea483.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 23:45 26/08 ⚽ SK Rapid Wien vs Heart of Midlothian F.C. (BLV LOKA)
-https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1787772601-0-0-4c4eb66df2e5bcc6aaca32922f733f35
+https://pull.niues.live/live/stream-589848_lhd.m3u8?auth_key=1787773201-0-0-51b5ad28bb15a84b56468636fb05ec55
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/3e09cefc02977a9247a8de90439ea483.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 23:45 26/08 ⚽ SK Rapid Wien vs Heart of Midlothian F.C. (BLV LÃO LÂM)
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787772601-0-0-c13077876a840a3401333bcfe627ef30
+https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1787773201-0-0-bf468e0932aab28d610e148bef42d016
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/3e09cefc02977a9247a8de90439ea483.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 23:45 26/08 ⚽ SK Rapid Wien vs Heart of Midlothian F.C. (BLV BLV A TÚ)
-https://pull.niues.live/live/stream-9912120_lhd.m3u8?auth_key=1787772601-0-0-e5dfa7e6caffff1cdd71399bc2fe2f59
+https://pull.niues.live/live/stream-9912120_lhd.m3u8?auth_key=1787773201-0-0-9a50b66fe43df6687456bbe958743da7
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/3e09cefc02977a9247a8de90439ea483.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 23:45 26/08 ⚽ SK Rapid Wien vs Heart of Midlothian F.C. (BLV BLV XO)
-https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=aa461bcfee46f3268191e40b988e041e&txTime=6a8f8509
+https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=0972e759517cd44c851edb667c6361d9&txTime=6a8f8761
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/3e09cefc02977a9247a8de90439ea483.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 23:45 26/08 ⚽ SK Rapid Wien vs Heart of Midlothian F.C. (BLV BLV LONG)
-https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=9cc49bd98d1bdbec9cc1638ae4c4b20e&txTime=6a8f8509
+https://pull.niur.live/live/stream-9912117_lhd.m3u8?txSecret=71f6f004b2dbb7c102e5372a36519d29&txTime=6a8f8761
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/3e09cefc02977a9247a8de90439ea483.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 23:45 26/08 ⚽ SK Rapid Wien vs Heart of Midlothian F.C. (BLV NGƯỜI CÁ)
-https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1787772601-0-0-ea6710908e3831b991d1a7a177c87cee
+https://pull.niues.live/live/stream-595335_lhd.m3u8?auth_key=1787773201-0-0-416131df04884e3ecfafa5bf9e60d95d
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/1f404a0ae87d7e2f4a74bddb7b04a5af.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:00 27/08 ⚽ Bank El Ahly vs Zamalek SC (BLV BLV CÁP)
-https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=8e70131371ba7a3c499bb17e6a4cb6e2&txTime=6a8f8509
+https://pull.niur.live/live/stream-610677_lhd.m3u8?txSecret=b628d1e9ac1ebc68cbaf82a6538c3245&txTime=6a8f8761
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9ebd79de8504a6573dce8c419ff16b10.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 00:00 27/08 ⚽ Eintracht Frankfurt Nữ vs Paris Saint Germain nữ (BLV BÍ ĐAO) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9ebd79de8504a6573dce8c419ff16b10.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 00:00 27/08 ⚽ Eintracht Frankfurt Nữ vs Paris Saint Germain nữ (BLV BÍ ĐAO) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/99121525.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/9ebd79de8504a6573dce8c419ff16b10.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 00:00 27/08 ⚽ Eintracht Frankfurt Nữ vs Paris Saint Germain nữ (BLV BÍ ĐAO) [flv]
-#EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/99121525.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/9449f91e55ac30e0057f10d0612618b0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:00 27/08 ⚽ Petrojet vs Tala'ea El Gaish (BLV TRÀ ĐÁ)
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787772601-0-0-cbb776225c7cb66e54bfbe08dac14e83
+https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1787773201-0-0-902fcc99d542e7537d62b463e959eccc
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/9449f91e55ac30e0057f10d0612618b0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 00:00 27/08 ⚽ Petrojet vs Tala'ea El Gaish (BLV VINFAST)
-https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787772601-0-0-be2fda9fc57d86d09d79fd0fd9e44b31
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1787773201-0-0-528e8ca03d886ee6d1618aee891cc1c4
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a0a227a6100628d3213e1fc321acd4f2.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:00 27/08 ⚽ Al Ahli SC vs Auckland FC (BLV  KHÔNG ĐỘ) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/41943555.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a0a227a6100628d3213e1fc321acd4f2.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:00 27/08 ⚽ Al Ahli SC vs Auckland FC (BLV  KHÔNG ĐỘ) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/41943555.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a0a227a6100628d3213e1fc321acd4f2.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:00 27/08 ⚽ Al Ahli SC vs Auckland FC (BLV  KHÔNG ĐỘ) [flv]
-#EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/41943555.flv
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_359.jpg" group-title="PHAO HOA TV" group-logo="https://phaohoa1.live/favicon.ico" , 01:00 27/08 ⚽ Al Ahli SC vs Auckland FC (BLV Tiểu Mây) [hls]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/2c30ba2a87b37994533e9e28789940af.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 27/08 ⚽ Al Ahli SC vs Auckland FC (BLV BLV WUKONG)
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787772601-0-0-612d1d811cf6f77bac953a873f0b4816
+https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1787773201-0-0-1f9128219adb366b738c8ec39f06f5a6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/2c30ba2a87b37994533e9e28789940af.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 27/08 ⚽ Al Ahli SC vs Auckland FC (BLV MP3)
-https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=5b429c5e44c787e3d88f7e003ce492cf&txTime=6a8f8509
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=ab811375d1fc5af8598aac913edb4135&txTime=6a8f8761
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/0867432a4d74ba88cb0d3556fefe1fff.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:00 27/08 ⚽ Al Diraiyah vs Al Kholood (BLV CURRY)
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787772601-0-0-3da322b26490ded86526fbe1078287fb
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787773201-0-0-b0d899abe618f9767a54f1372874af73
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 08:30 27/08 ⚽ Atletico Nacional vs Deportivo Cali (Chuối To) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/6b761ca6377657599b0e0634b9eebde8.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:45 27/08 ⚽ Bradford City vs Burnley (BLV BLV A WIN)
-https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787772601-0-0-e3381f04662faa647007ff8d6c0a2fce
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1787773201-0-0-b7f578c1e892d3787de005b336a08880
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:45 27/08 ⚽ Câu lạc bộ bóng đá Newcastle United vs West Bromwich (BLV Cozy) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/87379114.m3u8
@@ -115,18 +112,18 @@ https://live05.miekgo.app/live/97885009.m3u8
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/97885009.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/3a9fb750a2a405868ca3e948093e2451.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:45 27/08 ⚽ Newcastle United vs West Bromwich Albion (BLV BLV CÁO)
-https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1787772601-0-0-3ca1a892f5486f82fb3e98eb14a3c351
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1787773201-0-0-8952decad62f9ea92e8b127c9de4cf76
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/3a9fb750a2a405868ca3e948093e2451.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:45 27/08 ⚽ Newcastle United vs West Bromwich Albion (BLV KENCHU)
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787772601-0-0-9e186becb642bfc109aa667577d2467a
+https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1787773201-0-0-fb0872889c86b2ae8122b36aeffdc15f
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_3100.jpg" group-title="PHAO HOA TV" group-logo="https://phaohoa1.live/favicon.ico" , 01:45 27/08 ⚽ Newcastle vs West Brom (BLV Pháo Thủ) [hls]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/43c5c7083fb34e72ca9c3066477c0fdb.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:45 27/08 ⚽ Tottenham Hotspur vs Charlton Athletic (BLV A PÁO)
-https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787772601-0-0-559279829cf8799367f9ba74ec521124
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1787773201-0-0-b0ed1a3672e0d694acf4bab66e420cbe
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/43c5c7083fb34e72ca9c3066477c0fdb.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:45 27/08 ⚽ Tottenham Hotspur vs Charlton Athletic (BLV BLV FIREMAN)
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787772601-0-0-861cd0690f5c7b1b90a405fcb07d5805
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1787773201-0-0-c4f74be5840d298ac5470487fcd849c4
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/43c5c7083fb34e72ca9c3066477c0fdb.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 01:45 27/08 ⚽ Tottenham Hotspur vs Charlton Athletic (BLV BLV BẢY)
-https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787772601-0-0-763aace46ccc92eefe0363b8f47775a1
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1787773201-0-0-73861e0472a254a5d352396e13b74e9c
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_164_JyQ7jiO.jpg" group-title="PHAO HOA TV" group-logo="https://phaohoa1.live/favicon.ico" , 01:45 27/08 ⚽ Tottenham vs Charlton (BLV Tày) [hls]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
@@ -143,8 +140,10 @@ https://live05.miekgo.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/12dcc69bef67aa2a93107e940ee89144.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 02:00 27/08 ⚽ AEK Athens FC vs Levski (BLV BÍ ĐAO) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/99121525.flv
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/040df4bf16e605e6740704f76f942dfc.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ AEK Athens vs Levski Sofia (BLV RỒNG ĐẤT)
+https://pull.niues.live/live/stream-9912123_lhd.m3u8?auth_key=1787773201-0-0-7c005f8037c55912c7d6faa8d21aa764
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/040df4bf16e605e6740704f76f942dfc.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ AEK Athens vs Levski Sofia (BLV TUẤN CÙI)
-https://pull.niues.live/live/stream-9912125_lhd.m3u8?auth_key=1787772601-0-0-bc965cfe9e2369558273995798ba5a3c
+https://pull.niues.live/live/stream-9912125_lhd.m3u8?auth_key=1787773201-0-0-3a8e9aefa0514ef751c2601023baa6c0
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/a893553fb0ef04426d914ac3eb07433b.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 02:00 27/08 ⚽ Celje vs CLB Slovan Bratislava (BLV PEPSI) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/59444581.m3u8
@@ -172,12 +171,17 @@ https://live05.miekgo.app/live/75915087.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/dbad1348304545f3d121cfd3e59395ab.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 02:00 27/08 ⚽ CLB Preston North End vs Everton (BLV MONSTER) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/75915087.flv
+#EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_3815.jpg" group-title="PHAO HOA TV" group-logo="https://phaohoa1.live/favicon.ico" , 02:00 27/08 ⚽ Lyon vs Fenerbahce (BLV Kevin) [hls]
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/370ac29119c16780d30803e4a168b2a9.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ Lyon vs Fenerbahce (BLV BLV ROBBEN)
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787772601-0-0-139bd61cbabcbc3b952424ad8a51b3d8
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1787773201-0-0-b0f8b5d702238181a7c7fe689e6764ee
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/370ac29119c16780d30803e4a168b2a9.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ Lyon vs Fenerbahce (BLV BLV A TINH)
-https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=00f4e38acea9b11fdc5edf56273c7725&txTime=6a8f8509
+https://pull.niur.live/live/stream-598119_lhd.m3u8?txSecret=38ac29470d2980363bead2263b339a15&txTime=6a8f8761
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/370ac29119c16780d30803e4a168b2a9.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ Lyon vs Fenerbahce (BLV CHÍ PHÈO)
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1787773201-0-0-d8b3eae5da87e45bc300790734fd1560
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/fcb5d74a873c0ffa76dd82476decfbd0.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ NK Publikum Celje vs Slovan Bratislava (BLV BOSS)
-https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=8ab92179ac084468e52e501baaa3fa57&txTime=6a8f7cc1
+https://pull.niur.live/live/stream-620504_lhd.m3u8?txSecret=b758b1ae75e6209f35983c659e5306d4&txTime=6a8f8761
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/92fb3cf79ea2ba919b94b04668e13491.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 02:00 27/08 ⚽ Olympique Lyonnais vs Fenerbahce (BLV POCARI) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/19919577.m3u8
@@ -188,7 +192,9 @@ https://live05.miekgo.app/live/19919577.m3u8
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/19919577.flv
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/d6d4b6583d9aa9a237242e330002205b.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ Preston North End vs Everton (BLV GRAP)
-https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=fbb9002595699968c0825a7b2fae4267&txTime=6a8f850a
+https://pull.niur.live/live/stream-622093_lhd.m3u8?txSecret=22891e65b8b4be6787c5616e2a6b4399&txTime=6a8f8761
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/d6d4b6583d9aa9a237242e330002205b.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ Preston North End vs Everton (BLV BÒ TƯƠI)
+https://pull.niues.live/live/stream-620797_lhd.m3u8?auth_key=1787773201-0-0-903f4638e705020eabda83a36b0b2664
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7dacaa934fe4be00f23c1e209b5ef947.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 02:00 27/08 ⚽ Real Madrid CF vs Real Sociedad (BLV REVIVE) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/33982309.m3u8
@@ -204,25 +210,27 @@ https://live05.meung.app/live/02456966.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7dacaa934fe4be00f23c1e209b5ef947.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 02:00 27/08 ⚽ Real Madrid CF vs Real Sociedad (BLV SODA) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/02456966.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/7dacaa934fe4be00f23c1e209b5ef947.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 02:00 27/08 ⚽ Real Madrid CF vs Real Sociedad (BLV SODA) [flv]
-#EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/02456966.flv
 #EXTINF:-1 tvg-logo="https://phaohoa1.live/media/teams/logos/team_76.jpg" group-title="PHAO HOA TV" group-logo="https://phaohoa1.live/favicon.ico" , 02:00 27/08 ⚽ Real Madrid vs Real Sociedad (BLV Người Lửa) [hls]
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/fb0a2cbc629be7390f6036871a6b0443.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ Real Madrid vs Real Sociedad (BLV BLV PEWPEW)
+https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1787773201-0-0-15d3483735464832eb77983d26451ab6
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/fb0a2cbc629be7390f6036871a6b0443.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ Real Madrid vs Real Sociedad (BLV BLV MESSI)
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787772601-0-0-4d35975a2b91333d4ba12326c867936c
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1787773201-0-0-b301fe290f7c5a38cb16c559bf548daf
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/fb0a2cbc629be7390f6036871a6b0443.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ Real Madrid vs Real Sociedad (BLV A BỆU)
+https://pull.niur.live/live/stream-484845_lhd.m3u8?txSecret=d1a25888e973727636285c56482298ea&txTime=6a8f8761
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/fb0a2cbc629be7390f6036871a6b0443.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ Real Madrid vs Real Sociedad (BLV BLV BÉO)
-https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=d073ae45f432af34cbd597081350e134&txTime=6a8f8509
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2fa0840e0cb77fd66f104fa932302a72.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 02:00 27/08 ⚽ Viking FK vs Câu lạc bộ bóng đá Dinamo Zagreb (BLV SAMURAI) [hls]
-#EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/07808742.m3u8
+https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=6e313148f7b429c6e6e389dce00a1829&txTime=6a8f8761
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2fa0840e0cb77fd66f104fa932302a72.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 02:00 27/08 ⚽ Viking FK vs Câu lạc bộ bóng đá Dinamo Zagreb (BLV SAMURAI) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/07808742.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2fa0840e0cb77fd66f104fa932302a72.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 02:00 27/08 ⚽ Viking FK vs Câu lạc bộ bóng đá Dinamo Zagreb (BLV SAMURAI) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/07808742.flv
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/068edfc7451b3f5db82498ba82d2da67.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ Viking vs Dinamo Zagreb (BLV SEVEN)
+https://pull.niur.live/live/stream-9912126_lhd.m3u8?txSecret=aa48441a1ba9bb0e2e197278ca927cfe&txTime=6a8f8761
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260823/068edfc7451b3f5db82498ba82d2da67.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 02:00 27/08 ⚽ Viking vs Dinamo Zagreb (BLV CACAO)
+https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1787773201-0-0-d5eff8a431e6998091c3216d225249d3
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1cd42bcb186830f2cffdeef6df5fd2b0.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 04:00 27/08 ⚽ CLB Boyaca Chico vs Fortaleza CEIF (BLV  KHÔNG ĐỘ) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/41943555.m3u8
@@ -232,6 +240,8 @@ https://live05.miekgo.app/live/41943555.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1cd42bcb186830f2cffdeef6df5fd2b0.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 04:00 27/08 ⚽ CLB Boyaca Chico vs Fortaleza CEIF (BLV  KHÔNG ĐỘ) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/41943555.flv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_R9MdpJJiaDAfWHNM0qimH1e3j11PiA3nQ73lhHwVQ&s=10" group-title="Giờ Vàng TV" group-logo="https://live-api.keonhacaitp.one/favicon.ico" , 05:00 27/08/2026 🎮 Dương Quốc Hoàng  vs Andri Januarta (Mason) [PC] [hls]
+https://eqr2hdarxfliv.vcdn.cloud/1787761649_hd/1787761649_hd@720p.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:30 27/08 ⚽ Palmeiras vs CLB Santos (BLV WARRIOR) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/97885009.m3u8
@@ -324,9 +334,6 @@ https://live05.miekgo.app/live/49572724.m3u8
 https://live05.meung.app/live/49572724.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f46fa570a21dc0f62e327d211a98ebaa.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 00:00 28/08 ⚽ Lillestrom vs Egnatia (BLV WARRIOR) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/97885009.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f46fa570a21dc0f62e327d211a98ebaa.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 00:00 28/08 ⚽ Lillestrom vs Egnatia (BLV WARRIOR) [hls]
-#EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/97885009.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/f46fa570a21dc0f62e327d211a98ebaa.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 00:00 28/08 ⚽ Lillestrom vs Egnatia (BLV WARRIOR) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
@@ -382,9 +389,6 @@ https://live05.meung.app/live/87379114.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/cc88501884467ebc8dae1bb1d67ffe52.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:30 28/08 🏀 Pháp vs Slovenia (BLV Cozy) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/87379114.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/cc88501884467ebc8dae1bb1d67ffe52.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 01:30 28/08 🏀 Pháp vs Slovenia (BLV Cozy) [flv]
-#EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/87379114.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 02:00 28/08 ⚽ Câu lạc bộ bóng đá Fulham vs CLB AFC Wimbledon (BLV STING) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/14707124.m3u8
@@ -436,12 +440,6 @@ https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:00 28/08 🏀 New York Liberty vs Golden State Valkyries (BLV POCARI) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/19919577.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 07:00 28/08 🏀 New York Liberty vs Golden State Valkyries (BLV POCARI) [flv]
-#EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/19919577.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2c9efa7a61b37c74ca94129850f4d5a6.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 09:30 28/08 ⚽ CLB Deportivo Mixco vs Alianza FC (BLV SODA) [hls]
-#EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/02456966.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/2c9efa7a61b37c74ca94129850f4d5a6.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 09:30 28/08 ⚽ CLB Deportivo Mixco vs Alianza FC (BLV SODA) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/02456966.m3u8
@@ -450,16 +448,10 @@ https://live05.miekgo.app/live/02456966.m3u8
 https://live05.meung.app/live/02456966.flv
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b16d13189a2156cb6809c04f3feaf66e.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:30 28/08 ⚽ Ansan Greeners vs CLB Daegu (BLV  KHÔNG ĐỘ) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/41943555.m3u8
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b16d13189a2156cb6809c04f3feaf66e.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:30 28/08 ⚽ Ansan Greeners vs CLB Daegu (BLV  KHÔNG ĐỘ) [hls]
-#EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/41943555.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b16d13189a2156cb6809c04f3feaf66e.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:30 28/08 ⚽ Ansan Greeners vs CLB Daegu (BLV  KHÔNG ĐỘ) [flv]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.meung.app/live/41943555.flv
-#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3f4d8a34d2f0b65f0715dc09fd8a9d1b.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:30 28/08 ⚽ Jeonnam Dragons vs Cheonan City (BLV SAMURAI) [hls]
-#EXTVLCOPT:http-referrer=https://colatv.org/
-https://live05.meung.app/live/07808742.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/3f4d8a34d2f0b65f0715dc09fd8a9d1b.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:30 28/08 ⚽ Jeonnam Dragons vs Cheonan City (BLV SAMURAI) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/07808742.m3u8
@@ -481,21 +473,57 @@ https://live05.meung.app/live/33982309.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 18:35 28/08 ⚽ Shanghai Shenhua vs Shandong Taishan (BLV REVIVE) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 18:35 28/08 ⚽ Shanghai Shenhua vs Shandong Taishan (BLV REVIVE) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/33982309.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b982f4d4215ea40ad21d589498140a56.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 28/08 ⚽ Shenzhen Peng City vs Shanghai Port (BLV REDBULL) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/49572724.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b982f4d4215ea40ad21d589498140a56.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 28/08 ⚽ Shenzhen Peng City vs Shanghai Port (BLV REDBULL) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/49572724.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/b982f4d4215ea40ad21d589498140a56.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:00 28/08 ⚽ Shenzhen Peng City vs Shanghai Port (BLV REDBULL) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/49572724.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/36de6e50c9a54ca558d69ae01ded3ac8.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:30 28/08 🏀 Hanoi buffalo vs Sài Gòn Heat (BLV POCARI) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/basketball/team/36de6e50c9a54ca558d69ae01ded3ac8.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 19:30 28/08 🏀 Hanoi buffalo vs Sài Gòn Heat (BLV POCARI) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/19919577.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4e7cc12589531b2559e0f7c5632a38db.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:00 28/08 ⚽ CLB Terengganu vs Selangor (BLV BÍ ĐAO) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/99121525.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4e7cc12589531b2559e0f7c5632a38db.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:00 28/08 ⚽ CLB Terengganu vs Selangor (BLV BÍ ĐAO) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/99121525.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/4e7cc12589531b2559e0f7c5632a38db.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:00 28/08 ⚽ CLB Terengganu vs Selangor (BLV BÍ ĐAO) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/99121525.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1bd9415259f9b04af4c6164660af9a48.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 21:00 28/08 ⚽ Enppi vs CLB Wadi Degla (BLV SODA) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/02456966.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1bd9415259f9b04af4c6164660af9a48.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 21:00 28/08 ⚽ Enppi vs CLB Wadi Degla (BLV SODA) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/02456966.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/1bd9415259f9b04af4c6164660af9a48.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 21:00 28/08 ⚽ Enppi vs CLB Wadi Degla (BLV SODA) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/02456966.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/aa2d8e24a68822387257f31d692c4297.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 22:50 28/08 ⚽ Al-Riyadh vs NEOM Sports Club (BLV REVIVE) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/33982309.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/aa2d8e24a68822387257f31d692c4297.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 22:50 28/08 ⚽ Al-Riyadh vs NEOM Sports Club (BLV REVIVE) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/33982309.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/aa2d8e24a68822387257f31d692c4297.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 22:50 28/08 ⚽ Al-Riyadh vs NEOM Sports Club (BLV REVIVE) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/33982309.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 28/08 ⚽ VfL Bochum vs VfL Osnabruck (BLV BÍ ĐAO) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/99121525.m3u8
 #EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 28/08 ⚽ VfL Bochum vs VfL Osnabruck (BLV BÍ ĐAO) [hls]
 #EXTVLCOPT:http-referrer=https://colatv.org/
 https://live05.miekgo.app/live/99121525.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/51e1cbc15a7ae90e176b1c1dfb096928.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 23:30 28/08 ⚽ VfL Bochum vs VfL Osnabruck (BLV BÍ ĐAO) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/99121525.flv
