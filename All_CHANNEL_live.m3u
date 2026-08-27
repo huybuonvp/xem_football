@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132722_be95865f.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 28/08 ⚽ Estudiantes L.P. vs Barracas Central (Chuối Nhỏ) [HD] [hls]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132722_be95865f.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 05:00 28/08 ⚽ Estudiantes L.P. vs Barracas Central (Chuối Nhỏ) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
@@ -8,7 +11,55 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130205_1609fd35.png" group-title="Chuối Chiên TV" group-logo="https://live38.chuoichientv.com/images/logo/logo.png" , 09:30 28/08 ⚽ Mixco vs Alianza FC (Chuối Lá) [FHD] [hls]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:00 28/08 ⚽ CLB Estudiantes La Plata vs Barracas Central (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:00 28/08 ⚽ CLB Estudiantes La Plata vs Barracas Central (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:00 28/08 ⚽ CLB Estudiantes La Plata vs Barracas Central (BLV MOUNTAIN DEW) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260825/4d20ab5480fa07bccbe6e3196b080042.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 28/08 ⚽ Estudiantes La Plata vs CA Barracas Central (BLV BLV YONE)
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1787870401-0-0-5c5af2da678a415c7fabeb8044030b8a
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260825/4d20ab5480fa07bccbe6e3196b080042.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 28/08 ⚽ Estudiantes La Plata vs CA Barracas Central (BLV CURRY)
-https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787869801-0-0-80347c9c7fb87d99eb6e9187940b4c48
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1787870401-0-0-96928149be460127e8d8841b417f5d84
 #EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260825/4d20ab5480fa07bccbe6e3196b080042.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 28/08 ⚽ Estudiantes La Plata vs CA Barracas Central (BLV CƠM NẾP)
-https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787869801-0-0-c9aacbe9d710af1f39951e5dfffd06d0
+https://pull.niues.live/live/stream-618950_lhd.m3u8?auth_key=1787870401-0-0-7800bb546c1514beaa00e10900383b4e
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260825/4d20ab5480fa07bccbe6e3196b080042.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 28/08 ⚽ Estudiantes La Plata vs CA Barracas Central (BLV BLV RAMBO)
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=d8fe77c248fb2090ab3b0dcbe614f88b&txTime=6a910311
+#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/common/20260825/4d20ab5480fa07bccbe6e3196b080042.png" group-title="SOCO SPORT" group-logo="https://tructiepbongda.com/favicon.ico" , 05:00 28/08 ⚽ Estudiantes La Plata vs CA Barracas Central (BLV HÀ DUY KIÊN)
+https://pull.niur.live/live/stream-607400_lhd.m3u8?txSecret=a09d9bd1c813252c76ff177c8fc0fcf2&txTime=6a910311
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:00 29/08 ⚽ Union de Santa Fe vs Sarmiento Junin (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:00 29/08 ⚽ Union de Santa Fe vs Sarmiento Junin (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 05:00 29/08 ⚽ Union de Santa Fe vs Sarmiento Junin (BLV MOUNTAIN DEW) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 08:00 29/08 ⚽ CLB Atlante vs Club Leon (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 08:00 29/08 ⚽ CLB Atlante vs Club Leon (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:30 29/08 ⚽ Bucheon FC 1995 vs FC Anyang (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:30 29/08 ⚽ Bucheon FC 1995 vs FC Anyang (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 17:30 29/08 ⚽ Bucheon FC 1995 vs FC Anyang (BLV MOUNTAIN DEW) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.flv
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/45ab4c846b0d4df5b002c571b16112dc.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:30 29/08 ⚽ 1. FC Union Berlin vs Eintracht Frankfurt (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/45ab4c846b0d4df5b002c571b16112dc.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:30 29/08 ⚽ 1. FC Union Berlin vs Eintracht Frankfurt (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:-1 tvg-logo="https://img.gvapi.cc/football/team/45ab4c846b0d4df5b002c571b16112dc.png!w80" group-title="CO LA TV" group-logo="https://api.cltvlv.com/favicon.ico" , 20:30 29/08 ⚽ 1. FC Union Berlin vs Eintracht Frankfurt (BLV MOUNTAIN DEW) [flv]
+#EXTVLCOPT:http-referrer=https://colatv.org/
+https://live05.meung.app/live/87547578.flv
